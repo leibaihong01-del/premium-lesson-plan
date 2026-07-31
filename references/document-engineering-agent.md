@@ -26,3 +26,10 @@ generate → check → score ≥95 ? break : analyze_error + repair。
 ## 六、可执行项目
 
 `课程材料优化/CourseAgent`：main.py、agents/、modules/、config/agent_rules.yaml、memory/、input/output/reports。
+
+## 七、运行时优化与自主迭代
+
+1. 缓存：模板结构与评分结果按“文件哈希+模板哈希”缓存，未变化且上次 PASS 的文件直接复用，跳过重复检测。
+2. 修复动作记忆：repair_actions.json 记录修复动作与次数。
+3. 自主迭代：Learner 写入成功/失败/改进建议，同一建议出现≥2次自动沉淀为规则。
+4. 质量底线：文件或模板变化必须重新检测；低于95分禁止输出最终版。
