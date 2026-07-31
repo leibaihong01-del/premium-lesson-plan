@@ -82,6 +82,9 @@ description: Generate and audit high-quality vocational course materials (.docx)
 - [references/curriculum-standard-rules.md](references/curriculum-standard-rules.md)：课程标准结构、封面、表格与内容一致性规则。
 - [references/progress-plan-rules.md](references/progress-plan-rules.md)：教学进度计划表头、表格与学时规则。
 - [references/cover-rules.md](references/cover-rules.md)：教案封面与页眉页脚图片保留规则。
+- [references/layout-rules.md](references/layout-rules.md)：课程文档通用排版优化规则（表格、页面、文字、视觉检查）。
+- [references/experience-rules.md](references/experience-rules.md)：持续优化与经验迭代机制、版本管理与沉淀规则。
+- [references/professional-basic-course-rules.md](references/professional-basic-course-rules.md)：专业基础课程通用规则模板（课程定位、内容深度、项目、实训、思政、衔接）。
 - [references/mapping-workflow.md](references/mapping-workflow.md)：课标→项目→任务→进度→教案映射方法与检查项。
 - [references/mapping-table-rules.md](references/mapping-table-rules.md)：批量生成映射表 .xlsx 的结构与检查逻辑。
 - [references/quality-audit.md](references/quality-audit.md)：修改回查、格式/内容/思政/分页审核、PDF-PNG 视觉检查与运行日志。
