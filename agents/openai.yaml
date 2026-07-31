@@ -1,0 +1,4 @@
+interface:
+  display_name: "精品课程材料生成"
+  short_description: "按模板生成与审核课程标准、教学进度计划、教案封面、教案与实训教案"
+  default_prompt: "使用 \\-name 按模板与课程标准生成课程材料，并输出质量审核报告。"
