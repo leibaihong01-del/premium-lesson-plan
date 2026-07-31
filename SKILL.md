@@ -104,3 +104,4 @@ description: Generate and audit high-quality vocational course materials (.docx)
 - [references/document-engineering-agent.md](references/document-engineering-agent.md)：Smart Course Document Agent 多智能体分工、质量评分、自动循环与企业级输出。
 - [references/adaptive-decision-engine.md](references/adaptive-decision-engine.md)：自适应决策与算力调度：三级判断、复杂度分档、决策缓存、渐进升级。
 - [references/excellent-teacher-agent-core.md](references/excellent-teacher-agent-core.md)：优秀高职教师智能体核心底座：总控、需求转译、记忆、自我进化。
+- [references/teacher-digital-twin-architecture.md](references/teacher-digital-twin-architecture.md)：教师数字孪生总体架构、Skill六件套、数据结构与路线图。
