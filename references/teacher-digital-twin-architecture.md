@@ -15,3 +15,5 @@ Teacher Core Brain（总控）→ Skill Manager → 教学/科研/竞赛/成果/
 ## 四、实现状态
 
 Skill六件套抽象已落地（core/skill.py 注册表 + tools/skill_demo.py）：竞赛/分析/教案Skill 已注册并冒烟通过，评价器可自动发现结构缺口并触发进化记录。
+
+skill_factory 默认注册7个能力单元（教学资源/文件/分析/竞赛/科研/成果/知识），skill_audit 审计通过；Skill注册表为应用内能力清单，与Windows注册表无关。
