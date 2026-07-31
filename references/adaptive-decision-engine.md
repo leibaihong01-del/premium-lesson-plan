@@ -25,3 +25,10 @@
 ## 六、落地模块
 
 CourseAgent：router_agent.py、fast_classifier.py、decision_cache.py、escalation.py、task_patterns.json、compute_history.json、decision_rules.json。
+
+## 七、执行档位
+
+- 低：缓存命中或简单校验，跳过重复检测；
+- 标准：四维评分 + 缓存复用；
+- 高：四维评分 + PDF视觉检查 + 多轮修复；
+- 强制档位优先于历史升降级；置信度<90%启用轻量判断器。
