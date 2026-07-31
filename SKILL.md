@@ -33,6 +33,7 @@ description: Generate and audit high-quality vocational course materials (.docx)
 3. **教学重构**：按 90 分钟闭环与岗位能力重构教学过程，融入任务驱动、岗位情境、实践环节、过程评价与课程思政；禁止直接复制原教案。
 4. **格式生成**：复制对应模板文件，run 级填充内容，执行颜色、字体、表格、行高与分页规则。
 5. **质量审核**：执行修改回查、内容/格式/身份/逻辑/视觉检查、Word 转 PDF、逐页 PNG 检查，输出审核报告与运行日志。身份审核检查课程名称、编码、专业、学时、章节等模板残留，防止跨课程信息污染。详见 [references/quality-audit.md](references/quality-audit.md) 与 [references/sample-file-rules.md](references/sample-file-rules.md)。
+6. **闭环检查**：阶段收尾执行《课程建设完整性检查规则》：按总学时与理论/实践比例核对理论教案、实训教案、实训任务书、评价标准、课件、题库等；存在未完成项时只输出“阶段完成”。多源资料冲突进入 question-log 并提交用户确认；全过程保持“目标—依据—过程—结果”一致。详见 [references/course-completeness-check.md](references/course-completeness-check.md)、[references/multi-source-consistency.md](references/multi-source-consistency.md)、[references/full-process-consistency.md](references/full-process-consistency.md)。
 
 ## 输出
 
@@ -96,3 +97,7 @@ description: Generate and audit high-quality vocational course materials (.docx)
 - [references/agent-project-manager-mode.md](references/agent-project-manager-mode.md)：AI 项目经理模式、任务分层、知识库四层结构与智能审核闭环。
 - [references/green-ai-rules.md](references/green-ai-rules.md)：绿色计算、分层读取、先索引后读取、任务资源评估与增量修改。
 - [references/codex-running-protocol-v1.md](references/codex-running-protocol-v1.md)：Codex 运行协议 Step 0-3、主动纠错、持续上下文调用与人机协同。
+- [references/course-completeness-check.md](references/course-completeness-check.md)：课程建设完整性检查矩阵与最终完成判定。
+- [references/multi-source-consistency.md](references/multi-source-consistency.md)：多源资料一致性分析、疑问池与人工决策。
+- [references/full-process-consistency.md](references/full-process-consistency.md)：全过程一致性追踪、目标基线、决策日志与证据链。
+- [references/output-management-and-iteration.md](references/output-management-and-iteration.md)：输出文件归档、自动质量检测、模板符合度报告与Agent自我迭代日志。
