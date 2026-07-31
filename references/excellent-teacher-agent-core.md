@@ -26,6 +26,8 @@
 
 用户理解与自检：user_model（从任务与反馈沉淀偏好）、tools/agent_selfcheck.py（Agent成长报告：能力状态、记忆统计、成长评分）。
 
+总控能力调度与升级审核：Orchestrator.run_capability 调度竞赛/教研/成果生成并做满意度预测；tools/upgrade_review.py 汇总 L2/L3 待审核规则。
+
 ## 五、设计文档
 
 `课程材料优化/CourseAgent/docs/`：01_现状分析与复用评估、02_系统架构设计V1.0、03_开发路线图V1.0。
