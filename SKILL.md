@@ -101,3 +101,4 @@ description: Generate and audit high-quality vocational course materials (.docx)
 - [references/multi-source-consistency.md](references/multi-source-consistency.md)：多源资料一致性分析、疑问池与人工决策。
 - [references/full-process-consistency.md](references/full-process-consistency.md)：全过程一致性追踪、目标基线、决策日志与证据链。
 - [references/output-management-and-iteration.md](references/output-management-and-iteration.md)：输出文件归档、自动质量检测、模板符合度报告与Agent自我迭代日志。
+- [references/document-engineering-agent.md](references/document-engineering-agent.md)：Smart Course Document Agent 多智能体分工、质量评分、自动循环与企业级输出。
