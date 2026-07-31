@@ -27,11 +27,12 @@ description: Generate and audit high-quality vocational course materials (.docx)
 
 ## 处理流程
 
+0. **任务资源评估**：任务开始先输出【任务资源评估】（当前任务、已有知识、需要读取、预计新增计算、是否可复用、优化方案），按“已有知识 > 知识摘要 > 索引定位 > 原始文件”规划读取。详见 [references/green-ai-rules.md](references/green-ai-rules.md)。
 1. **模板解析**：读取目标材料对应模板的页面、字体、颜色、标题、表格、分页规则。
 2. **内容映射**：建立课程标准 → 教学项目 → 教学任务 → 教学进度 → 教案的对应关系，检查缺失、重复与不一致。详见 [references/mapping-workflow.md](references/mapping-workflow.md)。
 3. **教学重构**：按 90 分钟闭环与岗位能力重构教学过程，融入任务驱动、岗位情境、实践环节、过程评价与课程思政；禁止直接复制原教案。
 4. **格式生成**：复制对应模板文件，run 级填充内容，执行颜色、字体、表格、行高与分页规则。
-5. **质量审核**：执行修改回查、结构/颜色/思政/分页检查、Word 转 PDF、逐页 PNG 检查，输出审核报告与运行日志。详见 [references/quality-audit.md](references/quality-audit.md)。
+5. **质量审核**：执行修改回查、内容/格式/身份/逻辑/视觉检查、Word 转 PDF、逐页 PNG 检查，输出审核报告与运行日志。身份审核检查课程名称、编码、专业、学时、章节等模板残留，防止跨课程信息污染。详见 [references/quality-audit.md](references/quality-audit.md) 与 [references/sample-file-rules.md](references/sample-file-rules.md)。
 
 ## 输出
 
@@ -47,6 +48,7 @@ description: Generate and audit high-quality vocational course materials (.docx)
 - 思政融入行红色、随堂练习蓝色、任务/知识点与阶段标签紫色、正文深灰。
 - 90 分钟链：2+3+7+5+48+20+3+2；教学做一体任务合计 48 分钟。
 - 每批生成后执行分页测量与空白尾页检查，单文件独立 Word 转换并记录日志。
+- 样板文件具有模板基准、课程实例、质量验证三重属性：模板基准禁止修改，课程实例必须正确；生成后执行身份一致性检查，模板残留信息自动修正。
 
 ## 脚本工具
 
@@ -90,3 +92,7 @@ description: Generate and audit high-quality vocational course materials (.docx)
 - [references/mapping-table-rules.md](references/mapping-table-rules.md)：批量生成映射表 .xlsx 的结构与检查逻辑。
 - [references/quality-audit.md](references/quality-audit.md)：修改回查、格式/内容/思政/分页审核、PDF-PNG 视觉检查与运行日志。
 - [references/iterations.md](references/iterations.md)：迭代学习日志，记录每次任务沉淀的规则。
+- [references/sample-file-rules.md](references/sample-file-rules.md)：样板文件生命周期、三重属性、修改权限分类与身份一致性检查。
+- [references/agent-project-manager-mode.md](references/agent-project-manager-mode.md)：AI 项目经理模式、任务分层、知识库四层结构与智能审核闭环。
+- [references/green-ai-rules.md](references/green-ai-rules.md)：绿色计算、分层读取、先索引后读取、任务资源评估与增量修改。
+- [references/codex-running-protocol-v1.md](references/codex-running-protocol-v1.md)：Codex 运行协议 Step 0-3、主动纠错、持续上下文调用与人机协同。
