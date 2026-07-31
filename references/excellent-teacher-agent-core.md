@@ -20,6 +20,8 @@
 
 配套模块：problem_solver（候选方案择优与验证）、intent_alignment（满意度预测）、knowledge_update（来源登记、导入、影响分析、规则建议）。
 
+精品课程建设专家：excellence_engine 五维诊断（教学逻辑/内容体系/职业特色/创新设计/评价体系），输出课程等级与提升建议。
+
 ## 五、设计文档
 
 `课程材料优化/CourseAgent/docs/`：01_现状分析与复用评估、02_系统架构设计V1.0、03_开发路线图V1.0。
