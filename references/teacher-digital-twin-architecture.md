@@ -18,6 +18,6 @@ Skill六件套抽象已落地（core/skill.py 注册表 + tools/skill_demo.py）
 
 skill_factory 默认注册7个能力单元（教学资源/文件/分析/竞赛/科研/成果/知识），skill_audit 审计通过；Skill注册表为应用内能力清单，与Windows注册表无关。
 
-可控升级：L1自动沉淀、L2由 upgrade_verify.py 按证据自动验证、L3由 upgrade_review.py 汇总人工审核。
+可控升级：L1自动沉淀、L2由 upgrade_verify.py 按证据自动验证、L3由 upgrade_approve.py 人工审批，三级闭环已验证。
 
 知识更新与用户模型：knowledge_monitor.py（联网监测，离线自动降级）+ user_profile_report.py（用户画像）；两者均已冒烟通过。
