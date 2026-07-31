@@ -48,6 +48,26 @@ description: Generate and audit high-quality vocational course materials (.docx)
 - 90 分钟链：2+3+7+5+48+20+3+2；教学做一体任务合计 48 分钟。
 - 每批生成后执行分页测量与空白尾页检查，单文件独立 Word 转换并记录日志。
 
+## 脚本工具
+
+- [scripts/check_lesson_structure.py](scripts/check_lesson_structure.py)：校验教案 docx 的 39×6 结构、列宽、合并、90 分钟链、教学做一体 48 分钟、颜色、反思区与尾部段落。
+  `python scripts/check_lesson_structure.py 教案.docx --template 模板.docx`
+- [scripts/check_pdf_pagination.py](scripts/check_pdf_pagination.py)：检查 PDF 页数、空白尾页、越界与逐页底部空白。
+  `python scripts/check_pdf_pagination.py 教案.pdf --max-mid-gap 40 --max-first-gap 110`
+- [scripts/convert_one.ps1](scripts/convert_one.ps1)：单文件 Word 转 PDF，独立 Word 实例，失败不阻塞批次。
+  `powershell -NoProfile -ExecutionPolicy Bypass -File scripts/convert_one.ps1 -Src 教案.docx -Pdf 教案.pdf`
+
+## 示例资产
+
+`assets/templates/` 存放本课程四类保留模板（教案、课程标准、教学进度计划、教案封面），作为格式基准与示例：
+
+- `assets/templates/lesson-plan-template.docx`
+- `assets/templates/curriculum-standard-template.docx`
+- `assets/templates/progress-plan-template.docx`
+- `assets/templates/cover-template.docx`
+
+其他课程应先解析并提供自己的模板，再按相同流程生成。
+
 ## 持续学习与迭代
 
 - 任务开始前读取 [references/iterations.md](references/iterations.md) 中的最近规则，避免重复踩坑。
