@@ -11,3 +11,7 @@ Teacher Core Brain（总控）→ Skill Manager → 教学/科研/竞赛/成果/
 ## 三、设计文档
 
 `课程材料优化/CourseAgent/docs/`：00_Master需求文档、05_教师大脑架构设计V1.0（架构图、模块划分、Skill体系、数据结构、路线图）。
+
+## 四、实现状态
+
+Skill六件套抽象已落地（core/skill.py 注册表 + tools/skill_demo.py）：竞赛/分析/教案Skill 已注册并冒烟通过，评价器可自动发现结构缺口并触发进化记录。
