@@ -66,10 +66,10 @@ def run_mock_comparison(cases_path=None, reports_dir=None):
     cases_path = cases_path or os.path.join(root, "evaluation", "cases", "translator_cases.json")
     reports_dir = reports_dir or os.path.join(root, "evaluation", "reports")
     os.makedirs(reports_dir, exist_ok=True)
-    with open(cases_path, encoding="utf-8") as f:
+    with open(cases_path, encoding="utf-8-sig") as f:
         data = json.load(f)
     version = data["version"]
-    with open(os.path.join(root, "prompts", "translator", "user_template.json"), encoding="utf-8") as f:
+    with open(os.path.join(root, "prompts", "translator", "user_template.json"), encoding="utf-8-sig") as f:
         template = json.load(f)["template"]
     modes = {"rule": [], "llm": [], "hybrid": []}
     for case in data["cases"]:

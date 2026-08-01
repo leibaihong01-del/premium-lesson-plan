@@ -1,0 +1,62 @@
+{
+  "version": "1.0",
+  "timestamp": "2026-08-02 03:13:21",
+  "note": "外部独立案例；规则指标评分，不依赖LLM自评；DeepSeek模式不可用时自动回退规则",
+  "llm_enabled": false,
+  "summary": {
+    "rule": {
+      "total": 10,
+      "passed": 3,
+      "pass_rate": 0.3,
+      "avg_content": 0.56,
+      "avg_structure": 1.0,
+      "avg_task_match": 0.6
+    },
+    "hybrid": {
+      "total": 10,
+      "passed": 3,
+      "pass_rate": 0.3,
+      "avg_content": 0.56,
+      "avg_structure": 1.0,
+      "avg_task_match": 0.6
+    },
+    "deepseek": {
+      "total": 10,
+      "passed": 3,
+      "pass_rate": 0.3,
+      "avg_content": 0.56,
+      "avg_structure": 1.0,
+      "avg_task_match": 0.6
+    }
+  },
+  "failures": {
+    "rule": [
+      "E-01",
+      "E-03",
+      "E-04",
+      "E-05",
+      "E-07",
+      "E-08",
+      "E-09"
+    ],
+    "hybrid": [
+      "E-01",
+      "E-03",
+      "E-04",
+      "E-05",
+      "E-07",
+      "E-08",
+      "E-09"
+    ],
+    "deepseek": [
+      "E-01",
+      "E-03",
+      "E-04",
+      "E-05",
+      "E-07",
+      "E-08",
+      "E-09"
+    ]
+  },
+  "adapter_usage": null
+}

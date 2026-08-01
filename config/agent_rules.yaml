@@ -1,4 +1,4 @@
-document:
+﻿document:
   template_match:
     required: true
   format_check:
@@ -28,6 +28,14 @@ compute:
     medium: {loops: 2, visual: false}
     high:   {loops: 3, visual: true}
   default: auto
+
+translator:
+  llm_enhance_enabled: false
+  evaluation_required: true
+
+preflight:
+  enabled: true
+  require_confirmation: false
 
 reflection:
   save_failure: true

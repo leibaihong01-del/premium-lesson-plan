@@ -1,4 +1,4 @@
-# 模型配置（V1.0 基础层）
+﻿# 模型配置（V1.0 基础层 + 5.2-E 小范围验证）
 # 默认全部 disabled；API Key 只允许通过环境变量读取，禁止写入本文件。
 default_provider: ""
 
@@ -9,15 +9,27 @@ providers:
     base_url: ""
     api_key_env: DEEPSEEK_API_KEY
     timeout: 30
+    max_retries: 2
+    retry_delay: 1.0
+    input_price_per_1k: 0.0
+    output_price_per_1k: 0.0
   glm:
     enabled: false
     model: ""
     base_url: ""
     api_key_env: ZHIPU_API_KEY
     timeout: 30
+    max_retries: 2
+    retry_delay: 1.0
+    input_price_per_1k: 0.0
+    output_price_per_1k: 0.0
   mimo:
     enabled: false
     model: ""
     base_url: ""
     api_key_env: MIMO_API_KEY
     timeout: 30
+    max_retries: 2
+    retry_delay: 1.0
+    input_price_per_1k: 0.0
+    output_price_per_1k: 0.0

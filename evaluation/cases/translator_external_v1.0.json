@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-08-02",
+  "note": "5.2-E 外部独立案例集：与阶段5.2会话内案例集相互独立",
+  "cases": [
+    {"id": "E-01", "input": "请制定《城市轨道交通车辆检修》课程标准，突出岗位能力，禁止引入计算机联锁内容", "expected": {"intent": "generate", "domains": ["课程标准"], "quality": "normal", "constraints": ["禁止：计算机联锁"], "deliverables": ["课程标准"]}},
+    {"id": "E-02", "input": "优化《城市轨道交通运营管理》教学进度计划，保持48学时不变，输出修订说明", "expected": {"intent": "optimize", "domains": ["教学进度计划"], "quality": "normal", "constraints": ["48学时不变"], "deliverables": ["教学进度计划"]}},
+    {"id": "E-03", "input": "将《电工电子技术》旧教案套用精品教案模板生成新教案，模板在02_模板目录", "expected": {"intent": "convert", "domains": ["教案"], "quality": "excellent", "constraints": ["模板优先"], "deliverables": ["教案"]}},
+    {"id": "E-04", "input": "生成《城市轨道交通信号基础》实训任务工单，包含安全交底和评分表", "expected": {"intent": "generate", "domains": ["实训"], "quality": "normal", "constraints": ["安全交底", "评分表"], "deliverables": ["实训任务工单"]}},
+    {"id": "E-05", "input": "制作《城市轨道交通概论》第5章课件PPT，要求与课程标准一致", "expected": {"intent": "generate", "domains": ["课件"], "quality": "normal", "constraints": ["与课程标准一致"], "deliverables": ["课件"]}},
+    {"id": "E-06", "input": "生成《城市轨道交通应急处理》题库，覆盖8个学习项目，附答案解析", "expected": {"intent": "generate", "domains": ["题库"], "quality": "normal", "constraints": ["覆盖全部项目"], "deliverables": ["题库"]}},
+    {"id": "E-07", "input": "撰写高职教学能力大赛课堂展示方案，要求体现课程思政", "expected": {"intent": "generate", "domains": ["竞赛"], "quality": "excellent", "constraints": ["课程思政"], "deliverables": ["竞赛方案"]}},
+    {"id": "E-08", "input": "撰写职业教育教改课题申报书，研究方向为产教融合", "expected": {"intent": "generate", "domains": ["教研"], "quality": "normal", "constraints": ["产教融合"], "deliverables": ["申报书"]}},
+    {"id": "E-09", "input": "审核《城市轨道交通通信技术》20份教案，输出评审报告并给出改进建议", "expected": {"intent": "audit", "domains": ["教案"], "quality": "formal", "constraints": ["输出审核报告并闭环"], "deliverables": ["评审报告"]}},
+    {"id": "E-10", "input": "把《PLC应用技术》实训指导书转换为标准实训任务书，套用学校模板", "expected": {"intent": "convert", "domains": ["实训"], "quality": "formal", "constraints": ["模板优先"], "deliverables": ["实训任务书"]}}
+  ]
+}

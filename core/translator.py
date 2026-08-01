@@ -1,5 +1,6 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """需求转译智能体：自然语言 → 结构化 TaskSpec。"""
+import copy
 import json
 import re
 
@@ -117,3 +118,39 @@ def enrich_spec_with_llm(spec, adapter, prompt=None):
     except Exception:
         pass
     return spec
+
+
+def translate_with_enhancement(request, user_profile=None, adapter=None, enabled=False):
+    """5.2-E 小范围验证入口：规则转译 → 可选LLM增强 → 返回(spec, route, enhanced)。
+
+    默认 enabled=False，仅显式开启时调用 LLM；任何异常或无效输出回退规则。
+    """
+    rule_spec = parse(request, user_profile)
+    route = {"strategy": "rule", "provider": None, "reason": "默认规则路径"}
+    enhanced = False
+    if enabled and adapter is not None:
+        try:
+            hc = adapter.health_check()
+            if hc.get("status") == "enabled":
+                route = {"strategy": "llm", "provider": getattr(adapter, "name", "llm"),
+                         "reason": "小范围验证：Translator增强"}
+                candidate = copy.deepcopy(rule_spec)
+                enriched = enrich_spec_with_llm(candidate, adapter)
+                if enriched.get("llm_enhanced"):
+                    spec = enriched
+                    enhanced = True
+                else:
+                    spec = rule_spec
+                    route = {"strategy": "rule", "provider": None,
+                             "reason": "LLM输出无效，回退规则"}
+            else:
+                spec = rule_spec
+                route = {"strategy": "rule", "provider": None,
+                         "reason": "LLM不可用，回退规则"}
+        except Exception:
+            spec = rule_spec
+            route = {"strategy": "rule", "provider": None,
+                     "reason": "LLM异常，回退规则"}
+    else:
+        spec = rule_spec
+    return spec, route, enhanced
