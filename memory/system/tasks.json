@@ -1,0 +1,46 @@
+{
+  "latest": {
+    "request": "生成教学能力比赛方案，精品标准",
+    "spec": {
+      "goal": "生成教学能力比赛方案，精品标准",
+      "intent": "generate",
+      "domains": [
+        "竞赛"
+      ],
+      "deliverables": [
+        "竞赛"
+      ],
+      "quality": "excellent",
+      "constraints": [
+        "用户偏好：精品标准",
+        "用户偏好：闭环报告"
+      ],
+      "compute_hint": [
+        "建议高算力"
+      ],
+      "confidence": 0.95,
+      "raw": "生成教学能力比赛方案，精品标准"
+    },
+    "time": "2026-08-01 03:21:25"
+  },
+  "latest_capability": {
+    "capability": "competition_plan",
+    "path": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\output\\Phase4样例\\教学能力比赛方案.md",
+    "alignment": {
+      "alignment_score": 83.3,
+      "aligned": false,
+      "checks": {
+        "文字要求": true,
+        "禁止内容": true,
+        "质量达标": true,
+        "思政": true,
+        "岗位": true,
+        "结构完整": false
+      },
+      "issues": [
+        "教学结构要素不完整"
+      ],
+      "recommendation": "建议优化后再输出"
+    }
+  }
+}

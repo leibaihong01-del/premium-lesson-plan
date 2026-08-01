@@ -1,0 +1,23 @@
+{
+  "preferences": {
+    "重视精品标准": true,
+    "要求闭环报告": true,
+    "不接受简单修改": true,
+    "重视岗位能力": true
+  },
+  "updated_at": "2026-08-01 03:16:13",
+  "user_model": {
+    "stats": {
+      "课程标准": 1,
+      "quality_excellent": 1
+    },
+    "updated_at": "2026-08-01 03:16:13",
+    "feedback": [
+      {
+        "text": "不够好，要求更精品、岗位能力更突出、必须闭环",
+        "outcome": "优化",
+        "time": "2026-08-01 03:16:13"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "document": {
+    "template_match": {"required": true},
+    "format_check": {"font": true, "margin": true, "table": true}
+  },
+  "quality": {
+    "minimum_score": 95,
+    "weights": {"template": 30, "content": 25, "teaching": 25, "format": 20}
+  },
+  "repair": {"max_loops": 3}
+}

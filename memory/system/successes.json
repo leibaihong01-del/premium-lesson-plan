@@ -1,0 +1,23 @@
+[
+  {
+    "id": "successes-1",
+    "time": "2026-08-01 03:27:29",
+    "skill": "竞赛Skill",
+    "passed": false,
+    "score": 83.3
+  },
+  {
+    "id": "successes-2",
+    "time": "2026-08-01 03:27:29",
+    "skill": "教案Skill",
+    "passed": true,
+    "score": 100
+  },
+  {
+    "id": "successes-3",
+    "time": "2026-08-01 03:32:46",
+    "skill": "竞赛Skill",
+    "passed": false,
+    "score": 83.3
+  }
+]

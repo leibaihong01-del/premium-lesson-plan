@@ -1,0 +1,14 @@
+[
+  {
+    "id": "lessons_learned-1",
+    "time": "2026-08-01 03:27:29",
+    "skill": "竞赛Skill",
+    "res": {
+      "passed": false,
+      "score": 83.3,
+      "issues": [
+        "教学结构要素不完整"
+      ]
+    }
+  }
+]

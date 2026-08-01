@@ -1,0 +1,45 @@
+{
+  "file": "_core_work.docx",
+  "template_score": 30.0,
+  "content_score": 25.0,
+  "teaching_score": 25.0,
+  "format_score": 20.0,
+  "total_score": 100.0,
+  "final": "PASS",
+  "checks": {
+    "template": {
+      "39x6": true,
+      "grid": true,
+      "merges": true,
+      "R38_6": true,
+      "tail0": true
+    },
+    "content": {
+      "goals": true,
+      "keypoints": true,
+      "90min": true,
+      "R10_48": true,
+      "process": true,
+      "after": true
+    },
+    "teaching": {
+      "思政": true,
+      "随堂/实操": true,
+      "分层/实训任务": true,
+      "岗位情境": true,
+      "无越界": true
+    },
+    "format": {
+      "red": true,
+      "blue": true,
+      "purple": true,
+      "title": true
+    }
+  },
+  "issues": {
+    "template": [],
+    "content": [],
+    "teaching": [],
+    "format": []
+  }
+}

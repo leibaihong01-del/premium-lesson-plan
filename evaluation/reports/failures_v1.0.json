@@ -1,0 +1,141 @@
+[
+  {
+    "id": "T-04",
+    "input": "生成教案封面，课程：城市轨道交通运营管理，专业：城市轨道交通运营管理",
+    "metrics": {
+      "content": 0.4,
+      "structure": 1.0,
+      "task_match": 0.0,
+      "cost": {
+        "input_tokens": 22,
+        "output_tokens": 156,
+        "cost": 0.0
+      },
+      "latency_ms": 0.0,
+      "pass": false
+    },
+    "got": {
+      "intent": "generate",
+      "domains": [
+        "教案"
+      ],
+      "quality": "normal",
+      "constraints": [],
+      "deliverables": [
+        "教案"
+      ]
+    }
+  },
+  {
+    "id": "T-06",
+    "input": "生成实训任务书（实训模块1）",
+    "metrics": {
+      "content": 0.6,
+      "structure": 1.0,
+      "task_match": 1.0,
+      "cost": {
+        "input_tokens": 9,
+        "output_tokens": 130,
+        "cost": 0.0
+      },
+      "latency_ms": 0.0,
+      "pass": false
+    },
+    "got": {
+      "intent": "generate",
+      "domains": [
+        "实训"
+      ],
+      "quality": "normal",
+      "constraints": [],
+      "deliverables": [
+        "实训"
+      ]
+    }
+  },
+  {
+    "id": "T-08",
+    "input": "撰写教学能力比赛方案",
+    "metrics": {
+      "content": 0.2,
+      "structure": 1.0,
+      "task_match": 0.0,
+      "cost": {
+        "input_tokens": 6,
+        "output_tokens": 122,
+        "cost": 0.0
+      },
+      "latency_ms": 0.0,
+      "pass": false
+    },
+    "got": {
+      "intent": "plan",
+      "domains": [
+        "竞赛"
+      ],
+      "quality": "normal",
+      "constraints": [],
+      "deliverables": [
+        "竞赛"
+      ]
+    }
+  },
+  {
+    "id": "T-09",
+    "input": "撰写教改课题申报书框架",
+    "metrics": {
+      "content": 0.2,
+      "structure": 1.0,
+      "task_match": 0.0,
+      "cost": {
+        "input_tokens": 7,
+        "output_tokens": 136,
+        "cost": 0.0
+      },
+      "latency_ms": 0.0,
+      "pass": false
+    },
+    "got": {
+      "intent": "unknown",
+      "domains": [
+        "教研",
+        "成果"
+      ],
+      "quality": "excellent",
+      "constraints": [],
+      "deliverables": [
+        "教研",
+        "成果"
+      ]
+    }
+  },
+  {
+    "id": "T-10",
+    "input": "审核16份教案并输出报告，评分≥95",
+    "metrics": {
+      "content": 0.5,
+      "structure": 1.0,
+      "task_match": 1.0,
+      "cost": {
+        "input_tokens": 12,
+        "output_tokens": 147,
+        "cost": 0.0
+      },
+      "latency_ms": 0.0,
+      "pass": false
+    },
+    "got": {
+      "intent": "audit",
+      "domains": [
+        "教案"
+      ],
+      "quality": "normal",
+      "constraints": [
+        "输出审核报告并闭环"
+      ],
+      "deliverables": [
+        "教案"
+      ]
+    }
+  }
+]

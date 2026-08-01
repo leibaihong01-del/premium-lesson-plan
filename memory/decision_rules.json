@@ -1,0 +1,7 @@
+{
+  "bands": {"low": 30, "medium": 70, "high": 100},
+  "escalate_after_failures": 2,
+  "downgrade_after_successes": 5,
+  "quality_threshold": 95,
+  "confidence_execute": 0.9
+}

@@ -1,0 +1,17 @@
+{
+  "tail_spacing": {
+    "issue": "tail0",
+    "action": "fix_tail_spacing",
+    "count": 0
+  },
+  "title_fix": {
+    "issue": "title",
+    "action": "fix_title",
+    "count": 0
+  },
+  "reflection_no_split": {
+    "issue": "practice_reflection",
+    "action": "cantSplit_row38",
+    "count": 0
+  }
+}

@@ -1,0 +1,53 @@
+#requires -Version 5.1
+$ErrorActionPreference = "Stop"
+
+$ScriptPath = $MyInvocation.MyCommand.Path
+if (-not $ScriptPath) { $ScriptPath = Join-Path $PSScriptRoot "Codex_回滚启动器.ps1" }
+$ScriptDir = Split-Path -Parent $ScriptPath
+$LogRoot = "D:\AI\Codex\MigrationLogs"
+New-Item -ItemType Directory -Force -Path $LogRoot | Out-Null
+$Stamp = Get-Date -Format "yyyyMMdd-HHmmss"
+$LogFile = Join-Path $LogRoot ("rollback_" + $Stamp + ".log")
+
+function Write-Log {
+    param([string]$Msg)
+    $line = "[{0}] {1}" -f (Get-Date -Format "HH:mm:ss"), $Msg
+    Add-Content -LiteralPath $LogFile -Value $line -Encoding UTF8
+    Write-Host $Msg
+}
+
+Write-Host "==== Codex Rollback Launcher ===="
+Write-Host ("Launcher path: " + $ScriptPath)
+Write-Host ("Script dir: " + $ScriptDir)
+Write-Host ("Log: " + $LogFile)
+Write-Log ("launcher path: " + $ScriptPath)
+
+$id = [Security.Principal.WindowsIdentity]::GetCurrent()
+$principal = New-Object Security.Principal.WindowsPrincipal($id)
+if (-not $principal.IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)) {
+    Write-Host "Not admin, requesting elevation..."
+    Write-Log "not admin, requesting elevation"
+    Start-Process powershell.exe -Verb RunAs -ArgumentList @(
+        "-NoProfile", "-ExecutionPolicy", "Bypass", "-File", ('"' + $ScriptPath + '"')
+    )
+    exit
+}
+Write-Log "admin confirmed"
+
+$Rollback = Join-Path $ScriptDir "Codex_迁移回滚脚本.ps1"
+Write-Host ("Rollback script: " + $Rollback)
+if (-not (Test-Path -LiteralPath $Rollback)) {
+    Write-Host ("Rollback script not found: " + $Rollback)
+    Read-Host "Press Enter to exit"
+    exit 1
+}
+Write-Log ("rollback script: " + $Rollback)
+& $Rollback *>&1 | ForEach-Object {
+    Write-Host $_
+    Add-Content -LiteralPath $LogFile -Value $_ -Encoding UTF8
+}
+Write-Host ""
+Write-Host ("Exit code: " + $LASTEXITCODE)
+Write-Host "---- Log tail ----"
+if (Test-Path -LiteralPath $LogFile) { Get-Content -LiteralPath $LogFile -Tail 20 }
+Read-Host "Press Enter to exit"

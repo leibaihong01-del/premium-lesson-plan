@@ -1,0 +1,28 @@
+[
+  {
+    "name": "教育部职教政策",
+    "domain": "职业教育政策",
+    "url": "https://example.com",
+    "checked_at": "2026-08-01 04:34:21",
+    "offline": true
+  },
+  {
+    "name": "教育部职业教育与成人教育司",
+    "domain": "职业教育政策",
+    "url": "https://www.moe.gov.cn",
+    "checked_at": "2026-08-01 04:34:21"
+  },
+  {
+    "name": "中国城市轨道交通协会",
+    "domain": "行业发展",
+    "url": "https://www.camet.org.cn",
+    "checked_at": "2026-08-01 04:34:21"
+  },
+  {
+    "name": "职业教育国家教学标准",
+    "domain": "国家教学标准",
+    "url": "https://www.moe.gov.cn/s78/A07/",
+    "checked_at": "2026-08-01 04:34:21",
+    "offline": true
+  }
+]

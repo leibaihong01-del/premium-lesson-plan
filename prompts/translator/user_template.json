@@ -1,0 +1,18 @@
+{
+  "prompt_id": "translator.user_template",
+  "version": "1.0",
+  "template": "请把以下教师需求转译为结构化任务规格 JSON。\n\n用户需求：{{request}}\n\n用户画像：{{user_profile}}\n\n输出字段：intent、domains、quality、deliverables、constraints、compute_hint。只输出 JSON。",
+  "placeholders": ["request", "user_profile"],
+  "output_schema": {
+    "type": "object",
+    "required": ["intent", "domains", "quality", "deliverables", "constraints", "compute_hint"],
+    "properties": {
+      "intent": {"enum": ["generate", "optimize", "audit", "convert", "plan"]},
+      "domains": {"type": "array", "items": {"type": "string"}},
+      "quality": {"enum": ["normal", "formal", "excellent"]},
+      "deliverables": {"type": "array", "items": {"type": "string"}},
+      "constraints": {"type": "array", "items": {"type": "string"}},
+      "compute_hint": {"type": "array", "items": {"type": "string"}}
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "495a551131e09c01": {
+    "complexity": 100,
+    "confidence": 0.95,
+    "reason": [
+      "大量表格",
+      "专业内容重构",
+      "精品/申报级质量要求",
+      "连续5次达标，尝试降档"
+    ],
+    "recommended_compute": "medium",
+    "scores": {
+      "file": 25,
+      "content": 40,
+      "quality": 50
+    },
+    "fingerprint": "495a551131e09c01",
+    "source": "rule_classifier"
+  },
+  "0f719f794e6b6428": {
+    "complexity": 85,
+    "confidence": 0.95,
+    "reason": [
+      "大量表格",
+      "精品/申报级质量要求"
+    ],
+    "recommended_compute": "high",
+    "scores": {
+      "file": 25,
+      "content": 10,
+      "quality": 50
+    },
+    "fingerprint": "0f719f794e6b6428",
+    "source": "rule_classifier"
+  },
+  "43e1f7b4944aa888": {
+    "complexity": 85,
+    "confidence": 0.95,
+    "reason": [
+      "大量表格",
+      "精品/申报级质量要求",
+      "连续5次达标，尝试降档"
+    ],
+    "recommended_compute": "medium",
+    "scores": {
+      "file": 25,
+      "content": 10,
+      "quality": 50
+    },
+    "fingerprint": "43e1f7b4944aa888",
+    "source": "rule_classifier"
+  }
+}

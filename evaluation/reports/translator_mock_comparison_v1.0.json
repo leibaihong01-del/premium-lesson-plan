@@ -1,0 +1,51 @@
+{
+  "version": "1.0",
+  "prompt_version": "1.0",
+  "timestamp": "2026-08-02 00:54:52",
+  "note": "Mock LLM Evaluation Harness：仅验证Evaluation比较框架；真实DeepSeek接入后替换simulate_llm",
+  "summary": {
+    "rule": {
+      "total": 10,
+      "passed": 5,
+      "pass_rate": 0.5,
+      "avg_content": 0.63,
+      "avg_structure": 1.0,
+      "avg_task_match": 0.7
+    },
+    "llm": {
+      "total": 10,
+      "passed": 7,
+      "pass_rate": 0.7,
+      "avg_content": 0.74,
+      "avg_structure": 1.0,
+      "avg_task_match": 0.8
+    },
+    "hybrid": {
+      "total": 10,
+      "passed": 7,
+      "pass_rate": 0.7,
+      "avg_content": 0.72,
+      "avg_structure": 1.0,
+      "avg_task_match": 0.8
+    }
+  },
+  "failures": {
+    "rule": [
+      "T-04",
+      "T-06",
+      "T-08",
+      "T-09",
+      "T-10"
+    ],
+    "llm": [
+      "T-06",
+      "T-08",
+      "T-09"
+    ],
+    "hybrid": [
+      "T-06",
+      "T-08",
+      "T-09"
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+[
+  {
+    "domain": "职业教育政策",
+    "title": "职教新标准发布",
+    "summary": "新标准 对课程标准提出岗位能力要求",
+    "impact": "标准/政策变化，需更新课程规则（工作流级）",
+    "time": "2026-08-01 03:03:38"
+  },
+  {
+    "domain": "AI技术",
+    "title": "生成式AI应用",
+    "summary": "新技术 用于教案生成",
+    "impact": "建议更新教学案例与资源库",
+    "time": "2026-08-01 03:32:46"
+  },
+  {
+    "id": "knowledge_updates-3",
+    "time": "2026-08-01 03:32:46",
+    "skill": "知识Skill",
+    "passed": true,
+    "score": 100
+  },
+  {
+    "domain": "职业教育政策",
+    "source": "教育部职业教育与成人教育司",
+    "title": "征求意见",
+    "url": "https://www.moe.gov.cn/jyb_xwfb/s248/",
+    "status": "candidate",
+    "time": "2026-08-01 04:33:15"
+  },
+  {
+    "domain": "职业教育政策",
+    "source": "教育部职业教育与成人教育司",
+    "title": "中央教育工作领导小组秘书组、中共教育部党组印发通知，部署学习贯彻习近平总书记对基础教育工作重要指示精神",
+    "url": "http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202607/t20260731_1445775.html",
+    "status": "candidate",
+    "time": "2026-08-01 04:33:15"
+  },
+  {
+    "domain": "职业教育政策",
+    "source": "教育部职业教育与成人教育司",
+    "title": "中央教育工作领导小组秘书组、中共教育部党组印发通知，部署学习贯彻习近平总书记对基础教育工作重要指示精神",
+    "url": "http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202607/t20260731_1445775.html",
+    "status": "candidate",
+    "time": "2026-08-01 04:33:15"
+  },
+  {
+    "domain": "职业教育政策",
+    "source": "教育部职业教育与成人教育司",
+    "title": "关于举办中国国际大学生创新大赛(2026)的通知",
+    "url": "http://www.moe.gov.cn/srcsite/A08/s5672/202607/t20260731_1445670.html",
+    "status": "candidate",
+    "time": "2026-08-01 04:33:15"
+  },
+  {
+    "domain": "行业发展",
+    "source": "中国城市轨道交通协会",
+    "title": "中国城市轨道交通绿色城轨发展行动方案",
+    "url": "https://www.camet.org.cn/gzbg/cgfz/",
+    "status": "candidate",
+    "time": "2026-08-01 04:33:15"
+  },
+  {
+    "domain": "行业发展",
+    "source": "中国城市轨道交通协会",
+    "title": "团体标准：标准制修订管理系统",
+    "url": "http://222.66.139.87:8000/std-web/a/login",
+    "status": "candidate",
+    "time": "2026-08-01 04:33:15"
+  },
+  {
+    "domain": "行业发展",
+    "source": "中国城市轨道交通协会",
+    "title": "团体标准：团体标准信息平台",
+    "url": "http://222.66.139.87:8000/std-web/f/main",
+    "status": "candidate",
+    "time": "2026-08-01 04:33:15"
+  },
+  {
+    "domain": "行业发展",
+    "source": "中国城市轨道交通协会",
+    "title": "团体标准：团体标准信息平台",
+    "url": "https://www.camet.org.cn/cgxh/gzpt1/586171293438021.shtml",
+    "status": "candidate",
+    "time": "2026-08-01 04:33:15"
+  },
+  {
+    "domain": "行业发展",
+    "source": "中国城市轨道交通协会",
+    "title": "团体标准：标准制修订管理系统",
+    "url": "https://www.camet.org.cn/cgxh/gzpt1/4753.shtml",
+    "status": "candidate",
+    "time": "2026-08-01 04:33:15"
+  },
+  {
+    "domain": "职业教育政策",
+    "source": "教育部职业教育与成人教育司",
+    "title": "征求意见",
+    "url": "https://www.moe.gov.cn/jyb_xwfb/s248/",
+    "status": "candidate",
+    "time": "2026-08-01 04:34:21"
+  },
+  {
+    "domain": "职业教育政策",
+    "source": "教育部职业教育与成人教育司",
+    "title": "中央教育工作领导小组秘书组、中共教育部党组印发通知，部署学习贯彻习近平总书记对基础教育工作重要指示精神",
+    "url": "http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202607/t20260731_1445775.html",
+    "status": "candidate",
+    "time": "2026-08-01 04:34:21"
+  },
+  {
+    "domain": "职业教育政策",
+    "source": "教育部职业教育与成人教育司",
+    "title": "中央教育工作领导小组秘书组、中共教育部党组印发通知，部署学习贯彻习近平总书记对基础教育工作重要指示精神",
+    "url": "http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202607/t20260731_1445775.html",
+    "status": "candidate",
+    "time": "2026-08-01 04:34:21"
+  },
+  {
+    "domain": "职业教育政策",
+    "source": "教育部职业教育与成人教育司",
+    "title": "关于举办中国国际大学生创新大赛(2026)的通知",
+    "url": "http://www.moe.gov.cn/srcsite/A08/s5672/202607/t20260731_1445670.html",
+    "status": "candidate",
+    "time": "2026-08-01 04:34:21"
+  },
+  {
+    "domain": "行业发展",
+    "source": "中国城市轨道交通协会",
+    "title": "中国城市轨道交通绿色城轨发展行动方案",
+    "url": "https://www.camet.org.cn/gzbg/cgfz/",
+    "status": "candidate",
+    "time": "2026-08-01 04:34:21"
+  },
+  {
+    "domain": "行业发展",
+    "source": "中国城市轨道交通协会",
+    "title": "团体标准：标准制修订管理系统",
+    "url": "http://222.66.139.87:8000/std-web/a/login",
+    "status": "candidate",
+    "time": "2026-08-01 04:34:21"
+  },
+  {
+    "domain": "行业发展",
+    "source": "中国城市轨道交通协会",
+    "title": "团体标准：团体标准信息平台",
+    "url": "http://222.66.139.87:8000/std-web/f/main",
+    "status": "candidate",
+    "time": "2026-08-01 04:34:21"
+  },
+  {
+    "domain": "行业发展",
+    "source": "中国城市轨道交通协会",
+    "title": "团体标准：团体标准信息平台",
+    "url": "https://www.camet.org.cn/cgxh/gzpt1/586171293438021.shtml",
+    "status": "candidate",
+    "time": "2026-08-01 04:34:21"
+  },
+  {
+    "domain": "行业发展",
+    "source": "中国城市轨道交通协会",
+    "title": "团体标准：标准制修订管理系统",
+    "url": "https://www.camet.org.cn/cgxh/gzpt1/4753.shtml",
+    "status": "candidate",
+    "time": "2026-08-01 04:34:21"
+  },
+  {
+    "domain": "国家教学标准",
+    "source": "职业教育国家教学标准",
+    "title": "关于组织开展2026年职业教育专业目录增补专业论证工作的通知",
+    "url": "https://www.moe.gov.cn/s78/A07/A07_sjhj/202605/t20260520_1437128.html",
+    "status": "candidate",
+    "time": "2026-08-01 04:34:21"
+  },
+  {
+    "domain": "国家教学标准",
+    "source": "职业教育国家教学标准",
+    "title": "关于开展2025年职业教育课程思政集体备课活动的通知",
+    "url": "https://www.moe.gov.cn/s78/A07/A07_sjhj/202508/t20250818_1401987.html",
+    "status": "candidate",
+    "time": "2026-08-01 04:34:21"
+  },
+  {
+    "domain": "国家教学标准",
+    "source": "职业教育国家教学标准",
+    "title": "关于组织开展2025年职业教育专业目录增补专业论证工作的通知",
+    "url": "https://www.moe.gov.cn/s78/A07/A07_sjhj/202507/t20250715_1198214.html",
+    "status": "candidate",
+    "time": "2026-08-01 04:34:21"
+  },
+  {
+    "domain": "国家教学标准",
+    "source": "职业教育国家教学标准",
+    "title": "关于做好2025年度产业工人求学圆梦行动工作的通知",
+    "url": "https://www.moe.gov.cn/s78/A07/A07_sjhj/202506/t20250611_1193778.html",
+    "status": "candidate",
+    "time": "2026-08-01 04:34:21"
+  },
+  {
+    "domain": "国家教学标准",
+    "source": "职业教育国家教学标准",
+    "title": "关于公布2024年产教融合、校企合作典型案例名单的通知",
+    "url": "https://www.moe.gov.cn/s78/A07/A07_sjhj/202412/t20241231_1173268.html",
+    "status": "candidate",
+    "time": "2026-08-01 04:34:21"
+  }
+]

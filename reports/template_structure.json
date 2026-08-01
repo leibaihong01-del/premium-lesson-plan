@@ -1,0 +1,76 @@
+{
+  "path": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\城市轨道交通概论智能课程建设\\01_模板文件\\教案模板.docx",
+  "page": {
+    "width_emu": 7560310,
+    "height_emu": 10692130,
+    "margins": {
+      "top": 914400,
+      "right": 1143000,
+      "bottom": 914400,
+      "left": 1143000
+    }
+  },
+  "tables": [
+    {
+      "index": 0,
+      "rows": 39,
+      "cols": 6,
+      "grid": [
+        "1261",
+        "1040",
+        "902",
+        "1454",
+        "1150",
+        "2715"
+      ],
+      "merge_sig": [
+        "UUMUUM",
+        "UUMUUM",
+        "UUMMMM",
+        "UUMMMM",
+        "UUMMMM",
+        "UUMMMM",
+        "UUMMMM",
+        "UUMMMM",
+        "UUMMMM",
+        "UMMMMM",
+        "UMUMMM",
+        "UMUMMM",
+        "UMUMMM",
+        "UMUMMM",
+        "UMMMMM",
+        "UMMMMM",
+        "UUMMMU",
+        "UUMMMU",
+        "UMMMMM",
+        "UUMMMU",
+        "UUMMMU",
+        "UUMMMU",
+        "UUMMMU",
+        "UUMMMU",
+        "UUMMMU",
+        "UUMMMU",
+        "UUMMMU",
+        "UUMMMU",
+        "UMMMMM",
+        "UUMMMU",
+        "UUMMMU",
+        "UUMMMU",
+        "UUMMMU",
+        "UMMMMM",
+        "UUMMMU",
+        "UUMMMU",
+        "UUMMMU",
+        "UUMMMU",
+        "UUMMMM"
+      ]
+    }
+  ],
+  "header_parts": [
+    "/word/header1.xml"
+  ],
+  "footer_parts": [
+    "/word/footer1.xml"
+  ],
+  "first_title": "城市轨道交通列车运行控制课程教案"
+}

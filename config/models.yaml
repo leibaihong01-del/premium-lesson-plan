@@ -1,0 +1,23 @@
+# 模型配置（V1.0 基础层）
+# 默认全部 disabled；API Key 只允许通过环境变量读取，禁止写入本文件。
+default_provider: ""
+
+providers:
+  deepseek:
+    enabled: false
+    model: deepseek-chat
+    base_url: ""
+    api_key_env: DEEPSEEK_API_KEY
+    timeout: 30
+  glm:
+    enabled: false
+    model: ""
+    base_url: ""
+    api_key_env: ZHIPU_API_KEY
+    timeout: 30
+  mimo:
+    enabled: false
+    model: ""
+    base_url: ""
+    api_key_env: MIMO_API_KEY
+    timeout: 30

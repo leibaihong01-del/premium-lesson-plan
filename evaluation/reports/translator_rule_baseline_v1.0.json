@@ -1,0 +1,471 @@
+{
+  "summary": {
+    "version": "1.0",
+    "timestamp": "2026-08-02 00:20:46",
+    "total": 10,
+    "passed": 5,
+    "pass_rate": 0.5,
+    "avg": {
+      "content": 0.63,
+      "structure": 1.0,
+      "task_match": 0.7,
+      "cost": 0.0
+    }
+  },
+  "results": [
+    {
+      "id": "T-01",
+      "spec": {
+        "goal": "请优化《城市轨道交通概论》课程标准，按精品课程要求，不要加入设备维修内容，输出审核报告",
+        "intent": "optimize",
+        "domains": [
+          "课程标准"
+        ],
+        "deliverables": [
+          "课程标准"
+        ],
+        "quality": "excellent",
+        "constraints": [
+          "禁止：设备维修",
+          "输出审核报告并闭环"
+        ],
+        "compute_hint": [],
+        "confidence": 0.95,
+        "raw": "请优化《城市轨道交通概论》课程标准，按精品课程要求，不要加入设备维修内容，输出审核报告"
+      },
+      "metrics": {
+        "content": 1.0,
+        "structure": 1.0,
+        "task_match": 1.0,
+        "cost": {
+          "input_tokens": 28,
+          "output_tokens": 188,
+          "cost": 0.0
+        },
+        "latency_ms": 0.0,
+        "pass": true
+      }
+    },
+    {
+      "id": "T-02",
+      "spec": {
+        "goal": "生成《城市轨道交通信号基础》教学进度计划，32学时",
+        "intent": "generate",
+        "domains": [
+          "教学进度计划"
+        ],
+        "deliverables": [
+          "教学进度计划"
+        ],
+        "quality": "normal",
+        "constraints": [],
+        "compute_hint": [],
+        "confidence": 0.9,
+        "raw": "生成《城市轨道交通信号基础》教学进度计划，32学时"
+      },
+      "metrics": {
+        "content": 0.8,
+        "structure": 1.0,
+        "task_match": 1.0,
+        "cost": {
+          "input_tokens": 16,
+          "output_tokens": 150,
+          "cost": 0.0
+        },
+        "latency_ms": 0.0,
+        "pass": true
+      }
+    },
+    {
+      "id": "T-03",
+      "spec": {
+        "goal": "把旧教案转换为精品教案，模板在01_模板文件",
+        "intent": "convert",
+        "domains": [
+          "教案"
+        ],
+        "deliverables": [
+          "教案"
+        ],
+        "quality": "excellent",
+        "constraints": [
+          "模板优先"
+        ],
+        "compute_hint": [],
+        "confidence": 0.95,
+        "raw": "把旧教案转换为精品教案，模板在01_模板文件"
+      },
+      "metrics": {
+        "content": 1.0,
+        "structure": 1.0,
+        "task_match": 1.0,
+        "cost": {
+          "input_tokens": 14,
+          "output_tokens": 146,
+          "cost": 0.0
+        },
+        "latency_ms": 0.0,
+        "pass": true
+      }
+    },
+    {
+      "id": "T-04",
+      "spec": {
+        "goal": "生成教案封面，课程：城市轨道交通运营管理，专业：城市轨道交通运营管理",
+        "intent": "generate",
+        "domains": [
+          "教案"
+        ],
+        "deliverables": [
+          "教案"
+        ],
+        "quality": "normal",
+        "constraints": [],
+        "compute_hint": [],
+        "confidence": 0.9,
+        "raw": "生成教案封面，课程：城市轨道交通运营管理，专业：城市轨道交通运营管理"
+      },
+      "metrics": {
+        "content": 0.4,
+        "structure": 1.0,
+        "task_match": 0.0,
+        "cost": {
+          "input_tokens": 22,
+          "output_tokens": 156,
+          "cost": 0.0
+        },
+        "latency_ms": 0.0,
+        "pass": false
+      }
+    },
+    {
+      "id": "T-05",
+      "spec": {
+        "goal": "为《城市轨道交通概论》第3课生成课件PPT",
+        "intent": "generate",
+        "domains": [
+          "课件"
+        ],
+        "deliverables": [
+          "课件"
+        ],
+        "quality": "normal",
+        "constraints": [],
+        "compute_hint": [],
+        "confidence": 0.9,
+        "raw": "为《城市轨道交通概论》第3课生成课件PPT"
+      },
+      "metrics": {
+        "content": 0.8,
+        "structure": 1.0,
+        "task_match": 1.0,
+        "cost": {
+          "input_tokens": 14,
+          "output_tokens": 139,
+          "cost": 0.0
+        },
+        "latency_ms": 0.0,
+        "pass": true
+      }
+    },
+    {
+      "id": "T-06",
+      "spec": {
+        "goal": "生成实训任务书（实训模块1）",
+        "intent": "generate",
+        "domains": [
+          "实训"
+        ],
+        "deliverables": [
+          "实训"
+        ],
+        "quality": "normal",
+        "constraints": [],
+        "compute_hint": [],
+        "confidence": 0.9,
+        "raw": "生成实训任务书（实训模块1）"
+      },
+      "metrics": {
+        "content": 0.6,
+        "structure": 1.0,
+        "task_match": 1.0,
+        "cost": {
+          "input_tokens": 9,
+          "output_tokens": 130,
+          "cost": 0.0
+        },
+        "latency_ms": 0.0,
+        "pass": false
+      }
+    },
+    {
+      "id": "T-07",
+      "spec": {
+        "goal": "生成题库：9项目+综合实训，附答案",
+        "intent": "generate",
+        "domains": [
+          "实训",
+          "题库"
+        ],
+        "deliverables": [
+          "实训",
+          "题库"
+        ],
+        "quality": "normal",
+        "constraints": [],
+        "compute_hint": [],
+        "confidence": 0.9,
+        "raw": "生成题库：9项目+综合实训，附答案"
+      },
+      "metrics": {
+        "content": 0.8,
+        "structure": 1.0,
+        "task_match": 1.0,
+        "cost": {
+          "input_tokens": 11,
+          "output_tokens": 142,
+          "cost": 0.0
+        },
+        "latency_ms": 0.0,
+        "pass": true
+      }
+    },
+    {
+      "id": "T-08",
+      "spec": {
+        "goal": "撰写教学能力比赛方案",
+        "intent": "plan",
+        "domains": [
+          "竞赛"
+        ],
+        "deliverables": [
+          "竞赛"
+        ],
+        "quality": "normal",
+        "constraints": [],
+        "compute_hint": [],
+        "confidence": 0.9,
+        "raw": "撰写教学能力比赛方案"
+      },
+      "metrics": {
+        "content": 0.2,
+        "structure": 1.0,
+        "task_match": 0.0,
+        "cost": {
+          "input_tokens": 6,
+          "output_tokens": 122,
+          "cost": 0.0
+        },
+        "latency_ms": 0.0,
+        "pass": false
+      }
+    },
+    {
+      "id": "T-09",
+      "spec": {
+        "goal": "撰写教改课题申报书框架",
+        "intent": "unknown",
+        "domains": [
+          "教研",
+          "成果"
+        ],
+        "deliverables": [
+          "教研",
+          "成果"
+        ],
+        "quality": "excellent",
+        "constraints": [],
+        "compute_hint": [],
+        "confidence": 0.85,
+        "raw": "撰写教改课题申报书框架"
+      },
+      "metrics": {
+        "content": 0.2,
+        "structure": 1.0,
+        "task_match": 0.0,
+        "cost": {
+          "input_tokens": 7,
+          "output_tokens": 136,
+          "cost": 0.0
+        },
+        "latency_ms": 0.0,
+        "pass": false
+      }
+    },
+    {
+      "id": "T-10",
+      "spec": {
+        "goal": "审核16份教案并输出报告，评分≥95",
+        "intent": "audit",
+        "domains": [
+          "教案"
+        ],
+        "deliverables": [
+          "教案"
+        ],
+        "quality": "normal",
+        "constraints": [
+          "输出审核报告并闭环"
+        ],
+        "compute_hint": [
+          "建议低/标准算力"
+        ],
+        "confidence": 0.9,
+        "raw": "审核16份教案并输出报告，评分≥95"
+      },
+      "metrics": {
+        "content": 0.5,
+        "structure": 1.0,
+        "task_match": 1.0,
+        "cost": {
+          "input_tokens": 12,
+          "output_tokens": 147,
+          "cost": 0.0
+        },
+        "latency_ms": 0.0,
+        "pass": false
+      }
+    }
+  ],
+  "failures": [
+    {
+      "id": "T-04",
+      "input": "生成教案封面，课程：城市轨道交通运营管理，专业：城市轨道交通运营管理",
+      "metrics": {
+        "content": 0.4,
+        "structure": 1.0,
+        "task_match": 0.0,
+        "cost": {
+          "input_tokens": 22,
+          "output_tokens": 156,
+          "cost": 0.0
+        },
+        "latency_ms": 0.0,
+        "pass": false
+      },
+      "got": {
+        "intent": "generate",
+        "domains": [
+          "教案"
+        ],
+        "quality": "normal",
+        "constraints": [],
+        "deliverables": [
+          "教案"
+        ]
+      }
+    },
+    {
+      "id": "T-06",
+      "input": "生成实训任务书（实训模块1）",
+      "metrics": {
+        "content": 0.6,
+        "structure": 1.0,
+        "task_match": 1.0,
+        "cost": {
+          "input_tokens": 9,
+          "output_tokens": 130,
+          "cost": 0.0
+        },
+        "latency_ms": 0.0,
+        "pass": false
+      },
+      "got": {
+        "intent": "generate",
+        "domains": [
+          "实训"
+        ],
+        "quality": "normal",
+        "constraints": [],
+        "deliverables": [
+          "实训"
+        ]
+      }
+    },
+    {
+      "id": "T-08",
+      "input": "撰写教学能力比赛方案",
+      "metrics": {
+        "content": 0.2,
+        "structure": 1.0,
+        "task_match": 0.0,
+        "cost": {
+          "input_tokens": 6,
+          "output_tokens": 122,
+          "cost": 0.0
+        },
+        "latency_ms": 0.0,
+        "pass": false
+      },
+      "got": {
+        "intent": "plan",
+        "domains": [
+          "竞赛"
+        ],
+        "quality": "normal",
+        "constraints": [],
+        "deliverables": [
+          "竞赛"
+        ]
+      }
+    },
+    {
+      "id": "T-09",
+      "input": "撰写教改课题申报书框架",
+      "metrics": {
+        "content": 0.2,
+        "structure": 1.0,
+        "task_match": 0.0,
+        "cost": {
+          "input_tokens": 7,
+          "output_tokens": 136,
+          "cost": 0.0
+        },
+        "latency_ms": 0.0,
+        "pass": false
+      },
+      "got": {
+        "intent": "unknown",
+        "domains": [
+          "教研",
+          "成果"
+        ],
+        "quality": "excellent",
+        "constraints": [],
+        "deliverables": [
+          "教研",
+          "成果"
+        ]
+      }
+    },
+    {
+      "id": "T-10",
+      "input": "审核16份教案并输出报告，评分≥95",
+      "metrics": {
+        "content": 0.5,
+        "structure": 1.0,
+        "task_match": 1.0,
+        "cost": {
+          "input_tokens": 12,
+          "output_tokens": 147,
+          "cost": 0.0
+        },
+        "latency_ms": 0.0,
+        "pass": false
+      },
+      "got": {
+        "intent": "audit",
+        "domains": [
+          "教案"
+        ],
+        "quality": "normal",
+        "constraints": [
+          "输出审核报告并闭环"
+        ],
+        "deliverables": [
+          "教案"
+        ]
+      }
+    }
+  ]
+}

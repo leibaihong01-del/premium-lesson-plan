@@ -1,0 +1,42 @@
+{
+  "version": "1.0",
+  "timestamp": "2026-08-02 01:06:35",
+  "note": "会话内DeepSeek（经CCSwitch）增强评测：由会话模型按Prompt契约生成TaskSpec，规则评测框架评分；非外部API调用，存在同模型偏差，结果仅作流程验证。",
+  "summary": {
+    "rule": {
+      "total": 10,
+      "passed": 5,
+      "pass_rate": 0.5,
+      "avg_content": 0.63,
+      "avg_structure": 1.0,
+      "avg_task_match": 0.7
+    },
+    "llm": {
+      "total": 10,
+      "passed": 10,
+      "pass_rate": 1.0,
+      "avg_content": 1.0,
+      "avg_structure": 1.0,
+      "avg_task_match": 1.0
+    },
+    "hybrid": {
+      "total": 10,
+      "passed": 10,
+      "pass_rate": 1.0,
+      "avg_content": 0.94,
+      "avg_structure": 1.0,
+      "avg_task_match": 1.0
+    }
+  },
+  "failures": {
+    "rule": [
+      "T-04",
+      "T-06",
+      "T-08",
+      "T-09",
+      "T-10"
+    ],
+    "llm": [],
+    "hybrid": []
+  }
+}

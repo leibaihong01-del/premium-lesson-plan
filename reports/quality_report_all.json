@@ -1,0 +1,722 @@
+[
+  {
+    "file": "《城市轨道交通概论》-实训教案（实训模块1）优化版.docx",
+    "template_score": 30.0,
+    "content_score": 25.0,
+    "teaching_score": 25.0,
+    "format_score": 20.0,
+    "total_score": 100.0,
+    "final": "PASS",
+    "checks": {
+      "template": {
+        "39x6": true,
+        "grid": true,
+        "merges": true,
+        "R38_6": true,
+        "tail0": true
+      },
+      "content": {
+        "goals": true,
+        "keypoints": true,
+        "90min": true,
+        "R10_48": true,
+        "process": true,
+        "after": true
+      },
+      "teaching": {
+        "思政": true,
+        "随堂/实操": true,
+        "分层/实训任务": true,
+        "岗位情境": true,
+        "无越界": true
+      },
+      "format": {
+        "red": true,
+        "blue": true,
+        "purple": true,
+        "title": true
+      }
+    },
+    "issues": {
+      "template": [],
+      "content": [],
+      "teaching": [],
+      "format": []
+    }
+  },
+  {
+    "file": "《城市轨道交通概论》-实训教案（实训模块2）优化版.docx",
+    "template_score": 30.0,
+    "content_score": 25.0,
+    "teaching_score": 25.0,
+    "format_score": 20.0,
+    "total_score": 100.0,
+    "final": "PASS",
+    "checks": {
+      "template": {
+        "39x6": true,
+        "grid": true,
+        "merges": true,
+        "R38_6": true,
+        "tail0": true
+      },
+      "content": {
+        "goals": true,
+        "keypoints": true,
+        "90min": true,
+        "R10_48": true,
+        "process": true,
+        "after": true
+      },
+      "teaching": {
+        "思政": true,
+        "随堂/实操": true,
+        "分层/实训任务": true,
+        "岗位情境": true,
+        "无越界": true
+      },
+      "format": {
+        "red": true,
+        "blue": true,
+        "purple": true,
+        "title": true
+      }
+    },
+    "issues": {
+      "template": [],
+      "content": [],
+      "teaching": [],
+      "format": []
+    }
+  },
+  {
+    "file": "《城市轨道交通概论》-实训教案（实训模块3）优化版.docx",
+    "template_score": 30.0,
+    "content_score": 25.0,
+    "teaching_score": 25.0,
+    "format_score": 20.0,
+    "total_score": 100.0,
+    "final": "PASS",
+    "checks": {
+      "template": {
+        "39x6": true,
+        "grid": true,
+        "merges": true,
+        "R38_6": true,
+        "tail0": true
+      },
+      "content": {
+        "goals": true,
+        "keypoints": true,
+        "90min": true,
+        "R10_48": true,
+        "process": true,
+        "after": true
+      },
+      "teaching": {
+        "思政": true,
+        "随堂/实操": true,
+        "分层/实训任务": true,
+        "岗位情境": true,
+        "无越界": true
+      },
+      "format": {
+        "red": true,
+        "blue": true,
+        "purple": true,
+        "title": true
+      }
+    },
+    "issues": {
+      "template": [],
+      "content": [],
+      "teaching": [],
+      "format": []
+    }
+  },
+  {
+    "file": "《城市轨道交通概论》-实训教案（实训模块4）优化版.docx",
+    "template_score": 30.0,
+    "content_score": 25.0,
+    "teaching_score": 25.0,
+    "format_score": 20.0,
+    "total_score": 100.0,
+    "final": "PASS",
+    "checks": {
+      "template": {
+        "39x6": true,
+        "grid": true,
+        "merges": true,
+        "R38_6": true,
+        "tail0": true
+      },
+      "content": {
+        "goals": true,
+        "keypoints": true,
+        "90min": true,
+        "R10_48": true,
+        "process": true,
+        "after": true
+      },
+      "teaching": {
+        "思政": true,
+        "随堂/实操": true,
+        "分层/实训任务": true,
+        "岗位情境": true,
+        "无越界": true
+      },
+      "format": {
+        "red": true,
+        "blue": true,
+        "purple": true,
+        "title": true
+      }
+    },
+    "issues": {
+      "template": [],
+      "content": [],
+      "teaching": [],
+      "format": []
+    }
+  },
+  {
+    "file": "《城市轨道交通概论》-教案样板（第10课）优化版.docx",
+    "template_score": 30.0,
+    "content_score": 25.0,
+    "teaching_score": 25.0,
+    "format_score": 20.0,
+    "total_score": 100.0,
+    "final": "PASS",
+    "checks": {
+      "template": {
+        "39x6": true,
+        "grid": true,
+        "merges": true,
+        "R38_6": true,
+        "tail0": true
+      },
+      "content": {
+        "goals": true,
+        "keypoints": true,
+        "90min": true,
+        "R10_48": true,
+        "process": true,
+        "after": true
+      },
+      "teaching": {
+        "思政": true,
+        "随堂/实操": true,
+        "分层/实训任务": true,
+        "岗位情境": true,
+        "无越界": true
+      },
+      "format": {
+        "red": true,
+        "blue": true,
+        "purple": true,
+        "title": true
+      }
+    },
+    "issues": {
+      "template": [],
+      "content": [],
+      "teaching": [],
+      "format": []
+    }
+  },
+  {
+    "file": "《城市轨道交通概论》-教案（第11课）优化版.docx",
+    "template_score": 30.0,
+    "content_score": 25.0,
+    "teaching_score": 25.0,
+    "format_score": 20.0,
+    "total_score": 100.0,
+    "final": "PASS",
+    "checks": {
+      "template": {
+        "39x6": true,
+        "grid": true,
+        "merges": true,
+        "R38_6": true,
+        "tail0": true
+      },
+      "content": {
+        "goals": true,
+        "keypoints": true,
+        "90min": true,
+        "R10_48": true,
+        "process": true,
+        "after": true
+      },
+      "teaching": {
+        "思政": true,
+        "随堂/实操": true,
+        "分层/实训任务": true,
+        "岗位情境": true,
+        "无越界": true
+      },
+      "format": {
+        "red": true,
+        "blue": true,
+        "purple": true,
+        "title": true
+      }
+    },
+    "issues": {
+      "template": [],
+      "content": [],
+      "teaching": [],
+      "format": []
+    }
+  },
+  {
+    "file": "《城市轨道交通概论》-教案（第12课）优化版.docx",
+    "template_score": 30.0,
+    "content_score": 25.0,
+    "teaching_score": 25.0,
+    "format_score": 20.0,
+    "total_score": 100.0,
+    "final": "PASS",
+    "checks": {
+      "template": {
+        "39x6": true,
+        "grid": true,
+        "merges": true,
+        "R38_6": true,
+        "tail0": true
+      },
+      "content": {
+        "goals": true,
+        "keypoints": true,
+        "90min": true,
+        "R10_48": true,
+        "process": true,
+        "after": true
+      },
+      "teaching": {
+        "思政": true,
+        "随堂/实操": true,
+        "分层/实训任务": true,
+        "岗位情境": true,
+        "无越界": true
+      },
+      "format": {
+        "red": true,
+        "blue": true,
+        "purple": true,
+        "title": true
+      }
+    },
+    "issues": {
+      "template": [],
+      "content": [],
+      "teaching": [],
+      "format": []
+    }
+  },
+  {
+    "file": "《城市轨道交通概论》-教案（第1课）优化版.docx",
+    "template_score": 30.0,
+    "content_score": 25.0,
+    "teaching_score": 25.0,
+    "format_score": 20.0,
+    "total_score": 100.0,
+    "final": "PASS",
+    "checks": {
+      "template": {
+        "39x6": true,
+        "grid": true,
+        "merges": true,
+        "R38_6": true,
+        "tail0": true
+      },
+      "content": {
+        "goals": true,
+        "keypoints": true,
+        "90min": true,
+        "R10_48": true,
+        "process": true,
+        "after": true
+      },
+      "teaching": {
+        "思政": true,
+        "随堂/实操": true,
+        "分层/实训任务": true,
+        "岗位情境": true,
+        "无越界": true
+      },
+      "format": {
+        "red": true,
+        "blue": true,
+        "purple": true,
+        "title": true
+      }
+    },
+    "issues": {
+      "template": [],
+      "content": [],
+      "teaching": [],
+      "format": []
+    }
+  },
+  {
+    "file": "《城市轨道交通概论》-教案（第2课）优化版.docx",
+    "template_score": 30.0,
+    "content_score": 25.0,
+    "teaching_score": 25.0,
+    "format_score": 20.0,
+    "total_score": 100.0,
+    "final": "PASS",
+    "checks": {
+      "template": {
+        "39x6": true,
+        "grid": true,
+        "merges": true,
+        "R38_6": true,
+        "tail0": true
+      },
+      "content": {
+        "goals": true,
+        "keypoints": true,
+        "90min": true,
+        "R10_48": true,
+        "process": true,
+        "after": true
+      },
+      "teaching": {
+        "思政": true,
+        "随堂/实操": true,
+        "分层/实训任务": true,
+        "岗位情境": true,
+        "无越界": true
+      },
+      "format": {
+        "red": true,
+        "blue": true,
+        "purple": true,
+        "title": true
+      }
+    },
+    "issues": {
+      "template": [],
+      "content": [],
+      "teaching": [],
+      "format": []
+    }
+  },
+  {
+    "file": "《城市轨道交通概论》-教案（第3课）优化版.docx",
+    "template_score": 30.0,
+    "content_score": 25.0,
+    "teaching_score": 25.0,
+    "format_score": 20.0,
+    "total_score": 100.0,
+    "final": "PASS",
+    "checks": {
+      "template": {
+        "39x6": true,
+        "grid": true,
+        "merges": true,
+        "R38_6": true,
+        "tail0": true
+      },
+      "content": {
+        "goals": true,
+        "keypoints": true,
+        "90min": true,
+        "R10_48": true,
+        "process": true,
+        "after": true
+      },
+      "teaching": {
+        "思政": true,
+        "随堂/实操": true,
+        "分层/实训任务": true,
+        "岗位情境": true,
+        "无越界": true
+      },
+      "format": {
+        "red": true,
+        "blue": true,
+        "purple": true,
+        "title": true
+      }
+    },
+    "issues": {
+      "template": [],
+      "content": [],
+      "teaching": [],
+      "format": []
+    }
+  },
+  {
+    "file": "《城市轨道交通概论》-教案（第4课）优化版.docx",
+    "template_score": 30.0,
+    "content_score": 25.0,
+    "teaching_score": 25.0,
+    "format_score": 20.0,
+    "total_score": 100.0,
+    "final": "PASS",
+    "checks": {
+      "template": {
+        "39x6": true,
+        "grid": true,
+        "merges": true,
+        "R38_6": true,
+        "tail0": true
+      },
+      "content": {
+        "goals": true,
+        "keypoints": true,
+        "90min": true,
+        "R10_48": true,
+        "process": true,
+        "after": true
+      },
+      "teaching": {
+        "思政": true,
+        "随堂/实操": true,
+        "分层/实训任务": true,
+        "岗位情境": true,
+        "无越界": true
+      },
+      "format": {
+        "red": true,
+        "blue": true,
+        "purple": true,
+        "title": true
+      }
+    },
+    "issues": {
+      "template": [],
+      "content": [],
+      "teaching": [],
+      "format": []
+    }
+  },
+  {
+    "file": "《城市轨道交通概论》-教案（第5课）优化版.docx",
+    "template_score": 30.0,
+    "content_score": 25.0,
+    "teaching_score": 25.0,
+    "format_score": 20.0,
+    "total_score": 100.0,
+    "final": "PASS",
+    "checks": {
+      "template": {
+        "39x6": true,
+        "grid": true,
+        "merges": true,
+        "R38_6": true,
+        "tail0": true
+      },
+      "content": {
+        "goals": true,
+        "keypoints": true,
+        "90min": true,
+        "R10_48": true,
+        "process": true,
+        "after": true
+      },
+      "teaching": {
+        "思政": true,
+        "随堂/实操": true,
+        "分层/实训任务": true,
+        "岗位情境": true,
+        "无越界": true
+      },
+      "format": {
+        "red": true,
+        "blue": true,
+        "purple": true,
+        "title": true
+      }
+    },
+    "issues": {
+      "template": [],
+      "content": [],
+      "teaching": [],
+      "format": []
+    }
+  },
+  {
+    "file": "《城市轨道交通概论》-教案（第6课）优化版.docx",
+    "template_score": 30.0,
+    "content_score": 25.0,
+    "teaching_score": 25.0,
+    "format_score": 20.0,
+    "total_score": 100.0,
+    "final": "PASS",
+    "checks": {
+      "template": {
+        "39x6": true,
+        "grid": true,
+        "merges": true,
+        "R38_6": true,
+        "tail0": true
+      },
+      "content": {
+        "goals": true,
+        "keypoints": true,
+        "90min": true,
+        "R10_48": true,
+        "process": true,
+        "after": true
+      },
+      "teaching": {
+        "思政": true,
+        "随堂/实操": true,
+        "分层/实训任务": true,
+        "岗位情境": true,
+        "无越界": true
+      },
+      "format": {
+        "red": true,
+        "blue": true,
+        "purple": true,
+        "title": true
+      }
+    },
+    "issues": {
+      "template": [],
+      "content": [],
+      "teaching": [],
+      "format": []
+    }
+  },
+  {
+    "file": "《城市轨道交通概论》-教案（第7课）优化版.docx",
+    "template_score": 30.0,
+    "content_score": 25.0,
+    "teaching_score": 25.0,
+    "format_score": 20.0,
+    "total_score": 100.0,
+    "final": "PASS",
+    "checks": {
+      "template": {
+        "39x6": true,
+        "grid": true,
+        "merges": true,
+        "R38_6": true,
+        "tail0": true
+      },
+      "content": {
+        "goals": true,
+        "keypoints": true,
+        "90min": true,
+        "R10_48": true,
+        "process": true,
+        "after": true
+      },
+      "teaching": {
+        "思政": true,
+        "随堂/实操": true,
+        "分层/实训任务": true,
+        "岗位情境": true,
+        "无越界": true
+      },
+      "format": {
+        "red": true,
+        "blue": true,
+        "purple": true,
+        "title": true
+      }
+    },
+    "issues": {
+      "template": [],
+      "content": [],
+      "teaching": [],
+      "format": []
+    }
+  },
+  {
+    "file": "《城市轨道交通概论》-教案（第8课）优化版.docx",
+    "template_score": 30.0,
+    "content_score": 25.0,
+    "teaching_score": 25.0,
+    "format_score": 20.0,
+    "total_score": 100.0,
+    "final": "PASS",
+    "checks": {
+      "template": {
+        "39x6": true,
+        "grid": true,
+        "merges": true,
+        "R38_6": true,
+        "tail0": true
+      },
+      "content": {
+        "goals": true,
+        "keypoints": true,
+        "90min": true,
+        "R10_48": true,
+        "process": true,
+        "after": true
+      },
+      "teaching": {
+        "思政": true,
+        "随堂/实操": true,
+        "分层/实训任务": true,
+        "岗位情境": true,
+        "无越界": true
+      },
+      "format": {
+        "red": true,
+        "blue": true,
+        "purple": true,
+        "title": true
+      }
+    },
+    "issues": {
+      "template": [],
+      "content": [],
+      "teaching": [],
+      "format": []
+    }
+  },
+  {
+    "file": "《城市轨道交通概论》-教案（第9课）优化版.docx",
+    "template_score": 30.0,
+    "content_score": 25.0,
+    "teaching_score": 25.0,
+    "format_score": 20.0,
+    "total_score": 100.0,
+    "final": "PASS",
+    "checks": {
+      "template": {
+        "39x6": true,
+        "grid": true,
+        "merges": true,
+        "R38_6": true,
+        "tail0": true
+      },
+      "content": {
+        "goals": true,
+        "keypoints": true,
+        "90min": true,
+        "R10_48": true,
+        "process": true,
+        "after": true
+      },
+      "teaching": {
+        "思政": true,
+        "随堂/实操": true,
+        "分层/实训任务": true,
+        "岗位情境": true,
+        "无越界": true
+      },
+      "format": {
+        "red": true,
+        "blue": true,
+        "purple": true,
+        "title": true
+      }
+    },
+    "issues": {
+      "template": [],
+      "content": [],
+      "teaching": [],
+      "format": []
+    }
+  }
+]
