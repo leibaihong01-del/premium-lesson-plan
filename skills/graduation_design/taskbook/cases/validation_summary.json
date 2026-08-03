@@ -1,0 +1,23 @@
+{
+  "case_id": "taskbook_validation_v1.0",
+  "skill_version": "1.0",
+  "validation": [
+    {
+      "case": "案例A",
+      "result": "pass",
+      "pages": 2,
+      "tables": "18x14",
+      "naming_ok": true,
+      "virtual_object_rule_effective": true
+    },
+    {
+      "case": "案例B",
+      "result": "pass",
+      "pages": 2,
+      "tables": "18x14",
+      "naming_ok": true,
+      "virtual_object_rule_effective": true
+    }
+  ],
+  "note": "案例记录不包含学生隐私信息；具体学生数据保存在工作区本地。"
+}

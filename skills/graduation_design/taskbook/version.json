@@ -1,0 +1,13 @@
+{
+  "skill": "graduation_design.taskbook",
+  "version": "1.0",
+  "status": "active",
+  "created_at": "2026-08-03",
+  "changelog": [
+    {
+      "version": "1.0",
+      "date": "2026-08-03",
+      "summary": "首个毕业设计文档专家能力包：模板母版生成、字段填充、内容迁移、内部审核、命名继承、虚拟对象中和、只交付 Word"
+    }
+  ]
+}

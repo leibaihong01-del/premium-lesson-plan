@@ -1,0 +1,95 @@
+{
+  "template": "毕业设计任务书模板.docx",
+  "pages": 2,
+  "tables": [
+    {
+      "index": 0,
+      "rows": 18,
+      "cols": 14
+    }
+  ],
+  "field_rows": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "content_rows": [
+    4,
+    5
+  ],
+  "fixed_rows": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "fields": [
+    {
+      "label": "二级学院",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "label": "姓名",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "label": "校内 指导教师",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "label": "班级名称",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "label": "学号",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "label": "企业 指导教师",
+      "row": 1,
+      "col": 5,
+      "keep_blank": true
+    },
+    {
+      "label": "选题名称",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "label": "选题类型",
+      "row": 3,
+      "col": 1,
+      "checkbox": true
+    }
+  ],
+  "content_cells": [
+    {
+      "label": "设计目标",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "label": "设计任务",
+      "row": 5,
+      "col": 1
+    }
+  ],
+  "option_symbols": {
+    "unchecked": "00A8",
+    "checked": "00FE"
+  }
+}

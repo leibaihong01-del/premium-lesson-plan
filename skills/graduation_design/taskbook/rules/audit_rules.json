@@ -1,0 +1,38 @@
+{
+  "version": "1.0",
+  "checks": {
+    "content": [
+      "姓名",
+      "学号",
+      "班级",
+      "指导教师",
+      "选题名称",
+      "设计目标",
+      "设计任务"
+    ],
+    "structure": {
+      "tables": 1,
+      "rows": 18,
+      "cols": 14,
+      "merge_equals_template": true
+    },
+    "format": {
+      "content_font_pt": 12.0
+    },
+    "naming": {
+      "inherit_template": true,
+      "contains_student": true,
+      "no_temp_name": true
+    },
+    "content_logic": {
+      "no_virtual_source": true,
+      "no_placeholder": true
+    },
+    "render": {
+      "pdf_pages": 2,
+      "internal_only": true
+    }
+  },
+  "auto_repair_rounds": 3,
+  "delivery": "只交付正式 DOCX"
+}
