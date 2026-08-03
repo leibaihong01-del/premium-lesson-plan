@@ -1,0 +1,15 @@
+# CourseAgent Skill Registry
+
+version: 1
+updated_at: 2026-08-03
+
+skills:
+  - name: premium-lesson-plan
+    domain: course_construction
+    status: production
+    version: v1.0
+
+  - name: task-book
+    domain: graduation_design
+    status: frozen
+    version: v1.0
