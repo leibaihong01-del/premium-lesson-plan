@@ -135,7 +135,7 @@ CourseAgent/
 - 状态：冻结基线（frozen）
 - 定位：毕业设计领域第一个标准 Skill
 - 作用：验证同一 Skill 方法论能否跨业务领域迁移
-- 资产位置：`skills/graduation_design/taskbook`
+- 资产位置：`skills/graduation_design/task_book`
 - Git 标签：v1.0-taskbook-baseline
 - 仓库登记：`skills/registry.yaml`
 

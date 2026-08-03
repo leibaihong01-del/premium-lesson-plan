@@ -1,0 +1,22 @@
+{
+  "name": "task-book",
+  "domain": "graduation_design",
+  "status": "frozen",
+  "version": "1.0",
+  "entry": "SKILL.md",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "version.json",
+    "workflow.md",
+    "graduation_design_taskbook_v1.0.md",
+    "references.md",
+    "cases/validation_summary.json",
+    "rules/template_schema.json",
+    "rules/generation_rules.md",
+    "rules/content_rules.json",
+    "rules/naming_rules.json",
+    "rules/audit_rules.json"
+  ],
+  "registered_at": "2026-08-03"
+}

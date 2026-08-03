@@ -16,7 +16,7 @@
 
 ## 二、TaskBookSkill 是否存在
 
-目录：`CourseAgent/skills/graduation_design/taskbook/`
+目录：`CourseAgent/skills/graduation_design/task_book/`
 
 文件结构（12 个文件）：
 
