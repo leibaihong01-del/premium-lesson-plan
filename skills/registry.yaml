@@ -13,3 +13,8 @@ skills:
     domain: graduation_design
     status: frozen
     version: v1.0
+
+  - name: result
+    domain: graduation_design
+    status: active
+    version: v1.0

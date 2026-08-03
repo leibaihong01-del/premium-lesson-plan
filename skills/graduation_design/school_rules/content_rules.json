@@ -1,0 +1,75 @@
+{
+  "source": [
+    "08轨道车辆学院毕业设计检查标准",
+    "成果第一轮人工审查反馈"
+  ],
+  "document_type": "毕业设计成果",
+  "region_control": {
+    "cover": "ignore",
+    "declaration": "ignore",
+    "references": "ignore",
+    "abstract": "check",
+    "body": "check",
+    "conclusion": "check",
+    "appendix": "check"
+  },
+  "expression_level": {
+    "forbidden": [
+      {
+        "expression": "本文研究了",
+        "suggestion": "本设计分析",
+        "reason": "论文式表达，明确违规"
+      },
+      {
+        "expression": "本文研究",
+        "suggestion": "本设计分析",
+        "reason": "论文式表达，明确违规"
+      }
+    ],
+    "warning": [
+      {
+        "expression": "本文",
+        "suggestion": "本设计",
+        "reason": "疑似论文式表达，需结合上下文"
+      },
+      {
+        "expression": "本研究",
+        "suggestion": "本设计",
+        "reason": "疑似论文式表达，需结合上下文"
+      },
+      {
+        "expression": "笔者认为",
+        "suggestion": "本设计认为",
+        "reason": "疑似论文式表达，需结合上下文"
+      },
+      {
+        "expression": "论文",
+        "suggestion": "按语境判断",
+        "reason": "成果不得以论文形式表述"
+      },
+      {
+        "expression": "学术研究",
+        "suggestion": "按语境判断",
+        "reason": "学校禁用表述"
+      },
+      {
+        "expression": "课题研究",
+        "suggestion": "按语境判断",
+        "reason": "学校禁用表述"
+      },
+      {
+        "expression": "文献研究",
+        "suggestion": "按语境判断",
+        "reason": "学校禁用表述"
+      },
+      {
+        "expression": "研究成果",
+        "suggestion": "按语境判断",
+        "reason": "学校禁用表述"
+      }
+    ],
+    "allowed": {
+      "references": true
+    }
+  }
+}

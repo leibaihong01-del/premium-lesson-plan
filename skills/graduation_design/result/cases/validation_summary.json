@@ -1,0 +1,23 @@
+{
+  "case_id": "result_ai_v0.1",
+  "skill_version": "1.0",
+  "status": "已验收",
+  "result": {
+    "audit_pass": true,
+    "pages": 17,
+    "tables": 4,
+    "heading_level1": 5,
+    "heading_level2": 10,
+    "naming_ok": true,
+    "virtual_object_scan": "无收集/调研/获取类表述"
+  },
+  "review_items": [
+    "封面",
+    "真实性承诺及指导教师声明",
+    "目录",
+    "摘要",
+    "虚拟站点实景化表述（如故障处理实践）"
+  ],
+  "note": "案例记录不含学生隐私；具体学生数据保存在工作区本地。",
+  "accepted_at": "2026-08-03 19:56:40"
+}

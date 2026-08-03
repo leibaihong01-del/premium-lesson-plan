@@ -1,0 +1,76 @@
+{
+  "version": "1.0",
+  "status": "formal_candidate",
+  "scope": "graduation_design.result 通用规则，不针对单个学生写死",
+  "result_generation_strategy": {
+    "cover": {
+      "method": "template_copy"
+    },
+    "declaration": {
+      "method": "template_copy"
+    },
+    "toc": {
+      "method": "word_auto_generate"
+    },
+    "body": {
+      "method": "template_style_inheritance"
+    },
+    "table": {
+      "method": "template_table_fill"
+    },
+    "header_footer": {
+      "preserve": true
+    },
+    "page_number": {
+      "preserve": true
+    },
+    "sections": {
+      "preserve": true
+    }
+  },
+  "rules": [
+    {
+      "id": "RES-001",
+      "rule": "成果生成必须复制模板母版，禁止以学生初稿为 Word 基版",
+      "module": "C 格式继承"
+    },
+    {
+      "id": "RES-002",
+      "rule": "封面、真实性承诺页、目录必须来自模板固定页",
+      "module": "C 格式继承"
+    },
+    {
+      "id": "RES-003",
+      "rule": "正文段落必须映射到模板样式（正文内容/Heading1/Heading2/表注/参考文献）",
+      "module": "C 格式继承"
+    },
+    {
+      "id": "RES-004",
+      "rule": "表格必须复制模板表格后填充内容，禁止重建表格",
+      "module": "C 格式继承"
+    },
+    {
+      "id": "RES-005",
+      "rule": "目录必须使用 Heading 样式 + Word TOC 域，可更新",
+      "module": "C 格式继承 / E 校验缺失"
+    },
+    {
+      "id": "RES-006",
+      "rule": "分节、页眉页脚、页码域必须继承模板，禁止文本页码",
+      "module": "C 格式继承"
+    },
+    {
+      "id": "RES-007",
+      "rule": "内部审核必须检查分节数、PAGE 域、TOC 域、样式集、表格签名与模板一致",
+      "module": "E 校验缺失"
+    },
+    {
+      "id": "RES-008",
+      "rule": "参考文献内容不得包含多余空格，格式与模板一致（如 GB/T31478-2015、北京:中国标准出版社）",
+      "module": "C 格式继承",
+      "source": "成果第一轮人工审查补充反馈"
+    }
+  ],
+  "source": "成果第一轮人工审查反馈",
+  "updated_at": "2026-08-03 19:35:56"
+}

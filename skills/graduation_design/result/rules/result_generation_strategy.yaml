@@ -1,0 +1,29 @@
+# Result Generation Strategy（模板保真重构）
+
+version: 1.0
+
+principle: 内容重新组织，但 Word 母版结构必须继承（Template-preserving Reconstruction）。
+
+strategy:
+  cover:
+    method: template_copy
+  declaration:
+    method: template_copy
+  toc:
+    method: word_auto_generate
+  body:
+    method: template_style_inheritance
+  table:
+    method: template_table_fill
+  header_footer:
+    preserve: true
+  page_number:
+    preserve: true
+  sections:
+    preserve: true
+
+forbidden:
+  - 以学生初稿作为 Word 基版
+  - 重建表格
+  - 文本页码
+  - 静态目录文字

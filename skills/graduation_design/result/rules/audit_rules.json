@@ -1,0 +1,43 @@
+{
+  "version": "0.2",
+  "checks": {
+    "content": [
+      "选题名称存在",
+      "章节存在",
+      "参考文献存在"
+    ],
+    "structure": {
+      "tables_preserved": true
+    },
+    "heading": {
+      "level1": ">=5",
+      "level2": ">=5",
+      "no_mixed_separator": true
+    },
+    "format": {
+      "body_font_pt": 12.0
+    },
+    "content_logic": {
+      "no_virtual_source": true,
+      "no_placeholder": true
+    },
+    "naming": {
+      "inherit_template": true,
+      "contains_student": true,
+      "no_temp_name": true
+    },
+    "fixed_pages": {
+      "gaps_are_review_items": true
+    },
+    "template_preservation": {
+      "sections_match": true,
+      "page_field_present": true,
+      "toc_field_present": true,
+      "style_set_covers_template": true,
+      "table_signature_matches_template": true,
+      "fixed_pages_present": true
+    }
+  },
+  "auto_repair_rounds": 3,
+  "delivery": "只交付正式 DOCX"
+}

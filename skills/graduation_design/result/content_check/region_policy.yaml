@@ -1,0 +1,28 @@
+# 毕业设计成果区域内容审查策略
+
+version: 1.0
+scope: graduation_design.result
+
+regions:
+  exclude:
+    - cover
+    - declaration
+    - references
+  check:
+    - abstract
+    - body
+    - conclusion
+    - appendix
+  info:
+    - toc
+
+actions:
+  forbidden_expression:
+    detect: true
+    suggest_replace: true
+  heading_expression:
+    detect: true
+    suggest_replace: false
+    action: 人工确认
+
+principle: 先识别文档区域，再执行区域规则；禁止全文搜索替换。
