@@ -1,0 +1,10 @@
+{
+  "learning_mode": "real_teacher_feedback",
+  "first_case": "王欢成果",
+  "historical_samples": "B类测试数据，冻结，不参与学习",
+  "status": "completed_without_new_teacher_rules",
+  "rule_upgrade_paused": true,
+  "updated_at": "2026-08-03 21:16:45",
+  "teacher_feedback_candidate_count": 0,
+  "completed_at": "2026-08-03 21:58:41"
+}

@@ -1,0 +1,244 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Template Profile Schema",
+  "type": "object",
+  "required": [
+    "template_name",
+    "page",
+    "styles",
+    "heading_rules",
+    "table_rules",
+    "reference_rules",
+    "toc_rules",
+    "pagination_rules",
+    "fixed_region_rules"
+  ],
+  "properties": {
+    "template_name": {
+      "type": "string"
+    },
+    "page": {
+      "type": "object",
+      "properties": {
+        "page_size": {
+          "type": "string",
+          "default": "A4"
+        },
+        "margin": {
+          "type": "object",
+          "properties": {
+            "top": {
+              "type": "string"
+            },
+            "bottom": {
+              "type": "string"
+            },
+            "left": {
+              "type": "string"
+            },
+            "right": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "styles": {
+      "type": "object",
+      "properties": {
+        "body": {
+          "type": "object",
+          "properties": {
+            "font_cn": {
+              "type": "string"
+            },
+            "font_en": {
+              "type": "string"
+            },
+            "size": {
+              "type": "string"
+            },
+            "bold": {
+              "type": "boolean"
+            },
+            "line_spacing": {
+              "type": "number"
+            }
+          }
+        },
+        "heading1": {
+          "type": "object",
+          "properties": {
+            "font_cn": {
+              "type": "string"
+            },
+            "size": {
+              "type": "string"
+            },
+            "bold": {
+              "type": "boolean"
+            },
+            "spacing_before": {
+              "type": "number"
+            },
+            "spacing_after": {
+              "type": "number"
+            }
+          }
+        },
+        "heading2": {
+          "type": "object",
+          "properties": {
+            "font_cn": {
+              "type": "string"
+            },
+            "size": {
+              "type": "string"
+            },
+            "bold": {
+              "type": "boolean"
+            }
+          }
+        }
+      }
+    },
+    "heading_rules": {
+      "type": "object",
+      "properties": {
+        "heading1": {
+          "type": "object",
+          "properties": {
+            "number_enabled": {
+              "type": "boolean"
+            },
+            "separator": {
+              "type": "string"
+            }
+          }
+        },
+        "heading2": {
+          "type": "object",
+          "properties": {
+            "format": {
+              "type": "string"
+            },
+            "separator": {
+              "type": "string"
+            }
+          }
+        },
+        "two_char_title": {
+          "type": "string",
+          "default": "两个空格"
+        }
+      }
+    },
+    "table_rules": {
+      "type": "object",
+      "properties": {
+        "default": {
+          "type": "object",
+          "properties": {
+            "border": {
+              "type": "string",
+              "default": "single"
+            },
+            "cell_align": {
+              "type": "string",
+              "default": "center"
+            },
+            "font": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "reference_rules": {
+      "type": "object",
+      "properties": {
+        "font_cn": {
+          "type": "string"
+        },
+        "font_en": {
+          "type": "string"
+        },
+        "size": {
+          "type": "string"
+        },
+        "indent": {
+          "type": "string"
+        }
+      }
+    },
+    "toc_rules": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "default": "WPS_TOC"
+        },
+        "levels": {
+          "type": "integer",
+          "default": 3
+        },
+        "update_required": {
+          "type": "boolean",
+          "default": true
+        }
+      }
+    },
+    "pagination_rules": {
+      "type": "object",
+      "properties": {
+        "enabled": {
+          "type": "boolean",
+          "default": true
+        },
+        "sections": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "range": {
+                "type": "string"
+              },
+              "style": {
+                "type": "string"
+              },
+              "start": {
+                "type": "integer"
+              }
+            }
+          }
+        }
+      }
+    },
+    "fixed_region_rules": {
+      "type": "object",
+      "properties": {
+        "signature": {
+          "type": "object",
+          "properties": {
+            "keep": {
+              "type": "boolean",
+              "default": true
+            },
+            "anchor": {
+              "type": "string"
+            }
+          }
+        },
+        "date": {
+          "type": "object",
+          "properties": {
+            "keep": {
+              "type": "boolean",
+              "default": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+# 2026-08-04 规则候选（待人工确认）
+candidates:
+  - id: CAND-001
+    rule: 表注格式必须由生成阶段强制规范化为 表X.X + 两空格
+    source: 汪子涵案例
+    status: candidate
+  - id: CAND-002
+    rule: 核心专业术语检查支持同义词判定
+    source: 汪子涵案例
+    status: candidate
+  - id: CAND-003
+    rule: Word 更新目录后必须复检 TOC 制表位与 updateFields
+    source: 王欢/汪子涵
+    status: candidate
+  - id: CAND-004
+    rule: 表注与表格必须同页绑定（keep_with_next）
+    source: 汪子涵案例
+    status: candidate
+  - id: CAND-005
+    rule: 虚拟案例真实性检查作为内容门禁固定项
+    source: 王欢/汪子涵
+    status: candidate

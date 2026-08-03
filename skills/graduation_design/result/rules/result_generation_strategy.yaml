@@ -4,6 +4,10 @@ version: 1.0
 
 principle: 内容重新组织，但 Word 母版结构必须继承（Template-preserving Reconstruction）。
 
+generation_entry:
+  primary: template_reconstruction
+  preprocessing: draft_normalization_only
+
 strategy:
   cover:
     method: template_copy

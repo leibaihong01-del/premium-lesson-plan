@@ -50,7 +50,7 @@ class ResultContentValidator:
                 current = "abstract"
             elif current == "abstract" and re.match(r"^1\s*\S", t):
                 current = "body"
-            if current == "body" and t == "参考文献":
+            if t == "参考文献" and current in ("body", "conclusion", "appendix"):
                 ref_started = True
                 regions[i] = "references"
                 continue

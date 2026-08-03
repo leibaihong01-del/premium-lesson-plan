@@ -1,0 +1,75 @@
+{
+  "skill_scope": "graduation_design",
+  "status": "candidate",
+  "note": "仅依据学校学院文件解析；未经验证不得转正式规则，不得写入全局经验库。",
+  "rules": [
+    {
+      "id": "GD-CC-001",
+      "region": "正文",
+      "type": "banned_expression",
+      "expressions": [
+        "学术研究",
+        "本文研究",
+        "论文",
+        "实习总结",
+        "科研",
+        "课题研究",
+        "文章",
+        "报告",
+        "本文",
+        "某某文章认为",
+        "研究成果",
+        "文献研究"
+      ],
+      "reason": "检查标准一票否决项：成果不得以论文/报告等非设计类表述",
+      "source": "08轨道车辆学院毕业设计检查标准",
+      "confidence": "high"
+    },
+    {
+      "id": "GD-CC-002",
+      "region": "正文",
+      "type": "min_length",
+      "min_chars": 5000,
+      "reason": "正文字数不少于5000字（不含图纸、附录、参考文献）",
+      "source": "08轨道车辆学院毕业设计检查标准",
+      "confidence": "high"
+    },
+    {
+      "id": "GD-CC-003",
+      "region": "目录",
+      "type": "banned_expression",
+      "expressions": [
+        "标签未定义",
+        "错误！未定义书签",
+        "错误! 未定义书签"
+      ],
+      "reason": "目录不得存在书签错误",
+      "source": "08轨道车辆学院毕业设计检查标准",
+      "confidence": "high"
+    },
+    {
+      "id": "GD-CC-004",
+      "region": "正文",
+      "type": "term_rule",
+      "reason": "专业术语必须符合城市轨道交通行业规范",
+      "source": "08轨道车辆学院毕业设计检查标准",
+      "confidence": "high"
+    },
+    {
+      "id": "GD-CC-005",
+      "region": "参考文献",
+      "type": "reference_rule",
+      "reason": "参考文献格式正确，禁止虚假文献",
+      "source": "08轨道车辆学院毕业设计检查标准",
+      "confidence": "high"
+    },
+    {
+      "id": "GD-CC-006",
+      "region": "成果排版",
+      "type": "layout_rule",
+      "reason": "按学院模板排版，章节之间分页",
+      "source": "08轨道车辆学院毕业设计检查标准",
+      "confidence": "high"
+    }
+  ]
+}

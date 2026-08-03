@@ -28,3 +28,24 @@
 ## 规则来源
 
 学校规范依据层：`../school_rules/`；成果内容合规执行层：`content_check/`（规则从 school_rules 加载，不维护独立违禁词库）。
+
+## 正式生成入口
+
+模板保真重构器（result_reference_builder.py）是正式生成入口；初稿标准化（result_generator.py）仅作内容预处理，不作为最终 Word 基版。
+
+
+## v1.1 升级（索引化，通用规则）
+
+新增能力入口（按需加载，不全文加载）：
+
+- 工作流：`workflow.yaml`
+- 内容规则：`rules/content_rules.yaml`
+- 表格规则：`rules/table_rules.yaml`
+- 目录规则：`rules/toc_rules.yaml`
+- 学院规范：`rules/college_rules.yaml`
+- 专业词库：`knowledge/profession_terms.yaml`
+- 案例索引：`memory/golden_cases_index.md`、`memory/failure_cases_index.md`
+
+执行模式：autonomous（自动扫描/定位/修复/渲染/报告，最终一次性汇报）。
+验收模式：DOCX 结构检查 + PDF 视觉检查双通道。
+原则：经验不进 Skill 正文，只进 memory 案例层。

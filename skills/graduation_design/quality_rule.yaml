@@ -1,0 +1,49 @@
+scoring:
+  scientific:
+    weight: 0.3
+    check: 引用专业标准与规范
+  completeness:
+    weight: 0.25
+    check: 覆盖任务书全部要求
+  profession:
+    weight: 0.25
+    check: 内容符合专业方向
+  format:
+    weight: 0.2
+    check: 结构完整、排版规范
+pass_threshold: 0.85
+tfi:
+  enabled: true
+  threshold: 90
+  weights:
+    structure: 0.30
+    table: 0.25
+    layout: 0.25
+    visual: 0.20
+  rule: TFI低于90禁止交付
+forbidden_content:
+  - 杨振海
+  - 202421044622
+  - AFC
+  - 闸机
+  - 黄兴南路站
+forbidden_placeholder:
+  - 待完善
+  - 待确认
+  - XXX
+  - 后续添加
+virtual_project_rule:
+  forbidden: [现场调研, 实地采集数据, 真实采集, 实际运行数据, 收集某站资料, 分析某站设备]
+  replacement: [资料收集, 参数分析, 资料收集, 标准参数与设计参数分析, 收集系统设备资料, 分析系统设备]
+structure_check:
+  - 系统分析
+  - 故障分析
+  - 方案设计
+  - 表格
+  - 标准
+  - 参考文献
+cell_clean:
+  remove_empty_paragraphs: true
+  compress_content_spacing: true
+  dedup_option_text: true
+  rule: 表单内容单元格必须清理空段与选项重复，并压缩段落间距

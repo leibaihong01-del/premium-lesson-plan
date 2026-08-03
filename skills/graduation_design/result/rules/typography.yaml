@@ -1,0 +1,14 @@
+# 字体与标点规则（通用）
+rules:
+  - id: FONT-001
+    rule: 中文标点不得使用西文字体渲染，需校验 Unicode+字体+PDF
+    source: 王欢
+    validation: 王欢+汪子涵 已验证
+  - id: FONT-002
+    rule: 中文语境引号用全角，参考文献保留半角
+    source: 王欢
+    validation: 已验证
+  - id: FONT-003
+    rule: 序号与文字之间禁止多余空格；标题编号保留半角点
+    source: 王欢/汪子涵
+    validation: 已验证

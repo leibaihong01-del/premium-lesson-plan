@@ -1,0 +1,280 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Document IR Schema",
+  "type": "object",
+  "required": [
+    "document_type",
+    "metadata",
+    "blocks"
+  ],
+  "properties": {
+    "document_type": {
+      "type": "string",
+      "enum": [
+        "graduation_result",
+        "task_book",
+        "defense_record",
+        "evaluation_form",
+        "guidance_record",
+        "lesson_plan"
+      ]
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "student_name": {
+          "type": "string"
+        },
+        "student_id": {
+          "type": "string"
+        },
+        "major": {
+          "type": "string"
+        },
+        "teacher": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        }
+      }
+    },
+    "blocks": {
+      "type": "array",
+      "items": {
+        "oneOf": [
+          {
+            "$ref": "#/definitions/heading"
+          },
+          {
+            "$ref": "#/definitions/paragraph"
+          },
+          {
+            "$ref": "#/definitions/table"
+          },
+          {
+            "$ref": "#/definitions/image"
+          },
+          {
+            "$ref": "#/definitions/reference"
+          },
+          {
+            "$ref": "#/definitions/page_break"
+          },
+          {
+            "$ref": "#/definitions/fixed_region"
+          }
+        ]
+      }
+    },
+    "pagination": {
+      "type": "object",
+      "properties": {
+        "enabled": {
+          "type": "boolean",
+          "default": true
+        },
+        "sections": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "range": {
+                "type": "string",
+                "enum": [
+                  "cover",
+                  "front_matter",
+                  "body"
+                ]
+              },
+              "style": {
+                "type": "string",
+                "enum": [
+                  "none",
+                  "roman",
+                  "arabic"
+                ]
+              },
+              "start": {
+                "type": "integer",
+                "default": 1
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "heading": {
+      "type": "object",
+      "required": [
+        "type",
+        "level",
+        "text"
+      ],
+      "properties": {
+        "type": {
+          "const": "heading"
+        },
+        "level": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 3
+        },
+        "text": {
+          "type": "string"
+        },
+        "number_rule": {
+          "type": "string",
+          "default": "auto"
+        }
+      }
+    },
+    "paragraph": {
+      "type": "object",
+      "required": [
+        "type",
+        "text"
+      ],
+      "properties": {
+        "type": {
+          "const": "paragraph"
+        },
+        "text": {
+          "type": "string"
+        },
+        "semantic_role": {
+          "type": "string",
+          "enum": [
+            "body",
+            "caption",
+            "note"
+          ]
+        }
+      }
+    },
+    "table": {
+      "type": "object",
+      "required": [
+        "type",
+        "table_role"
+      ],
+      "properties": {
+        "type": {
+          "const": "table"
+        },
+        "table_role": {
+          "type": "string"
+        },
+        "headers": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "rows": {
+          "type": "array",
+          "items": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "image": {
+      "type": "object",
+      "required": [
+        "type"
+      ],
+      "properties": {
+        "type": {
+          "const": "image"
+        },
+        "source": {
+          "type": "string"
+        },
+        "caption": {
+          "type": "string"
+        }
+      }
+    },
+    "reference": {
+      "type": "object",
+      "required": [
+        "type",
+        "items"
+      ],
+      "properties": {
+        "type": {
+          "const": "reference"
+        },
+        "items": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "text"
+            ],
+            "properties": {
+              "text": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    },
+    "page_break": {
+      "type": "object",
+      "required": [
+        "type"
+      ],
+      "properties": {
+        "type": {
+          "const": "page_break"
+        }
+      }
+    },
+    "fixed_region": {
+      "type": "object",
+      "required": [
+        "type",
+        "role"
+      ],
+      "properties": {
+        "type": {
+          "const": "fixed_region"
+        },
+        "role": {
+          "type": "string",
+          "enum": [
+            "signature",
+            "date",
+            "stamp",
+            "note"
+          ]
+        },
+        "position": {
+          "type": "object",
+          "properties": {
+            "anchor": {
+              "type": "string"
+            }
+          }
+        },
+        "content": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

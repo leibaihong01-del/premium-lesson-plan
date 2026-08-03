@@ -1,0 +1,18 @@
+# 表格规则（通用）
+rules:
+  - id: TABLE-001
+    rule: 表头 3~6 个汉字优先单行，先调列宽（gridCol+tcW）
+    source: 王欢
+    validation: 王欢+汪子涵 已验证
+  - id: TABLE-002
+    rule: 表注格式为 表X.X + 两空格，禁止 表X-X/单空格
+    source: 王欢/汪子涵
+    validation: 已验证
+  - id: TABLE-003
+    rule: 表注与表格同页绑定，表注后无空段落（keep_with_next）
+    source: 汪子涵
+    validation: 已验证
+  - id: TABLE-004
+    rule: 表格宽度自适应页面有效宽度，内容可读性优先
+    source: 王欢
+    validation: 已验证

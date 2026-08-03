@@ -1,0 +1,23 @@
+# 毕业设计成果工作流（索引化，小文件）
+steps:
+  - load_skill_meta
+  - load_required_capability:
+      - content_rules
+      - table_rules
+      - toc_rules
+      - college_rules
+      - profession_terms
+  - content_generation
+  - quality_gates:
+      - content_gate
+      - template_gate
+      - visual_gate
+      - college_gate
+      - delivery_gate
+  - finalization:
+      - update_toc
+      - update_fields
+      - update_page_numbers
+  - render_check
+  - delivery_freeze
+capability_loading: index_based_not_full_load

@@ -1,6 +1,6 @@
 {
   "skill": "graduation_design.result",
-  "version": "1.0",
+  "version": "1.1",
   "status": "active",
   "created_at": "2026-08-03",
   "changelog": [
@@ -14,5 +14,6 @@
       "date": "2026-08-03 19:56:40",
       "summary": "成果 Skill 冻结：模板保真重构、区域化内容合规检测、教师反馈规则沉淀、学生案例验收通过"
     }
-  ]
+  ],
+  "upgrade": "索引化：rules/knowledge/memory；经验层分离"
 }

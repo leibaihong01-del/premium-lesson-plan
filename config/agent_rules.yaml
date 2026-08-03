@@ -40,3 +40,143 @@ preflight:
 reflection:
   save_failure: true
   update_rule: true
+
+
+minimal_change_patch:
+  scope_rule: user_specified_scope_equals_change_scope
+  forbidden:
+    - fix_A_and_optimize_B_C_D
+    - modify_template_numbering_system
+    - expand_to_other_chapters
+    - regenerate_whole_document
+  required:
+    - locate_specific_xml_node
+    - change_single_attribute_or_text
+    - report_before_after_diff
+    - small_scope_verification
+
+
+document_modification_verification:
+  required_steps:
+    - before_snapshot
+    - actual_write
+    - after_snapshot
+    - real_diff_compare
+  complete_conditions:
+    - actual_file_diff_detected
+    - diff_in_user_scope
+    - attributes_match_template
+    - change_survives_reload
+  forbidden_basis:
+    - code_execution_success
+    - log_output
+    - expected_parameters
+    - fabricated_diff
+  output_required:
+    - before_actual_value
+    - after_actual_value
+    - xml_diff_location
+    - file_verification_result
+
+
+finalization_agent:
+  phase: document_packaging
+  required:
+    - detect_toc_field
+    - call_office_wps_update
+    - save_document
+    - reopen_and_verify_toc
+  forbidden:
+    - manual_toc_text
+    - copy_template_old_toc
+    - require_user_manual_update
+
+
+full_scan_closed_loop:
+  principle: detection_must_cover_full_document_and_repair_must_have_closed_loop
+  forbidden:
+    - scan_one_region_then_announce_complete
+    - fix_one_region_then_announce_complete
+  required_flow:
+    - global_scan
+    - issue_list
+    - classify_issues
+    - fix
+    - global_rescan
+    - pass_gate
+
+
+autonomous_quality_gate:
+  principle: user_should_not_join_low_level_verification_loops
+  required:
+    - complete_quality_scan_before_delivery
+    - one_time_full_issue_report
+  forbidden:
+    - incremental_confirmation_before_full_scan
+
+
+autonomous_execution_policy:
+  default_allow:
+    - file_scan
+    - problem_location
+    - solution_selection
+    - auto_repair
+    - render_verify
+    - generate_report
+  must_pause:
+    - delete_original_file
+    - modify_core_architecture
+    - change_unapproved_scope
+    - irreversible_choice_between_multiple_options
+
+table_quality_gate:
+  header_single_line: 3_to_6_cjk_chars_preferred
+  adjustment_order: [column_width, table_width, cell_space]
+  verify: [no_break, visual_balance, no_overflow, content_unchanged]
+
+environment_preflight:
+  check: [python_path, venv_active, deps, external_tools]
+  auto_fix: switch_to_bundled_runtime_or_venv
+  report_only_when_unfixable: true
+
+
+document_visual_layout_rules:
+  verification: [docx_structure_check, pdf_visual_check]
+  table_layout:
+    width:
+      adaptive_to_page: true
+      prioritize_readability: true
+    caption:
+      format: "表X.X  表名称"
+      separator_spaces: 2
+      keep_with_table: true
+    spacing:
+      caption_to_table: 0
+      between_tables:
+        allow_visual_spacing: true
+        avoid_caption_detachment: true
+    header:
+      short_title_single_line: true
+      optimize_column_width_first: true
+
+
+institution_compliance_gate:
+  phase1_pre_generation:
+    parse_college_docs: true
+    source:
+      - 06实施方案
+      - 07管理办法
+      - 08检查标准
+    extract: [must_items, forbidden_items, format_rules, check_list]
+    output: college_requirement
+  phase2_pre_delivery:
+    check: [college_requirements, hard_rules, missing_materials]
+    output: 学院规范符合性报告
+  format_rules_participate_before_generation: true
+
+quality_gates_order:
+  - content_gate
+  - template_gate
+  - visual_gate
+  - institution_compliance_gate
+  - delivery_gate

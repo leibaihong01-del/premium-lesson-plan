@@ -1,0 +1,35 @@
+document_type: 毕业设计成果
+category: complex_document
+structure:
+  - 封面
+  - 真实性声明
+  - 目录
+  - 1 引言
+    required:
+      - 背景
+      - 目的意义
+      - 设计内容
+  - 2 对象概述
+    required:
+      - 定义
+      - 组成
+      - 原理
+  - 3 问题分析
+    required:
+      - 分类
+      - 现象
+      - 原因
+  - 4 方案设计
+    required:
+      - 原则
+      - 流程
+      - 标准
+      - 周期
+  - 5 总结
+  - 参考文献
+table_requirements:
+  - 系统组成表
+  - 故障分析表
+  - 维护周期表
+  - 检查表
+rule: 方案设计类成果必须按上述章节组织，模板结构不得删除。

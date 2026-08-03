@@ -1,0 +1,74 @@
+{
+  "version": "1.0",
+  "status": "candidate",
+  "generated_at": "2026-08-03 21:01:30",
+  "source": "毕业设计成果历史教师反馈样本（脱敏）",
+  "note": "非真实教师反馈来源，不得用于Skill升级；仅用于流程/格式/程序测试。",
+  "rules": [
+    {
+      "id": "CR-TPL-01",
+      "category": "模板保真",
+      "rule": "成果必须复制模板母版，固定页/分节/样式/页码全部继承",
+      "validation": "新学生生成后与模板逐项对比"
+    },
+    {
+      "id": "CR-TPL-02",
+      "category": "模板保真",
+      "rule": "表格复制模板结构后填充内容，禁止重建表格",
+      "validation": "表格签名/列宽与模板一致"
+    },
+    {
+      "id": "CR-WORD-01",
+      "category": "Word结构",
+      "rule": "目录使用 Heading + TOC 域并可更新",
+      "validation": "目录页码与正文一致"
+    },
+    {
+      "id": "CR-WORD-02",
+      "category": "Word结构",
+      "rule": "页码使用 Word 页码域，禁止文本页码",
+      "validation": "PAGE 域存在且渲染正确"
+    },
+    {
+      "id": "CR-WORD-03",
+      "category": "Word结构",
+      "rule": "正文→正文内容、参考文献→参考文献、标题→Heading 1/2",
+      "validation": "样式集覆盖模板"
+    },
+    {
+      "id": "CR-CONTENT-01",
+      "category": "内容生成",
+      "rule": "研究对象→设计对象；正文避免研究式表达",
+      "validation": "多学生生成后扫描 0 命中"
+    },
+    {
+      "id": "CR-CONTENT-02",
+      "category": "内容生成",
+      "rule": "虚拟站点不得作为真实资料/实践来源，转为系统/设备/行业案例",
+      "validation": "虚拟表述扫描 0 命中"
+    },
+    {
+      "id": "CR-CONTENT-03",
+      "category": "内容生成",
+      "rule": "参考文献内容去除多余空格，格式与模板一致",
+      "validation": "参考文献格式检查"
+    },
+    {
+      "id": "CR-RULE-01",
+      "category": "学院规范",
+      "rule": "章节之间分页（Heading 1 pageBreakBefore）",
+      "validation": "目录页码分布与分页一致"
+    },
+    {
+      "id": "CR-COMP-01",
+      "category": "学院规范",
+      "rule": "区域化内容合规检测：封面/承诺页/参考文献豁免，正文/总结/附录检测",
+      "validation": "承诺页固定文字不误报"
+    }
+  ],
+  "source_type": "ai_generated",
+  "classification": "B类测试数据",
+  "learning_allowed": false,
+  "verification_status": "candidate",
+  "corrected_at": "2026-08-03 21:10:55"
+}

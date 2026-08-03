@@ -1,0 +1,35 @@
+# 文档生成策略路由（Document Strategy）
+
+version: 1
+updated_at: 2026-08-03
+
+原则：文档类型决定生成策略，禁止所有 Word 走同一条链。
+
+document_strategy:
+  taskbook:
+    mode: template_fill
+    strategy: 模板母版复制 + 字段填充 + 少量内容生成
+
+  score_table:
+    mode: template_fill
+    strategy: 模板母版复制 + 字段替换
+
+  defense_record:
+    mode: template_fill
+    strategy: 模板母版复制 + 字段替换 + 摘要生成
+
+  graduation_result:
+    mode: template_reconstruction
+    strategy: 内容理解解析 -> 结构树 -> 模板结构匹配 -> 内容重构 -> 渲染
+
+  course_standard:
+    mode: template_reconstruction
+    strategy: 内容理解 + 模板约束下重构
+
+  lesson_plan:
+    mode: template_reconstruction
+    strategy: 内容理解 + 模板约束下重构
+
+  project_application:
+    mode: template_reconstruction
+    strategy: 内容理解 + 模板约束下重构

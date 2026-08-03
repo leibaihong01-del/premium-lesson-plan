@@ -1,0 +1,22 @@
+templates:
+  task_book:
+    file: 01 杨振海 毕业设计任务书 黄兴南路站AFC闸机设备检修方案设计.docx
+    category: fixed_template
+    fields: [二级学院, 姓名, 班级名称, 学号, 校内 指导教师, 选题名称, 选题类型, 设计目标, 设计任务, 预期成果]
+    protected: [设计进程表, 签名区, 审核意见, 页面布局]
+  score_record:
+    file: 04-05 杨振海 毕业设计成绩评定表 答辩记录表 黄兴南路站AFC闸机设备检修方案设计.docx
+    category: fixed_template
+    fields: [二级学院, 姓名, 班级名称, 学号, 校内 指导教师, 选题名称]
+    protected: [评价指标, 评分栏, 签名栏, 审核意见]
+  defense_record:
+    file: 04-05 杨振海 毕业设计成绩评定表 答辩记录表 黄兴南路站AFC闸机设备检修方案设计.docx
+    category: fixed_template
+    fields: [二级学院, 姓名, 班级名称, 学号, 校内 指导教师, 选题名称, 学生姓名, 指导教师]
+    protected: [答辩结论, 记录人, 答辩小组审核意见]
+  graduation_result:
+    file: 02 杨振海 毕业设计成果 黄兴南路站AFC闸机设备检修方案设计.docx
+    category: complex_document
+    fields: [选题名称, 选题类型, 二级学院, 专业名称, 班级名称, 姓名, 学号, 指导教师, 完成时间]
+    protected: [封面结构, 承诺区, 表格结构, 分页, 参考文献格式]
+rule: 固定表单必须模板复制+原位替换；毕业设计成果必须走结构迁移流程。
