@@ -1,3 +1,7 @@
+---
+name: graduation-package
+description: 毕业设计四件套唯一生产 Skill：任务书、成果（Result v1.5）、成绩评定表、答辩记录表端到端生成与跨文件校验。
+---
 # Graduation Package Skill
 
 毕业设计四件套统一生产 Skill：任务书、成果、成绩评定表、答辩记录表端到端生成。
