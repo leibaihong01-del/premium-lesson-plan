@@ -1,0 +1,49 @@
+{
+  "schema": "0.7-wanghuan-production-line-v1",
+  "conclusion": "B：重新生成Word（基于模板语义画像+内容中间表示重建），不是简单模板复制+内容填充",
+  "input_template": "02 杨振海 毕业设计成果 黄兴南路站AFC闸机设备检修方案设计.docx",
+  "intermediate_representation": [
+    "06_输出成果/V0.4.2_王欢成果验证/document_ir.json",
+    "06_输出成果/V0.4.2_王欢成果验证/template_profile.json"
+  ],
+  "version_chain": {
+    "original": "V0.3_王欢成果验证/AI生成版（初稿标准化路径）",
+    "punctuation_revision": "V0.4.2_王欢成果验证/_标点规范版/引号规范版",
+    "table_revision": "V0.4.2_王欢成果验证/_表格表头规范版",
+    "reference_revision": "V0.4.2_王欢成果验证/_参考对齐0.74cm版/_参考对齐v2版",
+    "toc_revision": "V0.4.2_王欢成果验证/_目录更新版/_目录重新生成版",
+    "final_delivery": "V0.4.2_王欢成果验证/02 王欢 毕业设计成果 ..._最终交付版.docx",
+    "final_acceptance": "V0.4.2_王欢成果验证/02 王欢 毕业设计成果 ..._最终验收版.docx"
+  },
+  "content_generation_steps": [
+    "解析学生成果初稿 → document_ir.json（章节/正文/表格/参考文献）",
+    "解析杨振海黄金模板 → template_profile.json（样式/分节/页码/TOC/表格/参考文献规则）",
+    "Template Instance Pipeline：以IR+Profile重建新Word，禁止初稿作为Word基版",
+    "Template Semantic Layer：样式继承、标题Run分离、表格内容样式、参考文献自动编号"
+  ],
+  "post_processing_steps": [
+    "中文标点规范化（半角引号/逗号/句号转全角，参考文献免检）",
+    "表注编号表X.X+双空格，表注与表格紧贴",
+    "表头单行优先，列宽gridCol+tcW同步调整",
+    "参考文献自动编号numId=1/lvlText=[%1]，悬挂缩进",
+    "TOC域+TOC1/2/3，页码右对齐点引导符",
+    "PAGE域与4分节继承"
+  ],
+  "human_experience_calls": [
+    {"source": "人工优化差异学习报告.md", "rules": ["表注X.X+双空格", "表注与表格绑定", "表头单行优先", "列宽自适应", "虚拟案例不绑定真实城市"]}
+  ],
+  "final_acceptance_steps": [
+    "v042_semantic_regression_report.md：42/42 Diff检查通过",
+    "Word Quality Gate 50/50",
+    "PDF渲染验收",
+    "最终交付版 → 最终验收版"
+  ],
+  "evidence_files": [
+    "V0.4.2_王欢成果验证/template_profile.json",
+    "V0.4.2_王欢成果验证/document_ir.json",
+    "V0.4.2_王欢成果验证/人工优化差异学习报告.md",
+    "V0.4.2_王欢成果验证/v042_semantic_regression_report.md",
+    "V0.4.2_王欢成果验证/diff_report.md",
+    "V0.4.2_王欢成果验证/final_delivery_report.md"
+  ]
+}

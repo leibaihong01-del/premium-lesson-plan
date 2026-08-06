@@ -150,5 +150,21 @@
     "loops": 0,
     "level": "high",
     "time": "2026-08-01 02:43:36"
+  },
+  {
+    "task_type": "lesson",
+    "score": 20.8,
+    "passed": false,
+    "loops": 4,
+    "level": "high",
+    "time": "2026-08-02 15:42:34"
+  },
+  {
+    "task_type": "lesson",
+    "score": 100.0,
+    "passed": true,
+    "loops": 0,
+    "level": "high",
+    "time": "2026-08-02 15:57:04"
   }
 ]

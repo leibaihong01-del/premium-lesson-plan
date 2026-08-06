@@ -2,12 +2,12 @@
   "tail_spacing": {
     "issue": "tail0",
     "action": "fix_tail_spacing",
-    "count": 0
+    "count": 3
   },
   "title_fix": {
     "issue": "title",
     "action": "fix_title",
-    "count": 0
+    "count": 3
   },
   "reflection_no_split": {
     "issue": "practice_reflection",

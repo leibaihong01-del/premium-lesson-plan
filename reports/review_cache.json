@@ -190,5 +190,17 @@
       "teaching": 25.0,
       "format": 20.0
     }
+  },
+  "02《城市轨道交通概论》-教案（32h）第2课.docx": {
+    "doc_hash": "7a7c4a91ec88909be9dd3be3bbbf2b8a542c3c1b",
+    "tpl_hash": "c30a925325cb6a97e7f44dfb98004fe0fe83d139",
+    "total_score": 20.8,
+    "final": "REPAIR_REQUIRED",
+    "scores": {
+      "template": 7.5,
+      "content": 8.3,
+      "teaching": 5.0,
+      "format": 0.0
+    }
   }
 }

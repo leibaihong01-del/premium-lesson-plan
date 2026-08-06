@@ -1,0 +1,137 @@
+{
+  "template": "defense_record",
+  "segment_count": 27,
+  "segments": [
+    {
+      "id": "P00",
+      "type": "fixed",
+      "content": "答辩时间："
+    },
+    {
+      "id": "P01",
+      "type": "fixed",
+      "content": "答辩地点："
+    },
+    {
+      "id": "P02",
+      "type": "slot",
+      "name": "student_info",
+      "slot_type": "content"
+    },
+    {
+      "id": "P03",
+      "type": "fixed",
+      "content": "指导教师：瞿曌"
+    },
+    {
+      "id": "P04",
+      "type": "fixed",
+      "content": "答辩组成员："
+    },
+    {
+      "id": "P05",
+      "type": "fixed",
+      "content": "答辩过程记录："
+    },
+    {
+      "id": "P06",
+      "type": "fixed",
+      "content": "一、答辩小组提问及学生回答情况简述："
+    },
+    {
+      "id": "P07",
+      "type": "fixed",
+      "content": "答辩提问："
+    },
+    {
+      "id": "P08",
+      "type": "slot",
+      "name": "question_slot_1",
+      "slot_type": "content"
+    },
+    {
+      "id": "P09",
+      "type": "slot",
+      "name": "answer_slot_1",
+      "slot_type": "content"
+    },
+    {
+      "id": "P10",
+      "type": "spacer"
+    },
+    {
+      "id": "P11",
+      "type": "slot",
+      "name": "question_slot_2",
+      "slot_type": "content"
+    },
+    {
+      "id": "P12",
+      "type": "slot",
+      "name": "answer_slot_2",
+      "slot_type": "content"
+    },
+    {
+      "id": "P13",
+      "type": "spacer"
+    },
+    {
+      "id": "P14",
+      "type": "fixed",
+      "content": "二、学生毕业设计成果要素完整性、一致性检查："
+    },
+    {
+      "id": "P15",
+      "type": "spacer"
+    },
+    {
+      "id": "P16",
+      "type": "fixed",
+      "content": "☑无问题 □有问题"
+    },
+    {
+      "id": "P17",
+      "type": "spacer"
+    },
+    {
+      "id": "P18",
+      "type": "spacer"
+    },
+    {
+      "id": "P19",
+      "type": "spacer"
+    },
+    {
+      "id": "P20",
+      "type": "spacer"
+    },
+    {
+      "id": "P21",
+      "type": "spacer"
+    },
+    {
+      "id": "P22",
+      "type": "spacer"
+    },
+    {
+      "id": "P23",
+      "type": "slot",
+      "name": "conclusion_slot",
+      "slot_type": "content"
+    },
+    {
+      "id": "P24",
+      "type": "spacer"
+    },
+    {
+      "id": "P25",
+      "type": "fixed",
+      "content": "记录人："
+    },
+    {
+      "id": "P26",
+      "type": "fixed",
+      "content": "2026年    月    日"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "0.7-template-diff-v1",
+  "document_type": "string",
+  "template_source": "string",
+  "generated_source": "string",
+  "structure": {
+    "tables": "number",
+    "rows": "number",
+    "cols": "number",
+    "merged": "number"
+  },
+  "styles": [
+    {
+      "area": "string",
+      "template": "string",
+      "generated": "string",
+      "match": true
+    }
+  ],
+  "pages": {
+    "template": "number",
+    "generated": "number"
+  },
+  "differences": [
+    {
+      "type": "structure | style | page",
+      "detail": "string",
+      "impact": "string"
+    }
+  ],
+  "status": "pass | fail | review"
+}

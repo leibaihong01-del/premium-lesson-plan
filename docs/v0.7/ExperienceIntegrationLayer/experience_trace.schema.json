@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.7-trace-v1",
+  "document_type": "string",
+  "skill": "string",
+  "template_source": "string",
+  "task_id": "string",
+  "generated_at": "string",
+  "experiences": [
+    {
+      "experience_id": "string",
+      "name": "string",
+      "source_file": "string",
+      "phase": "template_understanding | planning | content | quality | revision | validation",
+      "loaded": true,
+      "used": true,
+      "impact": "string"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.5.5",
+  "case_id": "qiu_zhihao_taskbook",
+  "problem": "总页数溢出，实际3页/模板2页",
+  "problem_layer": "template_space_constraint",
+  "root_cause": "生成阶段未控制内容密度和空段预算",
+  "evidence": [
+    "qiu_zhihao_taskbook_problem_snapshot_input.pdf"
+  ],
+  "strategy": "按空段预算收敛并复核换行估算",
+  "result": {
+    "before_pages": 3,
+    "after_pages": 2,
+    "protected_ok": true
+  },
+  "feedback_source": "auto_detection",
+  "validation_status": "candidate"
+}

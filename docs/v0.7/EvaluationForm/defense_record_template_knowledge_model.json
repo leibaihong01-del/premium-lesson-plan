@@ -1,0 +1,65 @@
+{
+  "schema_version": "0.7-def-v3",
+  "template_id": "defense_record_split_v2",
+  "template_type": "defense_record",
+  "source": "D:/Users/leibaihong/Desktop/课程材料优化\\毕业设计智能制作工作区/02_模板文件/拆分独立模板/杨振海_答辩记录表模板_独立版.docx",
+  "page_count": 2,
+  "structure": {
+    "defense_table": {
+      "rows": 1,
+      "cols": 1
+    },
+    "regions": [
+      {
+        "name": "答辩基本信息",
+        "role": "defense_info",
+        "must_keep": true
+      },
+      {
+        "name": "答辩组成员",
+        "role": "defense_members",
+        "must_keep": true
+      },
+      {
+        "name": "答辩提问与回答",
+        "role": "qa_record",
+        "must_keep": true
+      },
+      {
+        "name": "成果完整性检查",
+        "role": "completeness_check",
+        "must_keep": true
+      },
+      {
+        "name": "答辩结论",
+        "role": "conclusion",
+        "must_keep": true
+      },
+      {
+        "name": "记录人/日期",
+        "role": "signature",
+        "must_keep": true
+      }
+    ]
+  },
+  "invariants": [
+    {
+      "region": "答辩结论",
+      "rule": "must_keep",
+      "reason": "最终判定"
+    },
+    {
+      "region": "记录人/日期",
+      "rule": "must_keep",
+      "reason": "人工确认"
+    },
+    {
+      "region": "成果完整性检查",
+      "rule": "must_keep",
+      "reason": "合规确认"
+    }
+  ],
+  "out_of_scope": [
+    "成绩评定表"
+  ]
+}

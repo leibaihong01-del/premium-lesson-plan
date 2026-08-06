@@ -1,0 +1,14 @@
+# 学院规范规则（通用）
+rules:
+  - id: COLLEGE-001
+    rule: 生成前解析学院文件，提取必须项/禁止项/格式规则
+    source: 学校规范知识库
+    validation: 已建立
+  - id: COLLEGE-002
+    rule: 交付前输出学院规范符合性报告
+    source: 学校规范知识库
+    validation: 已建立
+  - id: COLLEGE-003
+    rule: 影响格式的学院规则必须参与生成，不能最后发现
+    source: 经验沉淀
+    validation: 已建立

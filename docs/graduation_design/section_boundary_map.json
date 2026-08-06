@@ -1,0 +1,410 @@
+﻿{
+  "template": {
+    "label": "template",
+    "sections": [
+      {
+        "prev": "2026年10月",
+        "next": "毕业设计真实性承诺及指导教师声明",
+        "pos": "paragraph",
+        "titlePg": false,
+        "evenAndOddHeaders": false,
+        "headerReferences": [
+          {
+            "type": "first",
+            "target": "header3.xml"
+          },
+          {
+            "type": "default",
+            "target": "header1.xml"
+          },
+          {
+            "type": "even",
+            "target": "header2.xml"
+          }
+        ],
+        "footerReferences": [
+          {
+            "type": "first",
+            "target": "footer3.xml"
+          },
+          {
+            "type": "default",
+            "target": "footer1.xml"
+          },
+          {
+            "type": "even",
+            "target": "footer2.xml"
+          }
+        ],
+        "w:pgSz": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}w": "11906",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}h": "16838"
+        },
+        "w:pgMar": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}top": "1984",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}right": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}bottom": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}left": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}header": "1134",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}footer": "1134",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}gutter": "0"
+        },
+        "w:cols": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}space": "720",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}num": "1"
+        },
+        "w:docGrid": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}linePitch": "312",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}charSpace": "0"
+        }
+      },
+      {
+        "prev": "毕业设计真实性承诺及指导教师声明",
+        "next": "目  录",
+        "pos": "paragraph",
+        "titlePg": false,
+        "evenAndOddHeaders": false,
+        "headerReferences": [
+          {
+            "type": "default",
+            "target": "header4.xml"
+          }
+        ],
+        "footerReferences": [],
+        "w:pgSz": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}w": "11906",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}h": "16838"
+        },
+        "w:pgMar": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}top": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}right": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}bottom": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}left": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}header": "850",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}footer": "1134",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}gutter": "0"
+        },
+        "w:cols": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}space": "720",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}num": "1"
+        },
+        "w:docGrid": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}linePitch": "312",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}charSpace": "0"
+        }
+      },
+      {
+        "prev": "目  录",
+        "next": "1  引  言",
+        "pos": "paragraph",
+        "titlePg": false,
+        "evenAndOddHeaders": false,
+        "headerReferences": [
+          {
+            "type": "default",
+            "target": "header5.xml"
+          }
+        ],
+        "footerReferences": [
+          {
+            "type": "default",
+            "target": "footer4.xml"
+          }
+        ],
+        "w:pgSz": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}w": "11906",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}h": "16838"
+        },
+        "w:pgMar": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}top": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}right": "1134",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}bottom": "1134",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}left": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}header": "851",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}footer": "992",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}gutter": "0"
+        },
+        "w:cols": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}space": "0",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}num": "1"
+        },
+        "w:docGrid": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}type": "lines",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}linePitch": "312",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}charSpace": "0"
+        },
+        "w:pgNumType": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}fmt": "decimal"
+        }
+      },
+      {
+        "prev": "刘洋.基于状态监测的地铁AFC设备预防性维护策略[J].城市轨道交通技术,2024(2):56-60.",
+        "next": "BODY_END",
+        "pos": "body",
+        "titlePg": false,
+        "evenAndOddHeaders": false,
+        "headerReferences": [
+          {
+            "type": "default",
+            "target": "header6.xml"
+          }
+        ],
+        "footerReferences": [
+          {
+            "type": "default",
+            "target": "footer5.xml"
+          }
+        ],
+        "w:pgSz": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}w": "11906",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}h": "16838"
+        },
+        "w:pgMar": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}top": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}right": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}bottom": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}left": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}header": "850",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}footer": "1134",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}gutter": "0"
+        },
+        "w:cols": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}space": "720",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}num": "1"
+        },
+        "w:docGrid": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}linePitch": "312",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}charSpace": "0"
+        },
+        "w:pgNumType": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}fmt": "decimal",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}start": "1"
+        }
+      }
+    ],
+    "footers": {
+      "word/footer1.xml": {
+        "PAGE": 0,
+        "NUMPAGES": 0
+      },
+      "word/footer2.xml": {
+        "PAGE": 1,
+        "NUMPAGES": 0
+      },
+      "word/footer3.xml": {
+        "PAGE": 0,
+        "NUMPAGES": 0
+      },
+      "word/footer4.xml": {
+        "PAGE": 0,
+        "NUMPAGES": 0
+      },
+      "word/footer5.xml": {
+        "PAGE": 2,
+        "NUMPAGES": 0
+      }
+    },
+    "headers": {
+      "word/header1.xml": {
+        "len": 2969
+      },
+      "word/header2.xml": {
+        "len": 1368
+      },
+      "word/header3.xml": {
+        "len": 1368
+      },
+      "word/header4.xml": {
+        "len": 2899
+      },
+      "word/header5.xml": {
+        "len": 2899
+      },
+      "word/header6.xml": {
+        "len": 3114
+      }
+    }
+  },
+  "generated": {
+    "label": "generated",
+    "sections": [
+      {
+        "prev": "2026年10月",
+        "next": "毕业设计真实性承诺及指导教师声明",
+        "pos": "paragraph",
+        "titlePg": false,
+        "evenAndOddHeaders": false,
+        "headerReferences": [
+          {
+            "type": "first",
+            "target": "header3.xml"
+          },
+          {
+            "type": "default",
+            "target": "header1.xml"
+          },
+          {
+            "type": "even",
+            "target": "header2.xml"
+          }
+        ],
+        "footerReferences": [
+          {
+            "type": "first",
+            "target": "footer3.xml"
+          },
+          {
+            "type": "default",
+            "target": "footer1.xml"
+          },
+          {
+            "type": "even",
+            "target": "footer2.xml"
+          }
+        ],
+        "w:pgSz": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}w": "11906",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}h": "16838"
+        },
+        "w:pgMar": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}top": "1984",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}right": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}bottom": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}left": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}header": "1134",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}footer": "1134",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}gutter": "0"
+        },
+        "w:cols": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}space": "720",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}num": "1"
+        },
+        "w:docGrid": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}linePitch": "312",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}charSpace": "0"
+        }
+      },
+      {
+        "prev": "毕业设计真实性承诺及指导教师声明",
+        "next": "目  录",
+        "pos": "paragraph",
+        "titlePg": false,
+        "evenAndOddHeaders": false,
+        "headerReferences": [
+          {
+            "type": "default",
+            "target": "header4.xml"
+          }
+        ],
+        "footerReferences": [],
+        "w:pgSz": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}w": "11906",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}h": "16838"
+        },
+        "w:pgMar": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}top": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}right": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}bottom": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}left": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}header": "850",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}footer": "1134",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}gutter": "0"
+        },
+        "w:cols": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}space": "720",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}num": "1"
+        },
+        "w:docGrid": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}linePitch": "312",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}charSpace": "0"
+        }
+      },
+      {
+        "prev": "刘洋.AFC系统PHM技术应用与故障预测分析[J].城市轨道交通技术,2023(4):61-65.",
+        "next": "BODY_END",
+        "pos": "body",
+        "titlePg": false,
+        "evenAndOddHeaders": false,
+        "headerReferences": [
+          {
+            "type": "default",
+            "target": "header6.xml"
+          }
+        ],
+        "footerReferences": [
+          {
+            "type": "default",
+            "target": "footer5.xml"
+          }
+        ],
+        "w:pgSz": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}w": "11906",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}h": "16838"
+        },
+        "w:pgMar": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}top": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}right": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}bottom": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}left": "1417",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}header": "850",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}footer": "1134",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}gutter": "0"
+        },
+        "w:cols": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}space": "720",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}num": "1"
+        },
+        "w:docGrid": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}linePitch": "312",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}charSpace": "0"
+        },
+        "w:pgNumType": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}fmt": "decimal",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}start": "1"
+        }
+      }
+    ],
+    "footers": {
+      "word/footer2.xml": {
+        "PAGE": 1,
+        "NUMPAGES": 0
+      },
+      "word/footer1.xml": {
+        "PAGE": 1,
+        "NUMPAGES": 0
+      },
+      "word/footer5.xml": {
+        "PAGE": 2,
+        "NUMPAGES": 0
+      },
+      "word/footer4.xml": {
+        "PAGE": 0,
+        "NUMPAGES": 0
+      },
+      "word/footer3.xml": {
+        "PAGE": 0,
+        "NUMPAGES": 0
+      }
+    },
+    "headers": {
+      "word/header3.xml": {
+        "len": 1367
+      },
+      "word/header2.xml": {
+        "len": 1367
+      },
+      "word/header1.xml": {
+        "len": 2968
+      },
+      "word/header6.xml": {
+        "len": 3113
+      },
+      "word/header5.xml": {
+        "len": 2898
+      },
+      "word/header4.xml": {
+        "len": 2898
+      }
+    }
+  }
+}

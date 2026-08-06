@@ -1,0 +1,26 @@
+{
+  "rule": "中文宋体/英文Times New Roman；中文语境全角标点；禁止多余空格与隐藏字符",
+  "issues": {
+    "chinese_font_anomalies": [
+      {
+        "paragraph": 4,
+        "font": "微软雅黑",
+        "sample": "毕业设计真实性承诺及指导教师声明"
+      },
+      {
+        "paragraph": 9,
+        "font": "微软雅黑",
+        "sample": "目"
+      },
+      {
+        "paragraph": 9,
+        "font": "微软雅黑",
+        "sample": "录"
+      }
+    ],
+    "halfwidth_punct_near_cjk": 20,
+    "double_spaces": 16,
+    "tabs": 0,
+    "control_chars": 0
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": "0.7-rqs",
+  "understanding": {
+    "reference_count": 0,
+    "empty_numbers": [],
+    "duplicate_ids": [],
+    "sequence_gaps": [],
+    "content_pollution": {
+      "pollution_words": [],
+      "nbsp_count": 0,
+      "hidden_chars": 0
+    }
+  },
+  "visual_structure": {
+    "numbering_aligned": false,
+    "hanging_indent_ok": false,
+    "continuation_aligned": false,
+    "style_inherited": false,
+    "font_consistent": false,
+    "spacing_consistent": false
+  },
+  "diagnosis": {
+    "phenomenon": "",
+    "direct_cause": "",
+    "root_cause": "",
+    "problem_type": "reference_layout | reference_content_pollution"
+  },
+  "revision": {
+    "priority": [
+      "template_style",
+      "validated_experience",
+      "local_style_fix"
+    ],
+    "allowed": [
+      "paragraph_style",
+      "hanging_indent",
+      "line_spacing",
+      "char_cleanup"
+    ],
+    "forbidden": [
+      "content_change",
+      "order_change",
+      "count_change"
+    ]
+  },
+  "validation": {
+    "pollution_zero": false,
+    "numbering_consistent": false,
+    "first_line_consistent": false,
+    "continuation_hanging_ok": false,
+    "font_consistent": false,
+    "spacing_consistent": false
+  },
+  "experience": {
+    "record_as": "Reference Quality Experience Candidate",
+    "rule_abstraction": "问题/判断依据/根因/策略/结果",
+    "no_fixed_numbers": true
+  },
+  "baseline": {
+    "source": "杨振海毕业设计成果模板",
+    "source_verified": true,
+    "invalid_examples": [
+      "汪子涵参考文献分析"
+    ]
+  }
+}

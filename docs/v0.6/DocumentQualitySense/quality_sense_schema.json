@@ -1,0 +1,48 @@
+{
+  "schema_version": "0.6.6",
+  "quality_levels": {
+    "L1": "模板合规",
+    "L2": "结构合理",
+    "L3": "黄金质量"
+  },
+  "dimensions": {
+    "page_semantic_quality": {
+      "checks": [
+        "information_unit_complete",
+        "related_sections_same_page",
+        "semantic_split"
+      ],
+      "example": {
+        "section_relation": "same_page",
+        "reason": "目标与任务属于同一信息单元"
+      }
+    },
+    "region_integrity_quality": {
+      "checks": [
+        "table_region_ok",
+        "content_region_ok",
+        "schedule_region_no_split"
+      ]
+    },
+    "visual_balance_quality": {
+      "checks": [
+        "page_density",
+        "blank_ratio",
+        "content_concentration",
+        "visual_center"
+      ]
+    },
+    "reading_flow_quality": {
+      "checks": [
+        "goal_to_task",
+        "task_to_process",
+        "process_to_result"
+      ]
+    }
+  },
+  "output": {
+    "quality_level": "L1|L2|L3",
+    "deviations": [],
+    "evidence": []
+  }
+}

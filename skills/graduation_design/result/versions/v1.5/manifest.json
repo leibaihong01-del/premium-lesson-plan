@@ -1,0 +1,28 @@
+{
+    "version":  "v1.5",
+    "status":  "frozen",
+    "created_at":  "2026-08-06",
+    "type":  "Result 毕业设计成果模板对齐验证版",
+    "student":  "王欢",
+    "topic":  "解放西路站AFC检票机故障排查方案设计",
+    "template":  "02 杨振海 毕业设计成果 黄兴南路站AFC闸机设备检修方案设计.docx",
+    "verified":  {
+                     "sections":  4,
+                     "footer_page_parity":  true,
+                     "toc_cache_entries":  16,
+                     "academic_words":  0,
+                     "real_metro_name_in_body":  0,
+                     "quality_engine":  "pass",
+                     "pdf_pages":  22
+                 },
+    "assets":  [
+                   "02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+                   "02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.pdf",
+                   "result_v1.5_quality_report.json",
+                   "result_v1.5_template_comparison_report.md",
+                   "FREEZE_NOTE.md"
+               ],
+    "checkpoint":  "CP-2026-08-06-010",
+    "preserve":  "不覆盖 v1.4 / v0.2 / 黄金模板",
+    "unique_output":  "是，唯一输出方式（2026-08-06 人工确认）"
+}

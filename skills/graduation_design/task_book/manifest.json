@@ -1,16 +1,23 @@
 {
   "name": "task-book",
   "domain": "graduation_design",
-  "status": "frozen",
-  "version": "1.0",
+  "status": "active",
+  "version": "1.1",
   "entry": "SKILL.md",
+  "production_entry": "00_系统配置/模块/v03/run_taskbook_case.py",
+  "unique_generator": "taskbook_generator",
+  "prohibited_in_production": [
+    "schema_v0.1_auto",
+    "document_understanding",
+    "vision_analyzer"
+  ],
   "files": [
     "SKILL.md",
     "README.md",
     "version.json",
     "workflow.md",
-    "graduation_design_taskbook_v1.0.md",
-    "references.md",
+    "production_chain.md",
+    "version_upgrade_report.md",
     "cases/validation_summary.json",
     "rules/template_schema.json",
     "rules/generation_rules.md",
@@ -18,5 +25,5 @@
     "rules/naming_rules.json",
     "rules/audit_rules.json"
   ],
-  "registered_at": "2026-08-03"
+  "updated_at": "2026-08-05"
 }

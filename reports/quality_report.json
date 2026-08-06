@@ -1,45 +1,63 @@
 {
-  "file": "_core_work.docx",
-  "template_score": 30.0,
-  "content_score": 25.0,
-  "teaching_score": 25.0,
-  "format_score": 20.0,
-  "total_score": 100.0,
-  "final": "PASS",
+  "file": "_work.docx",
+  "template_score": 7.5,
+  "content_score": 8.3,
+  "teaching_score": 5.0,
+  "format_score": 0.0,
+  "total_score": 20.8,
+  "final": "REPAIR_REQUIRED",
   "checks": {
     "template": {
-      "39x6": true,
-      "grid": true,
-      "merges": true,
-      "R38_6": true,
+      "rows_cols_match_template": false,
+      "grid": false,
+      "merges": false,
       "tail0": true
     },
     "content": {
       "goals": true,
       "keypoints": true,
-      "90min": true,
-      "R10_48": true,
-      "process": true,
-      "after": true
+      "90min": false,
+      "R10_48": false,
+      "process": false,
+      "after": false
     },
     "teaching": {
-      "思政": true,
-      "随堂/实操": true,
-      "分层/实训任务": true,
-      "岗位情境": true,
+      "思政": false,
+      "随堂/实操": false,
+      "分层/实训任务": false,
+      "岗位情境": false,
       "无越界": true
     },
     "format": {
-      "red": true,
-      "blue": true,
-      "purple": true,
-      "title": true
+      "red": false,
+      "blue": false,
+      "purple": false,
+      "title": false
     }
   },
   "issues": {
-    "template": [],
-    "content": [],
-    "teaching": [],
-    "format": []
+    "template": [
+      "rows_cols_match_template",
+      "grid",
+      "merges"
+    ],
+    "content": [
+      "90min",
+      "R10_48",
+      "process",
+      "after"
+    ],
+    "teaching": [
+      "思政",
+      "随堂/实操",
+      "分层/实训任务",
+      "岗位情境"
+    ],
+    "format": [
+      "red",
+      "blue",
+      "purple",
+      "title"
+    ]
   }
 }

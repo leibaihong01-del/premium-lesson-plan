@@ -1,0 +1,122 @@
+{
+  "engine": "ResultDocumentQualityEngine",
+  "version": "1.4",
+  "status": "pass",
+  "dimensions": {
+    "format": {
+      "pass": true,
+      "checks": [
+        {
+          "check": "run_fonts",
+          "pass": true
+        },
+        {
+          "check": "table_style",
+          "pass": true
+        },
+        {
+          "check": "caption_keepnext",
+          "pass": true
+        }
+      ],
+      "issues": []
+    },
+    "content": {
+      "pass": true,
+      "checks": [
+        {
+          "check": "fact_risk",
+          "pass": true
+        },
+        {
+          "check": "academic_expression",
+          "pass": true
+        },
+        {
+          "check": "chapters",
+          "pass": true
+        }
+      ],
+      "issues": []
+    },
+    "template_inheritance": {
+      "pass": true,
+      "checks": [
+        {
+          "check": "styles_xml",
+          "pass": true
+        },
+        {
+          "check": "numbering_xml",
+          "pass": true
+        },
+        {
+          "check": "settings_xml",
+          "pass": true
+        },
+        {
+          "check": "update_fields",
+          "pass": true
+        },
+        {
+          "check": "style_33",
+          "pass": true
+        },
+        {
+          "check": "style_19",
+          "pass": true
+        },
+        {
+          "check": "tables_count",
+          "pass": true,
+          "value": 6
+        }
+      ],
+      "issues": [],
+      "tables": 6
+    },
+    "word_structure": {
+      "pass": true,
+      "checks": [
+        {
+          "check": "toc_single",
+          "pass": true
+        },
+        {
+          "check": "sections",
+          "pass": true,
+          "value": 4
+        },
+        {
+          "check": "footer_page_parity",
+          "pass": true,
+          "value": {
+            "word/footer1.xml": 0,
+            "word/footer4.xml": 0,
+            "word/footer5.xml": 2,
+            "word/footer3.xml": 0,
+            "word/footer2.xml": 1
+          }
+        },
+        {
+          "check": "toc_cache",
+          "pass": true,
+          "value": 16
+        },
+        {
+          "check": "tables",
+          "pass": true,
+          "value": 6
+        }
+      ],
+      "issues": [],
+      "sections": 4,
+      "tables": 6,
+      "page_fields": 19,
+      "footer_page_parity": true,
+      "toc_cache_entries": 16,
+      "pages": 22
+    }
+  },
+  "issues": []
+}

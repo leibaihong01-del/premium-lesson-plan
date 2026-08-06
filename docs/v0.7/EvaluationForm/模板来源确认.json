@@ -1,0 +1,26 @@
+{
+  "eval_template": {
+    "path": "D:/Users/leibaihong/Desktop/课程材料优化\\毕业设计智能制作工作区/02_模板文件/04 杨振海 毕业设计成绩评定表 黄兴南路站AFC闸机设备检修方案设计.docx",
+    "name": "04 杨振海 毕业设计成绩评定表 黄兴南路站AFC闸机设备检修方案设计.docx",
+    "hash": "92f3b7357434bdfd",
+    "structure": {
+      "tables": 1,
+      "main_table": [
+        16,
+        13
+      ]
+    }
+  },
+  "def_template": {
+    "path": "D:/Users/leibaihong/Desktop/课程材料优化\\毕业设计智能制作工作区/02_模板文件/05 杨振海 毕业设计答辩记录表 黄兴南路站AFC闸机设备检修方案设计.docx",
+    "name": "05 杨振海 毕业设计答辩记录表 黄兴南路站AFC闸机设备检修方案设计.docx",
+    "hash": "3a7efbd2ea8186da",
+    "structure": {
+      "tables": 1,
+      "defense_table": [
+        1,
+        1
+      ]
+    }
+  }
+}

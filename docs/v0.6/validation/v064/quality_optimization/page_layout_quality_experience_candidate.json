@@ -1,0 +1,41 @@
+{
+  "schema_version": "0.6.5",
+  "candidate_id": "candidate_page_layout_semantic_001",
+  "source_case": "邱志豪任务书端到端成品",
+  "problem": "设计进程跨页，页面语义单元不完整",
+  "problem_layer": "page_layout_perception",
+  "root_cause": "生成规划缺少页面区域归属与禁止拆分约束",
+  "strategy": "第1页只容纳基本信息+设计目标+设计任务；设计进程固定起始第2页；空段预算0/0；使用换行估算预留余量；容量不足时先压缩内容，仍不足则输出deviation",
+  "required_constraints": {
+    "no_split_regions": [
+      "设计进程"
+    ],
+    "region_start_page": {
+      "设计进程": 2,
+      "预期成果": 2,
+      "签字审核区": 2
+    },
+    "page1_sections": [
+      "基本信息",
+      "设计目标",
+      "设计任务"
+    ],
+    "page2_sections": [
+      "设计进程",
+      "预期成果",
+      "签字审核区"
+    ]
+  },
+  "validation_plan": {
+    "case": "邱志豪任务书",
+    "acceptance": [
+      "设计进程完整在第2页",
+      "第1页语义单元完整",
+      "2页",
+      "无violation，无语义拆分deviation"
+    ]
+  },
+  "status": "candidate",
+  "no_freeze": true,
+  "no_long_term_knowledge": true
+}

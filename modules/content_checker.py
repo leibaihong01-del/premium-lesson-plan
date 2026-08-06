@@ -12,18 +12,25 @@ def cell_text(t, row, col):
     return t.rows[row].cells[col].text
 
 
+def safe_cell(t, row, col):
+    """行号越界时返回空字符串，兼容不同模板行列结构。"""
+    if row >= len(t.rows) or col >= len(t.columns):
+        return ""
+    return cell_text(t, row, col)
+
+
 def check_content(docx_path):
     doc = Document(docx_path)
     t = doc.tables[0]
     checks = {}
-    checks["goals"] = bool(cell_text(t, 3, 1).strip())
-    checks["keypoints"] = bool(cell_text(t, 4, 1).strip())
-    chain = re.findall(r"(\d+)\s*min", cell_text(t, 7, 1))
+    checks["goals"] = bool(safe_cell(t, 3, 1).strip())
+    checks["keypoints"] = bool(safe_cell(t, 4, 1).strip())
+    chain = re.findall(r"(\d+)\s*min", safe_cell(t, 7, 1))
     checks["90min"] = sum(map(int, chain)) == 90 if chain else False
-    r10 = re.findall(r"（(\d+)分钟）", cell_text(t, 10, 2))
+    r10 = re.findall(r"（(\d+)分钟）", safe_cell(t, 10, 2))
     checks["R10_48"] = sum(int(x) for x in r10) == 48 if r10 else False
-    checks["process"] = all(bool(cell_text(t, ri, 1).strip()) for ri in range(20, 28))
-    checks["after"] = all(bool(cell_text(t, ri, 1).strip()) for ri in (30, 31, 32))
+    checks["process"] = all(bool(safe_cell(t, ri, 1).strip()) for ri in range(20, 28))
+    checks["after"] = all(bool(safe_cell(t, ri, 1).strip()) for ri in (30, 31, 32))
     passed = [k for k, v in checks.items() if v]
     score = round(25.0 * len(passed) / len(checks), 1)
     return {"score": score, "checks": checks, "issues": [k for k, v in checks.items() if not v]}

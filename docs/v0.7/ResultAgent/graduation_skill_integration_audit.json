@@ -1,0 +1,31 @@
+﻿{
+  "audit": "graduation_skill_integration_audit",
+  "date": "2026-08-05",
+  "grade": "B",
+  "read_only": true,
+  "student_profile_consistency": {
+    "status": "PASS",
+    "note": "三个司轴均使用同一个 StudentProfile 字段"
+  },
+  "template_chain": {
+    "status": "PASS",
+    "note": "同一模板目录 02_模板文件"
+  },
+  "output_directory": {
+    "status": "PARTIAL",
+    "note": "统一编排时一致，直接调用 v03 产生分歧"
+  },
+  "naming": {
+    "status": "PASS",
+    "note": "01/03/04 学生 + 类型 + 课题"
+  },
+  "validation": {
+    "status": "PARTIAL",
+    "note": "PackageValidator 存在，但 Result 未接入"
+  },
+  "gaps": [
+    "任务书双入口",
+    "成果未接入"
+  ],
+  "report": "CourseAgent/docs/v0.7/ResultAgent/Graduation_Skill_Integration_Audit.md"
+}

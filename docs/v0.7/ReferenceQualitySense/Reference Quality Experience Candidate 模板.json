@@ -1,0 +1,13 @@
+{
+  "schema_version": "0.7-rqs",
+  "candidate_id": "candidate_reference_quality_sense_001",
+  "problem": "参考文献多行结构视觉失衡",
+  "judge_basis": "续行未形成悬挂层级",
+  "root_cause": "模板样式未继承",
+  "strategy": "调用黄金模板参考文献样式",
+  "result": "视觉一致性恢复",
+  "baseline": "杨振海毕业设计成果模板",
+  "source_verified": true,
+  "status": "candidate",
+  "no_fixed_numbers": true
+}

@@ -1,0 +1,19 @@
+{
+  "checkpoint_id": "CP-2026-08-06-009",
+  "phase": "Result TOC Cache 修复与验证",
+  "status": "verified_pending_confirmation",
+  "created_at": "2026-08-06",
+  "baseline": "王欢 v1.5 分节恢复版（CP-2026-08-06-008）",
+  "changes": [
+    "tools/result_v1.4_pipeline.py: toc_cache 注入 + 页脚页码空格归一",
+    "core/result_document_quality_engine.py: toc_cache check"
+  ],
+  "verification": {
+    "toc_entries": 16,
+    "toc_page_mismatch": 0,
+    "quality_engine": "pass",
+    "pdf_pages": 22
+  },
+  "current_recommended_baseline": "王欢 v1.5（TOC Cache 版，待人工确认后冻结）",
+  "preserve": "不覆盖 v1.4 / v0.2 / 黄金模板"
+}

@@ -1,0 +1,198 @@
+{
+  "source": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_渲染验收\\邱志豪_最终版.pdf",
+  "page_count": 16,
+  "pages": [
+    {
+      "page": 1,
+      "chars": 210,
+      "tables": 0,
+      "images": 1,
+      "text_bbox": {
+        "x0": 90.7,
+        "x1": 484.5,
+        "top": 103.1,
+        "bottom": 760.6
+      }
+    },
+    {
+      "page": 2,
+      "chars": 374,
+      "tables": 0,
+      "images": 1,
+      "text_bbox": {
+        "x0": 70.8,
+        "x1": 524.5,
+        "top": 91.1,
+        "bottom": 623.3
+      }
+    },
+    {
+      "page": 3,
+      "chars": 1985,
+      "tables": 0,
+      "images": 1,
+      "text_bbox": {
+        "x0": 94.8,
+        "x1": 538.7,
+        "top": 96.5,
+        "bottom": 499.1
+      }
+    },
+    {
+      "page": 4,
+      "chars": 923,
+      "tables": 0,
+      "images": 1,
+      "text_bbox": {
+        "x0": 70.8,
+        "x1": 530.4,
+        "top": 90.5,
+        "bottom": 783.5
+      }
+    },
+    {
+      "page": 5,
+      "chars": 306,
+      "tables": 0,
+      "images": 1,
+      "text_bbox": {
+        "x0": 70.8,
+        "x1": 524.4,
+        "top": 78.2,
+        "bottom": 783.5
+      }
+    },
+    {
+      "page": 6,
+      "chars": 852,
+      "tables": 0,
+      "images": 1,
+      "text_bbox": {
+        "x0": 70.8,
+        "x1": 526.8,
+        "top": 90.5,
+        "bottom": 783.5
+      }
+    },
+    {
+      "page": 7,
+      "chars": 940,
+      "tables": 0,
+      "images": 1,
+      "text_bbox": {
+        "x0": 70.8,
+        "x1": 526.8,
+        "top": 78.2,
+        "bottom": 783.5
+      }
+    },
+    {
+      "page": 8,
+      "chars": 682,
+      "tables": 1,
+      "images": 1,
+      "text_bbox": {
+        "x0": 70.8,
+        "x1": 526.8,
+        "top": 79.4,
+        "bottom": 783.5
+      }
+    },
+    {
+      "page": 9,
+      "chars": 861,
+      "tables": 0,
+      "images": 1,
+      "text_bbox": {
+        "x0": 70.8,
+        "x1": 530.4,
+        "top": 90.5,
+        "bottom": 783.5
+      }
+    },
+    {
+      "page": 10,
+      "chars": 897,
+      "tables": 1,
+      "images": 1,
+      "text_bbox": {
+        "x0": 70.8,
+        "x1": 526.8,
+        "top": 78.2,
+        "bottom": 783.5
+      }
+    },
+    {
+      "page": 11,
+      "chars": 278,
+      "tables": 1,
+      "images": 1,
+      "text_bbox": {
+        "x0": 115.2,
+        "x1": 468.6,
+        "top": 80.0,
+        "bottom": 783.5
+      }
+    },
+    {
+      "page": 12,
+      "chars": 837,
+      "tables": 0,
+      "images": 1,
+      "text_bbox": {
+        "x0": 70.8,
+        "x1": 530.5,
+        "top": 90.5,
+        "bottom": 783.5
+      }
+    },
+    {
+      "page": 13,
+      "chars": 848,
+      "tables": 1,
+      "images": 1,
+      "text_bbox": {
+        "x0": 70.8,
+        "x1": 530.5,
+        "top": 78.2,
+        "bottom": 783.5
+      }
+    },
+    {
+      "page": 14,
+      "chars": 308,
+      "tables": 2,
+      "images": 1,
+      "text_bbox": {
+        "x0": 108.7,
+        "x1": 487.7,
+        "top": 80.0,
+        "bottom": 783.5
+      }
+    },
+    {
+      "page": 15,
+      "chars": 588,
+      "tables": 0,
+      "images": 1,
+      "text_bbox": {
+        "x0": 70.8,
+        "x1": 526.8,
+        "top": 90.5,
+        "bottom": 783.5
+      }
+    },
+    {
+      "page": 16,
+      "chars": 334,
+      "tables": 0,
+      "images": 1,
+      "text_bbox": {
+        "x0": 70.8,
+        "x1": 524.4,
+        "top": 91.1,
+        "bottom": 783.5
+      }
+    }
+  ]
+}

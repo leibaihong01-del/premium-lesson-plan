@@ -1,0 +1,15 @@
+{
+  "version": "0.1",
+  "rules": [
+    {
+      "id": "virtual_object_source_rule",
+      "effective": true,
+      "rule": "虚拟地点、虚拟项目名称不得作为真实资料收集、现场调研、运行数据来源"
+    },
+    {
+      "id": "no_fabrication_rule",
+      "effective": true,
+      "rule": "成果正文禁止新增学生初稿不存在的事实"
+    }
+  ]
+}

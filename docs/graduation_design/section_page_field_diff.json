@@ -1,0 +1,52 @@
+﻿{
+  "template": {
+    "PAGE": 19,
+    "footers": {
+      "word/footer1.xml": {
+        "PAGE": 0,
+        "NUMPAGES": 0
+      },
+      "word/footer2.xml": {
+        "PAGE": 1,
+        "NUMPAGES": 0
+      },
+      "word/footer3.xml": {
+        "PAGE": 0,
+        "NUMPAGES": 0
+      },
+      "word/footer4.xml": {
+        "PAGE": 0,
+        "NUMPAGES": 0
+      },
+      "word/footer5.xml": {
+        "PAGE": 2,
+        "NUMPAGES": 0
+      }
+    }
+  },
+  "generated": {
+    "PAGE": 4,
+    "footers": {
+      "word/footer2.xml": {
+        "PAGE": 1,
+        "NUMPAGES": 0
+      },
+      "word/footer1.xml": {
+        "PAGE": 1,
+        "NUMPAGES": 0
+      },
+      "word/footer5.xml": {
+        "PAGE": 2,
+        "NUMPAGES": 0
+      },
+      "word/footer4.xml": {
+        "PAGE": 0,
+        "NUMPAGES": 0
+      },
+      "word/footer3.xml": {
+        "PAGE": 0,
+        "NUMPAGES": 0
+      }
+    }
+  }
+}

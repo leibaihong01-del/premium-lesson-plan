@@ -1,0 +1,38 @@
+{
+  "experience_id": "validated_page_layout_semantic_001",
+  "status": "validated_experience",
+  "source_candidate": "page_layout_quality_experience_candidate",
+  "evidence_chain": {
+    "original_problem": "设计进程跨页，页面语义单元不完整",
+    "root_cause": "生成规划缺少no_split_region与region_start_page",
+    "optimization": "目标/任务空段预算3/3，设计进程固定第2页",
+    "before": [
+      "邱志豪毕业设计任务书_当前能力验证版.docx",
+      "邱志豪毕业设计任务书_当前能力验证版.pdf"
+    ],
+    "after": [
+      "邱志豪毕业设计任务书_黄金质量验证版.docx",
+      "邱志豪毕业设计任务书_黄金质量验证版.pdf"
+    ],
+    "auto_acceptance": {
+      "pages": 2,
+      "page1": [
+        "目标",
+        "任务"
+      ],
+      "page2": [
+        "进程",
+        "预期成果",
+        "签字"
+      ],
+      "no_split": true
+    },
+    "quality_sense": {
+      "page_semantic_integrity": "pass",
+      "region_integrity": "pass",
+      "visual_balance": "pass"
+    }
+  },
+  "preserve_candidate": true,
+  "no_production_change": true
+}

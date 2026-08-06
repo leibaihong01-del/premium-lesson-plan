@@ -1,0 +1,28 @@
+{
+  "schema_version": "0.7-rqs",
+  "candidate_id": "candidate_reference_hanging_format_001",
+  "experience_type": "Reference Quality Experience",
+  "problem": "多行参考文献首行与续行位置关系不一致",
+  "detection_method": "检测多行参考文献首行与续行文字起始位置关系",
+  "judgment_basis": "续行未与正文起始位置形成统一视觉层级",
+  "root_cause": "参考文献段落样式未符合模板质量要求",
+  "strategy": "调整悬挂缩进参数，使参考文献区域恢复视觉一致",
+  "parameter_source": "具体缩进值来自当前黄金模板，而非固定规则",
+  "validation_result": {
+    "before": "首行/续行视觉层级不一致",
+    "after": "续行与正文起始位置统一",
+    "pass": true
+  },
+  "applicable_scope": [
+    "毕业设计成果",
+    "参考文献区域",
+    "多行参考文献"
+  ],
+  "baseline": "杨振海毕业设计成果模板",
+  "source_verified": true,
+  "status": "validated_experience",
+  "no_production_change": true,
+  "no_fixed_numbers": true,
+  "human_confirmed": true,
+  "confirmed_at": "2026-08-04"
+}

@@ -1,0 +1,93 @@
+{
+  "schema_version": "0.7-eval-v4",
+  "template_id": "evaluation_form_split_v2",
+  "template_type": "evaluation_form",
+  "source": "D:/Users/leibaihong/Desktop/课程材料优化\\毕业设计智能制作工作区/02_模板文件/拆分独立模板/杨振海_成绩评定表模板_独立版.docx",
+  "page_count": 2,
+  "structure": {
+    "main_table": {
+      "rows": 16,
+      "cols": 13
+    },
+    "regions": [
+      {
+        "name": "学生信息区域",
+        "rows": [
+          0,
+          1
+        ],
+        "role": "identity",
+        "must_keep": true
+      },
+      {
+        "name": "选题信息区域",
+        "rows": [
+          2,
+          3
+        ],
+        "role": "topic",
+        "must_keep": true
+      },
+      {
+        "name": "答辩信息区域",
+        "rows": [
+          4
+        ],
+        "role": "defense_info"
+      },
+      {
+        "name": "零分排查区域",
+        "rows": [
+          5
+        ],
+        "role": "zero_score_check",
+        "must_keep": true
+      },
+      {
+        "name": "评价指标区域",
+        "rows": [
+          6,
+          10
+        ],
+        "role": "evaluation_indicators"
+      },
+      {
+        "name": "成绩汇总区域",
+        "rows": [
+          11
+        ],
+        "role": "score_summary",
+        "must_keep": true
+      },
+      {
+        "name": "签字审核区域",
+        "rows": [
+          12,
+          15
+        ],
+        "role": "approval",
+        "must_keep": true
+      }
+    ]
+  },
+  "invariants": [
+    {
+      "region": "成绩汇总区域",
+      "rule": "must_keep_complete",
+      "reason": "成绩确认闭环"
+    },
+    {
+      "region": "零分排查区域",
+      "rule": "must_keep_complete",
+      "reason": "合规判定依据"
+    },
+    {
+      "region": "签字审核区域",
+      "rule": "must_keep",
+      "reason": "人工确认入口"
+    }
+  ],
+  "out_of_scope": [
+    "答辩记录表"
+  ]
+}

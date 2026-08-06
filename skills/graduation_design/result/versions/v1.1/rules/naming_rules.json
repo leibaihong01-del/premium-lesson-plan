@@ -1,0 +1,25 @@
+{
+  "version": "0.3",
+  "formula": "[模板序号 ]学生姓名 毕业设计成果 选题名称.docx（序号继承模板：成果=02）",
+  "example": "02 学生姓名 毕业设计成果 选题名称.docx",
+  "banned": [
+    "test",
+    "final",
+    "output",
+    "V0.3",
+    "生成版",
+    "AI",
+    "测试",
+    "副本",
+    "最新版",
+    "临时"
+  ],
+  "versioning": {
+    "ai_sample": "AI版本/01 学生姓名 毕业设计成果_AI生成版.docx",
+    "human_review": "人工版本/01 学生姓名 毕业设计成果_人工修订版.docx",
+    "final": "01 学生姓名 毕业设计成果 选题名称.docx"
+  },
+  "note": "AI/人工版本仅用于学习阶段，最终交付使用学校规范命名",
+  "template_source": "02 学生姓名 毕业设计成果 选题名称.docx（仅解析结构，不含学生隐私提交）",
+  "parser": "00_系统配置/模块/v03/template_naming_parser.py"
+}

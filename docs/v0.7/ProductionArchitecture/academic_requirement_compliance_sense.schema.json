@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.7-arkm-sense-v1",
+  "sense_name": "Academic Requirement Compliance Sense",
+  "checks": [
+    {
+      "rule_id": "ARKM-R-001",
+      "category": "content",
+      "requirement": "string",
+      "status": "pass | fail | review",
+      "evidence": "string"
+    }
+  ],
+  "summary": {
+    "pass_count": 0,
+    "fail_count": 0,
+    "review_count": 0
+  },
+  "status": "pass | fail | review"
+}

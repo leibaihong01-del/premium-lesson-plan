@@ -1,0 +1,38 @@
+{
+  "document_type": "evaluation_form",
+  "senses": [
+    {
+      "name": "Table Structure Sense",
+      "checks": [
+        "tables",
+        "rows",
+        "cols",
+        "merged"
+      ]
+    },
+    {
+      "name": "Region Integrity Sense",
+      "checks": [
+        "signature",
+        "score_summary",
+        "zero_score_check"
+      ]
+    },
+    {
+      "name": "Character Style Sense",
+      "checks": [
+        "font",
+        "size",
+        "bold",
+        "italic",
+        "style_inheritance"
+      ]
+    },
+    {
+      "name": "Template Consistency Sense",
+      "checks": [
+        "template_diff"
+      ]
+    }
+  ]
+}

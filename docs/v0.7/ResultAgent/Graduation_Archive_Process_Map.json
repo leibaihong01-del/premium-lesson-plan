@@ -1,0 +1,32 @@
+{
+  "task_book": {
+    "template": "01 杨振海 毕业设计任务书 ...docx",
+    "input": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\03_需要修改文件整理\\01_AFC自动售检票系统\\王欢\\任务书.docx",
+    "generator": "v03/run_taskbook_case.py",
+    "validator": "v03/internal_audit.py",
+    "experience": [
+      "task_book_tkm_001",
+      "task_book_quality_memory_001"
+    ]
+  },
+  "grade_evaluation": {
+    "template": "04 杨振海 毕业设计成绩评定表 ...docx",
+    "input": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\03_需要修改文件整理\\01_AFC自动售检票系统\\王欢\\学生信息.json",
+    "generator": "EvaluationSkillRunner",
+    "validator": "TemplateComplianceSense",
+    "experience": [
+      "evaluation_form_tkm_001",
+      "evaluation_form_quality_memory_001"
+    ]
+  },
+  "defense_record": {
+    "template": "05 杨振海 毕业设计答辩记录表 ...docx",
+    "input": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\03_需要修改文件整理\\01_AFC自动售检票系统\\王欢\\答辩记录表.docx",
+    "generator": "DefenseSkillRunner",
+    "validator": "TemplateComplianceSense",
+    "experience": [
+      "defense_record_tkm_001",
+      "defense_record_quality_memory_001"
+    ]
+  }
+}

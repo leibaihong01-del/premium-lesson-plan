@@ -1,0 +1,34 @@
+﻿{
+  "updated_at": "2026-08-05",
+  "status": {
+    "task_book": "Candidate Production",
+    "evaluation": "Candidate Production",
+    "defense": "v0.9 Candidate Production",
+    "integration": "B"
+  },
+  "remaining": [
+    "成果接入生产链",
+    "任务书双入口收敛",
+    "完整包端到端测试"
+  ],
+  "closed_loop": {
+    "input": "StudentProfile",
+    "output": [
+      "01",
+      "02",
+      "03",
+      "04"
+    ],
+    "validation": [
+      "name",
+      "student_id",
+      "topic",
+      "advisor",
+      "naming",
+      "pdf",
+      "template"
+    ],
+    "entry": "PackageValidator"
+  },
+  "report": "CourseAgent/docs/graduation_design/production_chain_status.md"
+}

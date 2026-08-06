@@ -31,10 +31,11 @@ def check_format(docx_path, template_path):
     t = doc.tables[0]
     tpl = Document(template_path).tables[0]
     checks = {}
-    checks["39x6"] = len(t.rows) == 39 and len(t.columns) == 6
+    checks["rows_cols_match_template"] = len(t.rows) == len(tpl.rows) and len(t.columns) == len(tpl.columns)
     checks["grid"] = grid(t) == grid(tpl)
     checks["merges"] = merge_sig(t) == merge_sig(tpl)
-    checks["R38_6"] = len(t.rows[38].cells[1]._tc.findall(qn("w:p"))) == 6
+    if len(t.rows) > 38 and len(tpl.rows) > 38:
+        checks["R38_6"] = len(t.rows[38].cells[1]._tc.findall(qn("w:p"))) == 6
     tail = doc.paragraphs[-1]._p
     pPr = tail.find(qn("w:pPr"))
     sp = pPr.find(qn("w:spacing")) if pPr is not None else None

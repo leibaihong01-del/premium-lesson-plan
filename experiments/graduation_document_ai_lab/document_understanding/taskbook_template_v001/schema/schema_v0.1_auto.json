@@ -1,0 +1,84 @@
+{
+  "schema_version": "0.1",
+  "status": "auto",
+  "source": "原始任务书模板.docx",
+  "pages": 2,
+  "sections": 1,
+  "table_count": 1,
+  "regions": [
+    {
+      "region": "table_1",
+      "purpose": "unknown",
+      "status": "pending_human",
+      "fill_candidates": [
+        {
+          "label": "姓名",
+          "cell": "T0_R0_C3",
+          "value_cell": "T0_R0_C4"
+        },
+        {
+          "label": "班级名称",
+          "cell": "T0_R1_C1",
+          "value_cell": "T0_R1_C2"
+        },
+        {
+          "label": "学号",
+          "cell": "T0_R1_C3",
+          "value_cell": "T0_R1_C4"
+        },
+        {
+          "label": "选题名称",
+          "cell": "T0_R2_C1",
+          "value_cell": "T0_R2_C2"
+        },
+        {
+          "label": "选题类型",
+          "cell": "T0_R3_C1",
+          "value_cell": "T0_R3_C2"
+        },
+        {
+          "label": "设计目标",
+          "cell": "T0_R4_C1",
+          "value_cell": "T0_R4_C2"
+        },
+        {
+          "label": "设计任务",
+          "cell": "T0_R5_C1",
+          "value_cell": "T0_R5_C2"
+        },
+        {
+          "label": "设计任务",
+          "cell": "T0_R6_C3",
+          "value_cell": "T0_R6_C4"
+        },
+        {
+          "label": "确定毕业设计任务",
+          "cell": "T0_R8_C3",
+          "value_cell": "T0_R8_C4"
+        },
+        {
+          "label": "预期成果",
+          "cell": "T0_R13_C1",
+          "value_cell": "T0_R13_C2"
+        }
+      ]
+    },
+    {
+      "region": "page_layout",
+      "purpose": "unknown",
+      "status": "pending_human"
+    },
+    {
+      "region": "header_footer",
+      "purpose": "unknown",
+      "status": "pending_human"
+    }
+  ],
+  "fields": [],
+  "fixed_regions": [],
+  "risks": [
+    "区域用途待人工确认",
+    "合并单元格语义待确认",
+    "复选框状态待确认"
+  ]
+}

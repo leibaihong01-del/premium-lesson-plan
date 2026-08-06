@@ -1,0 +1,129 @@
+{
+  "protocol": "artifact_delivery",
+  "label": "defense_answer_compression",
+  "delivery_status": "local_artifact",
+  "environment_notice": "当前环境仅生成本地文件，无法转换为聊天附件。",
+  "generated_at": "2026-08-05T21:27:50",
+  "files": [
+    {
+      "name": "04 王欢 毕业设计答辩记录表 解放西路站AFC检票机故障排查方案设计.docx",
+      "path": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\experiments\\defense_learning\\delivery\\04 王欢 毕业设计答辩记录表 解放西路站AFC检票机故障排查方案设计.docx",
+      "category": "artifact",
+      "priority": 1,
+      "delivery_group": "primary",
+      "purpose": "正式文档",
+      "open_method": "Word/WPS 打开",
+      "size": 46958
+    },
+    {
+      "name": "04 王欢 毕业设计答辩记录表 解放西路站AFC检票机故障排查方案设计.pdf",
+      "path": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\experiments\\defense_learning\\delivery\\04 王欢 毕业设计答辩记录表 解放西路站AFC检票机故障排查方案设计.pdf",
+      "category": "artifact",
+      "priority": 1,
+      "delivery_group": "primary",
+      "purpose": "预览版",
+      "open_method": "PDF 阅读器打开",
+      "size": 136453
+    },
+    {
+      "name": "王欢_答辩记录表_DNA优化版.docx",
+      "path": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\experiments\\defense_learning\\delivery\\王欢_答辩记录表_DNA优化版.docx",
+      "category": "artifact",
+      "priority": 1,
+      "delivery_group": "primary",
+      "purpose": "正式文档",
+      "open_method": "Word/WPS 打开",
+      "size": 43539
+    },
+    {
+      "name": "王欢_答辩记录表_DNA优化版.pdf",
+      "path": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\experiments\\defense_learning\\delivery\\王欢_答辩记录表_DNA优化版.pdf",
+      "category": "artifact",
+      "priority": 1,
+      "delivery_group": "primary",
+      "purpose": "预览版",
+      "open_method": "PDF 阅读器打开",
+      "size": 136504
+    },
+    {
+      "name": "王欢_答辩记录表_回答精炼版.docx",
+      "path": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\experiments\\defense_learning\\delivery\\王欢_答辩记录表_回答精炼版.docx",
+      "category": "artifact",
+      "priority": 1,
+      "delivery_group": "primary",
+      "purpose": "正式文档",
+      "open_method": "Word/WPS 打开",
+      "size": 43474
+    },
+    {
+      "name": "王欢_答辩记录表_回答精炼版.pdf",
+      "path": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\experiments\\defense_learning\\delivery\\王欢_答辩记录表_回答精炼版.pdf",
+      "category": "artifact",
+      "priority": 1,
+      "delivery_group": "primary",
+      "purpose": "预览版",
+      "open_method": "PDF 阅读器打开",
+      "size": 132317
+    },
+    {
+      "name": "answer_compression_report.md",
+      "path": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\experiments\\defense_learning\\delivery\\answer_compression_report.md",
+      "category": "artifact",
+      "priority": 2,
+      "delivery_group": "analysis",
+      "purpose": "文本报告",
+      "open_method": "Markdown 阅读器或记事本打开",
+      "size": 3850
+    },
+    {
+      "name": "defense_dna_upgrade_report.md",
+      "path": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\experiments\\defense_learning\\delivery\\defense_dna_upgrade_report.md",
+      "category": "artifact",
+      "priority": 2,
+      "delivery_group": "analysis",
+      "purpose": "文本报告",
+      "open_method": "Markdown 阅读器或记事本打开",
+      "size": 1072
+    },
+    {
+      "name": "defense_template_dna_v0.2.json",
+      "path": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\experiments\\defense_learning\\delivery\\defense_template_dna_v0.2.json",
+      "category": "artifact",
+      "priority": 2,
+      "delivery_group": "analysis",
+      "purpose": "结构化数据",
+      "open_method": "文本编辑器打开",
+      "size": 2221
+    },
+    {
+      "name": "defense_template_normalizer_report.md",
+      "path": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\experiments\\defense_learning\\delivery\\defense_template_normalizer_report.md",
+      "category": "artifact",
+      "priority": 2,
+      "delivery_group": "analysis",
+      "purpose": "文本报告",
+      "open_method": "Markdown 阅读器或记事本打开",
+      "size": 2418
+    },
+    {
+      "name": "defense_template_skeleton.json",
+      "path": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\experiments\\defense_learning\\delivery\\defense_template_skeleton.json",
+      "category": "artifact",
+      "priority": 2,
+      "delivery_group": "analysis",
+      "purpose": "结构化数据",
+      "open_method": "文本编辑器打开",
+      "size": 2560
+    },
+    {
+      "name": "wanghuan_answer_optimization_v0.1.md",
+      "path": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\experiments\\defense_learning\\delivery\\wanghuan_answer_optimization_v0.1.md",
+      "category": "artifact",
+      "priority": 2,
+      "delivery_group": "analysis",
+      "purpose": "文本报告",
+      "open_method": "Markdown 阅读器或记事本打开",
+      "size": 4629
+    }
+  ]
+}

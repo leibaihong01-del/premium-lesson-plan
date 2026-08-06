@@ -1,0 +1,1 @@
+# 自动分析报告：qiu_zhihao_problem\n\n- 认知模型：已生成\n- 生成计划：已生成\n- Gap Report：1 violation / 0 deviation\n- 诊断：总页数溢出，实际3页/模板2页\n- 修正计划：无需修正\n- 最终结果：{'before_pages': 3, 'after_pages': 2, 'protected_ok': True, 'rounds': 1, 'passed': True, 'final_violations': 0}

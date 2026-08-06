@@ -1,0 +1,35 @@
+{
+  "status": "candidate",
+  "rules": [
+    {
+      "name": "question_length",
+      "rule": "提问内容建议不超过100字符，聚焦核心问题",
+      "source": "杨振海模板"
+    },
+    {
+      "name": "answer_length",
+      "rule": "回答内容建议不超过200字符，保留技术要点",
+      "source": "杨振海模板"
+    },
+    {
+      "name": "conclusion_length",
+      "rule": "答辩结论建议不超过80字符",
+      "source": "杨振海模板"
+    },
+    {
+      "name": "single_page_control",
+      "rule": "单元格总字符建议控制在400以内，空段不超过2个",
+      "source": "模板容量"
+    },
+    {
+      "name": "expression_norm",
+      "rule": "提问/回答采用简短专业表达，避免叙述性扩写",
+      "source": "对比分析"
+    }
+  ],
+  "evidence": {
+    "template_pages": 1,
+    "original_pages": 2,
+    "original_answer_chars": 258
+  }
+}

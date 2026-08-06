@@ -1,0 +1,39 @@
+{
+  "schema_version": "0.5.7",
+  "revision_id": "rev_qiu_zhihao_e2e_v1",
+  "case_id": "qiu_zhihao_e2e_v1",
+  "revision_scope": [
+    {
+      "region": "设计目标",
+      "action": "blank_adjustment"
+    },
+    {
+      "region": "设计任务",
+      "action": "blank_adjustment"
+    }
+  ],
+  "protected_regions": [
+    "student_info",
+    "schedule",
+    "expected_result",
+    "signature",
+    "references"
+  ],
+  "revision_strategy": {
+    "mode": "local_patch",
+    "allowed_actions": [
+      "content_compression",
+      "paragraph_merge",
+      "blank_adjustment",
+      "region_reallocation"
+    ],
+    "max_rounds": 2,
+    "regenerate": false
+  },
+  "expected_outcome": {
+    "pages": 2,
+    "gap_types_resolved": [
+      "violation"
+    ]
+  }
+}

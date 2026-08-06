@@ -1,0 +1,45 @@
+{
+  "source": "杨振海原始模板",
+  "regions": [
+    {
+      "region": "标题：长沙轨道交通职业学院 + 2027届学生毕业设计成绩评定表",
+      "belongs_to": [
+        "成绩评定表"
+      ],
+      "page": 1,
+      "structure": "paragraphs"
+    },
+    {
+      "region": "主表 Table0（16x13，81段落）",
+      "belongs_to": [
+        "成绩评定表"
+      ],
+      "page": 1,
+      "structure": "evaluation_main_table"
+    },
+    {
+      "region": "答辩时间/答辩方式行（Table0 第5行）",
+      "belongs_to": [
+        "成绩评定表"
+      ],
+      "page": 1,
+      "structure": "row_in_evaluation"
+    },
+    {
+      "region": "标题：长沙轨道交通职业学院 + 2027届学生毕业设计答辩记录表",
+      "belongs_to": [
+        "答辩记录表"
+      ],
+      "page": 2,
+      "structure": "paragraphs"
+    },
+    {
+      "region": "答辩记录表 Table1（1x1，27段落）",
+      "belongs_to": [
+        "答辩记录表"
+      ],
+      "page": 2,
+      "structure": "defense_single_cell_table"
+    }
+  ]
+}

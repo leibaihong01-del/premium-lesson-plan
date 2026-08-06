@@ -1,0 +1,12 @@
+﻿{
+  "checkpoint_id": "CP-2026-08-06-002",
+  "phase": "任务书版式规则固化",
+  "status": "confirmed",
+  "created_at": "2026-08-06",
+  "rules": [
+    "task_book/rules/layout_compliance.md"
+  ],
+  "validation": "邱志豪任务书版式修正版已通过：2 页?页面分布均匀?671/678 字符?",
+  "recommended_baseline": "TaskBook Skill v1.1",
+  "preserve": "不覆盖上一稳定版本"
+}

@@ -1,0 +1,42 @@
+{
+  "chapters": [
+    {
+      "title": "1  引  言",
+      "body_chars": 1167,
+      "tables": 0,
+      "captions": 0
+    },
+    {
+      "title": "2  电梯概述",
+      "body_chars": 2080,
+      "tables": 0,
+      "captions": 1
+    },
+    {
+      "title": "3  常见故障分析",
+      "body_chars": 1622,
+      "tables": 0,
+      "captions": 1
+    },
+    {
+      "title": "4  检修方案设计",
+      "body_chars": 1437,
+      "tables": 0,
+      "captions": 2
+    },
+    {
+      "title": "5  总  结",
+      "body_chars": 570,
+      "tables": 0,
+      "captions": 0
+    },
+    {
+      "title": "参考文献",
+      "body_chars": 0,
+      "tables": 0,
+      "captions": 0
+    }
+  ],
+  "references": 6,
+  "tables": 6
+}

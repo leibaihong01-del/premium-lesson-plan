@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GraduationProjectProfile",
+  "type": "object",
+  "description": "通用毕业设计项目知识结构，从资料内容提取，不依赖学生姓名或车站名称规则",
+  "properties": {
+    "student_info": {
+      "type": "object",
+      "properties": {
+        "student_name": {
+          "type": "string"
+        },
+        "student_id": {
+          "type": "string"
+        },
+        "class_name": {
+          "type": "string"
+        },
+        "direction": {
+          "type": "string"
+        }
+      }
+    },
+    "project_info": {
+      "type": "object",
+      "properties": {
+        "topic": {
+          "type": "string"
+        },
+        "document_type": {
+          "type": "string"
+        }
+      }
+    },
+    "project_object": {
+      "type": "string"
+    },
+    "application_scenario": {
+      "type": "string"
+    },
+    "main_problem": {
+      "type": "string"
+    },
+    "design_goal": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "design_tasks": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "technical_route": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "key_points": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "defense_focus": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "result_focus": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

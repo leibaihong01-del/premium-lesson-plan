@@ -1,0 +1,45 @@
+{
+  "schema_version": "0.7-def-qm-v3",
+  "document_type": "答辩记录表",
+  "status": "quality_memory",
+  "lifecycle": [
+    "candidate",
+    "approved_candidate",
+    "quality_memory"
+  ],
+  "golden_sample": true,
+  "human_confirmed": true,
+  "source": "王欢答辩记录表",
+  "source_verified": true,
+  "validated_rules": [
+    "保持单表结构",
+    "提问回答区域必须完整",
+    "答辩结论区域不可移动",
+    "记录人/日期区域必须保留",
+    "不合并成绩评定表",
+    "填充内容应继承模板对应区域字符样式，不得因数据替换改变原有样式"
+  ],
+  "patterns": [
+    {
+      "name": "Table Structure Sense",
+      "judge": "表格数量、行列、合并关系与模板一致",
+      "reason": "结构稳定"
+    },
+    {
+      "name": "Region Integrity Sense",
+      "judge": "答辩信息、提问回答、结论、记录区域完整",
+      "reason": "区域闭环"
+    },
+    {
+      "name": "Character Style Sense",
+      "judge": "字体、字号、加粗、斜体、样式继承与模板一致",
+      "reason": "字符级视觉一致"
+    },
+    {
+      "name": "Template Consistency Sense",
+      "judge": "生成文档与模板差异最小化",
+      "reason": "模板一致性"
+    }
+  ],
+  "no_fixed_numbers": true
+}

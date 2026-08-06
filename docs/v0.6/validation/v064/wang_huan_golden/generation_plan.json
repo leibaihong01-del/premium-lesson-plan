@@ -1,0 +1,66 @@
+{
+  "schema_version": "0.5.7",
+  "plan_id": "plan_解放西路站AFC检票机故障排查方案设计",
+  "template_id": "task_book_golden_v1",
+  "golden_reference_id": "wang_huan_taskbook",
+  "content_allocation": {
+    "基本信息": {
+      "fixed": true
+    },
+    "设计目标": {
+      "recommended_chars": [
+        230,
+        260
+      ],
+      "recommended_paragraphs": 6,
+      "blank_paragraph_slack": 3,
+      "fixed": false
+    },
+    "设计任务": {
+      "recommended_chars": [
+        190,
+        220
+      ],
+      "recommended_paragraphs": 6,
+      "blank_paragraph_slack": 3,
+      "fixed": false
+    },
+    "预期成果": {
+      "fixed_chars": 224,
+      "recommended_paragraphs": 11,
+      "blank_paragraph_slack": 0
+    },
+    "时间安排": {
+      "fixed": true
+    },
+    "签字审核区": {
+      "fixed": true
+    }
+  },
+  "page_plan": {
+    "page1": [
+      "基本信息",
+      "设计目标",
+      "设计任务",
+      "时间安排前段"
+    ],
+    "page2": [
+      "时间安排后段",
+      "预期成果",
+      "签字审核区"
+    ]
+  },
+  "risk_prediction": {
+    "page_overflow_risk": "low",
+    "risk_reason": [
+      "课题长度与黄金样本相当，风险较低"
+    ]
+  },
+  "adjustment_recommendations": [
+    "设计目标控制在230-260字符、6个非空段落",
+    "设计任务控制在190-220字符、7个非空段落",
+    "空段落按 3/3/0 预算使用",
+    "预期成果与签字区不得扩展"
+  ],
+  "recommended_strategy": "plan_then_generate"
+}

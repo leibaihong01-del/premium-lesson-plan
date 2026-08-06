@@ -1,0 +1,19 @@
+{
+  "name": "evaluation",
+  "domain": "graduation_design",
+  "status": "encapsulated",
+  "version": "1.0",
+  "entry": "SKILL.md",
+  "production_entry": "CourseAgent/core/graduation_skill_runners.py::EvaluationSkillRunner",
+  "unique_generator": "EvaluationSkillRunner",
+  "prohibited_in_production": ["document_understanding", "schema_v0.1_auto", "vision_analyzer"],
+  "regression": {
+    "case": "王欢",
+    "tables": 1,
+    "structure": "16x13",
+    "merged": 43,
+    "pages": 1,
+    "fields_pass": true
+  },
+  "updated_at": "2026-08-05"
+}

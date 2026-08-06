@@ -1,0 +1,34 @@
+{
+  "schema_version": "0.6.6-update1",
+  "page_semantic_integrity": {
+    "same_page": [
+      [
+        "设计目标",
+        "设计任务"
+      ],
+      [
+        "预期成果",
+        "设计进程",
+        "签字审核区"
+      ]
+    ],
+    "no_split_region": [
+      "设计进程"
+    ],
+    "region_priority": {
+      "设计进程": "high",
+      "预期成果": "high",
+      "签字审核区": "high"
+    },
+    "semantic_reason": {
+      "设计目标_设计任务": "目标说明为什么做，任务说明具体做什么，组合阅读形成完整任务理解",
+      "预期成果_设计进程_签字审核区": "形成目标完成→过程安排→结果确认的执行结果闭环"
+    }
+  },
+  "evidence_cases": [
+    "王欢黄金",
+    "汪子涵优秀",
+    "邱志豪当前"
+  ],
+  "experience_status_recommendation": "validated_experience（需人工确认）"
+}

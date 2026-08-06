@@ -1,0 +1,32 @@
+{
+  "checkpoint_id": "CP-2026-08-06-010",
+  "phase": "Result v1.5 模板对齐与内容规则沉淀",
+  "status": "verified_pending_confirmation",
+  "created_at": "2026-08-06",
+  "baseline": "王欢 v1.5（TOC Cache 版，CP-2026-08-06-009）",
+  "changes": [
+    "封面固定区域保护：正文规则不再覆盖封面标题字号",
+    "两字一级标题两字中间空两格（引  言、总  结）",
+    "正文表格对齐模板：style 18 + 4998pct + 表格内容33 + 宋体/TNR五号 + 居中",
+    "表注表X.Y，样式表注，宋体/TNR五号，keepNext",
+    "学术词黑名单扩展：本文/本研究/本课题/本论文/实验结果表明/研究对象/笔者/该研究/课题研究",
+    "虚构线路名清洗：长沙地铁/长沙轨道交通 → 城市轨道交通"
+  ],
+  "verification": {
+    "quality_engine": "pass",
+    "sections": 4,
+    "footer_parity": true,
+    "toc_cache_entries": 16,
+    "academic_words": 0,
+    "real_metro_name_in_body": 0,
+    "table_cell_style": "33 / 宋体TNR五号 / 水平垂直居中"
+  },
+  "rules_updated": [
+    "skills/graduation_design/result/rules/result_content_quality_rules.md",
+    "skills/graduation_design/result/rules/result_content_subject_consistency_rules.md",
+    "skills/graduation_design/result/memory/result_quality_memory.json",
+    "skills/graduation_design/result/CHANGELOG.md"
+  ],
+  "current_recommended_baseline": "王欢 v1.5（模板对齐+内容规则版，待人工确认后冻结）",
+  "preserve": "不覆盖 v1.4 / v0.2 / 黄金模板"
+}

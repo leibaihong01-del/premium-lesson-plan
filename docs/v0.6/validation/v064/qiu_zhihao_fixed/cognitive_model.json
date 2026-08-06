@@ -1,0 +1,155 @@
+{
+  "schema_version": "0.5.7",
+  "document_type": "task_book",
+  "template_context": {
+    "template_id": "task_book_golden_v1",
+    "page_constraint": 2,
+    "regions": [
+      "基本信息",
+      "设计目标",
+      "设计任务",
+      "时间安排",
+      "预期成果",
+      "签字审核区"
+    ],
+    "space": {
+      "page_constraint": 2,
+      "regions": [
+        {
+          "name": "设计目标",
+          "row_height_twips": 3670,
+          "height_rule": "atLeast",
+          "max_chars": 245,
+          "recommended_chars": [
+            100,
+            245
+          ],
+          "max_non_empty_paragraphs": 6,
+          "blank_paragraph_slack": 3,
+          "text_wrap_estimate": {
+            "mode": "char_width_based"
+          },
+          "allow_expand": false
+        },
+        {
+          "name": "设计任务",
+          "row_height_twips": 5102,
+          "height_rule": "atLeast",
+          "max_chars": 199,
+          "recommended_chars": [
+            150,
+            199
+          ],
+          "max_non_empty_paragraphs": 7,
+          "blank_paragraph_slack": 3,
+          "text_wrap_estimate": {
+            "mode": "char_width_based"
+          },
+          "allow_expand": false
+        },
+        {
+          "name": "预期成果",
+          "row_height_twips": 795,
+          "height_rule": "atLeast",
+          "max_chars": 224,
+          "recommended_chars": [
+            224,
+            224
+          ],
+          "max_non_empty_paragraphs": 11,
+          "blank_paragraph_slack": 0,
+          "text_wrap_estimate": {
+            "mode": "char_width_based"
+          },
+          "allow_expand": false
+        }
+      ]
+    },
+    "invariants": [
+      "总页数=2页",
+      "时间安排结构不可破坏",
+      "表格18行x14列不可变化",
+      "签字审核区固定"
+    ]
+  },
+  "quality_context": {
+    "golden_reference_ids": [
+      "wang_huan_taskbook",
+      "wang_zihan_taskbook",
+      "qiu_zhihao_taskbook"
+    ],
+    "content_features": {
+      "设计目标": {
+        "recommended_chars": [
+          230,
+          260
+        ],
+        "paragraphs": 6,
+        "expression": "先总后分"
+      },
+      "设计任务": {
+        "recommended_chars": [
+          190,
+          220
+        ],
+        "task_count": 6,
+        "granularity": "逐项可执行"
+      },
+      "预期成果": {
+        "fixed_chars": 224,
+        "paragraphs": 11
+      }
+    },
+    "acceptance_threshold": {
+      "pages": 2,
+      "design_goal": {
+        "chars": [
+          230,
+          260
+        ],
+        "non_empty_paragraphs": 6
+      },
+      "design_task": {
+        "chars": [
+          190,
+          220
+        ],
+        "non_empty_paragraphs": 7
+      },
+      "expected_result": {
+        "chars": 224,
+        "non_empty_paragraphs": 11
+      },
+      "table": {
+        "rows": 18,
+        "cols": 14
+      },
+      "no_blank_page": true,
+      "no_overflow": true,
+      "signature_on_page2": true
+    },
+    "selected_golden": "wang_huan_taskbook"
+  },
+  "task_context": {
+    "major": "电梯系统",
+    "topic": "太平街口站电梯常见故障分析与检修方案设计",
+    "topic_chars": 20,
+    "keywords": [
+      "电梯",
+      "自动扶梯",
+      "曳引机",
+      "安全回路",
+      "门锁",
+      "故障排查",
+      "检修"
+    ]
+  },
+  "generation_hint": {
+    "strategy": "plan_then_generate",
+    "risk_focus": [
+      "blank_paragraph_slack",
+      "text_wrap_estimate"
+    ],
+    "page_overflow_risk_estimate": "high"
+  }
+}

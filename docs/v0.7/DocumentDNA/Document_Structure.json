@@ -1,0 +1,4265 @@
+{
+  "sections": [
+    {
+      "index": 0,
+      "page_width_cm": 21.0,
+      "page_height_cm": 29.7,
+      "margins_cm": {
+        "top": 3.5,
+        "right": 2.5,
+        "bottom": 2.5,
+        "left": 2.5
+      },
+      "header": [],
+      "footer": []
+    },
+    {
+      "index": 1,
+      "page_width_cm": 21.0,
+      "page_height_cm": 29.7,
+      "margins_cm": {
+        "top": 2.5,
+        "right": 2.5,
+        "bottom": 2.5,
+        "left": 2.5
+      },
+      "header": [],
+      "footer": []
+    },
+    {
+      "index": 2,
+      "page_width_cm": 21.0,
+      "page_height_cm": 29.7,
+      "margins_cm": {
+        "top": 2.5,
+        "right": 2.0,
+        "bottom": 2.0,
+        "left": 2.5
+      },
+      "header": [],
+      "footer": []
+    },
+    {
+      "index": 3,
+      "page_width_cm": 21.0,
+      "page_height_cm": 29.7,
+      "margins_cm": {
+        "top": 2.5,
+        "right": 2.5,
+        "bottom": 2.5,
+        "left": 2.5
+      },
+      "header": [],
+      "footer": []
+    }
+  ],
+  "paragraph_count": 116,
+  "paragraphs": [
+    {
+      "index": 0,
+      "style": "Normal",
+      "text": "长沙轨道交通职业学院",
+      "chars": 10,
+      "alignment": "CENTER (1)",
+      "line_spacing": 1.0,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 0,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "长沙轨道交通职业学院",
+          "font": null,
+          "east_asia": null,
+          "size_pt": 26.0,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": "000000"
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 1,
+      "style": "Normal",
+      "text": "长沙轨道交通职业学院教务处编制",
+      "chars": 15,
+      "alignment": "CENTER (1)",
+      "line_spacing": 1.0,
+      "space_before": 76200,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 0,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "长沙轨道交通职业学",
+          "font": null,
+          "east_asia": null,
+          "size_pt": 15.0,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "color": "000000"
+        },
+        {
+          "text": "院教务处编制",
+          "font": null,
+          "east_asia": null,
+          "size_pt": 15.0,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "color": "000000"
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 2,
+      "style": "Normal",
+      "text": "2026年10月",
+      "chars": 8,
+      "alignment": "CENTER (1)",
+      "line_spacing": 1.0,
+      "space_before": 76200,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 0,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "202",
+          "font": null,
+          "east_asia": null,
+          "size_pt": 15.0,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "color": "000000"
+        },
+        {
+          "text": "6",
+          "font": null,
+          "east_asia": null,
+          "size_pt": 15.0,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "color": "000000"
+        },
+        {
+          "text": "年",
+          "font": null,
+          "east_asia": null,
+          "size_pt": 15.0,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "color": "000000"
+        },
+        {
+          "text": "10",
+          "font": null,
+          "east_asia": null,
+          "size_pt": 15.0,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "color": "000000"
+        },
+        {
+          "text": "月",
+          "font": null,
+          "east_asia": null,
+          "size_pt": 15.0,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "color": "000000"
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 3,
+      "style": "Normal",
+      "text": "",
+      "chars": 0,
+      "alignment": "CENTER (1)",
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 406400,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [],
+      "role": "body"
+    },
+    {
+      "index": 4,
+      "style": "Normal",
+      "text": "毕业设计真实性承诺及指导教师声明",
+      "chars": 16,
+      "alignment": "CENTER (1)",
+      "line_spacing": 1.0,
+      "space_before": 152400,
+      "space_after": 152400,
+      "left_indent": null,
+      "first_line_indent": 0,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "毕业设计真实性承诺及指导教师声明",
+          "font": null,
+          "east_asia": "微软雅黑",
+          "size_pt": 16.0,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": "000000"
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 5,
+      "style": "Footer",
+      "text": "",
+      "chars": 0,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 228600,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [],
+      "role": "body"
+    },
+    {
+      "index": 6,
+      "style": "Footer",
+      "text": "",
+      "chars": 0,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 228600,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [],
+      "role": "body"
+    },
+    {
+      "index": 7,
+      "style": "Footer",
+      "text": "",
+      "chars": 0,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 228600,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [],
+      "role": "body"
+    },
+    {
+      "index": 8,
+      "style": "Footer",
+      "text": "",
+      "chars": 0,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 228600,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [],
+      "role": "body"
+    },
+    {
+      "index": 9,
+      "style": "Normal",
+      "text": "目  录",
+      "chars": 4,
+      "alignment": "CENTER (1)",
+      "line_spacing": 1.0,
+      "space_before": 198120,
+      "space_after": 198120,
+      "left_indent": null,
+      "first_line_indent": 0,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "目",
+          "font": null,
+          "east_asia": "微软雅黑",
+          "size_pt": 16.0,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "color": "000000"
+        },
+        {
+          "text": "  ",
+          "font": null,
+          "east_asia": "微软雅黑",
+          "size_pt": 16.0,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "color": "000000"
+        },
+        {
+          "text": "录",
+          "font": null,
+          "east_asia": "微软雅黑",
+          "size_pt": 16.0,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "color": "000000"
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 10,
+      "style": "Footer",
+      "text": "",
+      "chars": 0,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 228600,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [],
+      "role": "body"
+    },
+    {
+      "index": 11,
+      "style": "Heading 1",
+      "text": "1  引  言",
+      "chars": 7,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": 152400,
+      "space_after": 152400,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "1  ",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "引",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "  ",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "言",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading1"
+    },
+    {
+      "index": 12,
+      "style": "Heading 2",
+      "text": "1.1  设计背景",
+      "chars": 9,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": 152400,
+      "space_after": 76200,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "1.1  ",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "设计背景",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading2"
+    },
+    {
+      "index": 13,
+      "style": "正文内容",
+      "text": "随着我国城市化进程的不断加快，城市轨道交通已成为大城市公共交通体系的核心组成部分。城市轨道交通车站作为乘客集散的重要场所，配备了大量的机电设备，这些设备的正常运行直接关系到车站的运营效率和乘客的出行安全。",
+      "chars": 102,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "随着我国城市化进程的不断加快，城市轨道交通已成为大城市公共交通体系的核心组成部分。城市轨道交通车站作为乘客集散的重要场所，配备了大量的机电设备，这些设备的正常运行直接关系到车站的运营效率和乘客的出行安全。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 14,
+      "style": "正文内容",
+      "text": "电梯作为车站机电系统的重要组成部分，是连接车站不同楼层的垂直运输设备，主要包括自动扶梯和垂直电梯两种类型。自动扶梯用于连接车站站厅层与站台层，输送大量乘客在不同楼层之间流动；垂直电梯主要服务于行动不便的乘客、携带大件行李的乘客以及工作人员，是车站无障碍设施的重要组成部分。电梯设备长期处于连续运行状态，受环境因素、使用频率、设备老化等多种因素的影响，不可避免地会出现各种故障。如果检修维护不及时、不规范，不仅会影响设备的使用寿命，还可能导致设备故障停机，影响车站的正常运营秩序，甚至可能引发乘客人身安全事故。",
+      "chars": 254,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "电梯作为车站机电系统的重要组成部分，是连接车站不同楼层的垂直运输设备，主要包括自动扶梯和垂直电梯两种类型。自动扶梯用于连接车站站厅层与站台层，输送大量乘客在不同楼层之间流动；垂直电梯主要服务于行动不便的乘客、携带大件行李的乘客以及工作人员，是车站无障碍设施的重要组成部分。电梯设备长期处于连续运行状态，受环境因素、使用频率、设备老化等多种因素的影响，",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "不可避免地会出现各种故障。如果检修维护不及时、不规范，不仅会影响设备的使用寿命，还可能导致设备故障停机，影响车站的正常运营秩序，甚至可能引发乘客人身安全事故。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 15,
+      "style": "正文内容",
+      "text": "太平街口站是某地铁线路上的一座化名车站，地处城市核心商业区，周边商业设施密集，日常客流量大，节假日客流增幅尤为明显。站内配备多台自动扶梯和垂直电梯，电梯设备每天连续运行时间长、承载客流量大，高峰时段自动扶梯满载率接近100%。高负荷运行使得电梯设备的机械部件磨损速度加快，电气元件老化加速，各类故障时有发生。从该站近一年的设备运行情况来看，电梯设备月均故障报修量约为5-8起，故障类型涵盖门系统故障、电气控制类故障和机械类故障等多种类型，部分故障的处理耗时较长，对车站运营和乘客出行造成了一定影响。",
+      "chars": 249,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "太平街口站是某地铁线路上的一座化名车站，地处城市核心商业区，周边商业设施密集，日常客流量大，节假日客流增幅尤为明显。站内配备多台自动扶梯和垂直电梯，电梯设备每天连续运行时间长、承载客流量大，高峰时段自动扶梯满载率接近",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "100%",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "。高负荷运行使得电梯设备的机械部件磨损速度加快，电气元件老化加速，各类故障时有发生。从该站近一年的设备运行情况来看，电梯设备月均故障报修量约为",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "5-8",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "起，故障类型涵盖门系统故障、电气控制类故障和机械类故障等多种类型，部分故障的处理耗时较长，对车站运营和乘客出行造成了一定影响。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 16,
+      "style": "正文内容",
+      "text": "目前，太平街口站在电梯设备检修维护方面还存在一些问题，如检修标准不统一、检修流程不规范、检修人员水平参差不齐、故障数据缺乏系统记录和分析等。因此，制定一套科学、规范、可操作的设备检修方案，对于提高设备检修质量、保障设备安全运行具有重要的现实意义。",
+      "chars": 123,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "目前，太平街口站在电梯设备检修维护方面还存在一些问题，如检修标准不统一、检修流程不规范、检修人员水平参差不齐、故障数据缺乏系统记录和分析等。因此，制定一套科学、规范、可操作的设备检修方案，对于提高设备检修质量、保障设备安全运行具有重要的现实意义。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 17,
+      "style": "Heading 2",
+      "text": "1.2  设计目的与意义",
+      "chars": 12,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": 152400,
+      "space_after": 76200,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "1.2  ",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "设计目的与意义",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading2"
+    },
+    {
+      "index": 18,
+      "style": "正文内容",
+      "text": "本设计以太平街口站电梯为设计对象，旨在制定一套科学、规范、可操作的检修维护方案，达到以下目的：一是明确设备检修的内容和标准，实现检修工作的标准化和规范化；二是优化检修流程，提高检修工作效率，缩短检修时间；三是总结常见故障的处理方法，提高故障处理的及时性和准确性；四是建立完善的日常维护机制，延长设备使用寿命。",
+      "chars": 154,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "本设计以太平街口站电梯为设计对象，旨在制定一套科学、规范、可操作的检修维护方案，",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "达到以下目的：一是明确设备检修的内容和标准，实现检修工作的标准化和规范化；二是优化检修流程，提高检修工作效率，缩短检修时间；三是总结常见故障的处理方法，提高故障处理的及时性和准确性；四是建立完善的日常维护机制，延长设备使用寿命。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 19,
+      "style": "正文内容",
+      "text": "通过本方案的设计与实施，对于保障电梯的安全稳定运行、降低设备故障率、减少运营成本、提高车站服务质量具有重要的意义。同时，本方案也可为其他城市轨道交通车站同类设备的检修维护提供参考和借鉴。",
+      "chars": 93,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "通过本方案的设计与实施，对于保障电梯的安全稳定运行、降低设备故障率、减少运营成本、提高车站服务质量具有重要的意义。同时，本方案也可为其他城市轨道交通车站同类设备的检修维护提供参考和借鉴。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 20,
+      "style": "Heading 2",
+      "text": "1.3  设计内容",
+      "chars": 9,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": 152400,
+      "space_after": 76200,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "1.3  ",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "设计内容",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading2"
+    },
+    {
+      "index": 21,
+      "style": "正文内容",
+      "text": "本设计主要包括以下几个方面的内容：",
+      "chars": 17,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "本设计主要包括以下几个方面的内容：",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 22,
+      "style": "正文内容",
+      "text": "第一，对电梯进行系统概述，介绍系统的定义、作用、组成结构和工作原理，明确检修对象的基本情况。",
+      "chars": 46,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "第一，对电梯进行系统概述，介绍系统的定义、作用、组成结构和工作原理，明确检修对象的基本情况。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 23,
+      "style": "正文内容",
+      "text": "第二，对电梯的常见故障进行分析，总结故障类型，分析故障产生的原因，评估故障对运营的影响。",
+      "chars": 44,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "第二，对电梯的常见故障进行分析，总结故障类型，分析故障产生的原因，评估故障对运营的影响。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 24,
+      "style": "正文内容",
+      "text": "第三，设计电梯的检修方案，明确检修的基本原则和标准，制定日常维护方案，规范检修作业流程。",
+      "chars": 44,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "第三，设计电梯的检修方案，明确检修的基本原则和标准，制定日常维护方案，规范检修作业流程。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 25,
+      "style": "正文内容",
+      "text": "第四，对设计内容进行总结，分析方案的特点和应用价值，指出方案的不足之处和改进方向。",
+      "chars": 41,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "第四，对设计内容进行总结，分析方案的特点和应用价值，指出方案的不足之处和改进方向。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 26,
+      "style": "Heading 1",
+      "text": "2  电梯概述",
+      "chars": 7,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": 152400,
+      "space_after": 152400,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "2  ",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "电梯概述",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading1"
+    },
+    {
+      "index": 27,
+      "style": "Heading 2",
+      "text": "2.1  系统定义与作用",
+      "chars": 12,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": 152400,
+      "space_after": 76200,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "2.1  ",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "系统定义与作用",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading2"
+    },
+    {
+      "index": 28,
+      "style": "正文内容",
+      "text": "电梯系统是城市轨道交通车站的重要垂直运输设备，主要包括自动扶梯和垂直电梯两种类型。自动扶梯用于连接车站不同楼层，输送大量乘客；垂直电梯主要服务于行动不便的乘客、携带大件行李的乘客以及工作人员，是车站无障碍设施的重要组成部分。",
+      "chars": 112,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "电梯系统是城市轨道交通车站的重要垂直运输设备，主要包括自动扶梯和垂直电梯两种类型。自动扶梯用于连接车站不同楼层，输送大量乘客；",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "垂直电梯主要服务于行动不便的乘客、携带大件行李的乘客以及工作人员，是车站无障碍设施的重要组成部分。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 29,
+      "style": "正文内容",
+      "text": "电梯系统的主要作用包括：一是提高车站的通行能力，快速输送乘客在不同楼层之间流动，特别是在早晚高峰时段，自动扶梯是乘客进出站台的主要通道，其运行效率直接影响车站的客流疏散能力；二是提升服务质量，为乘客提供便捷、舒适的出行体验，减少乘客步行爬楼梯的体力消耗；三是保障无障碍出行，为残障人士、老年人、孕妇、携带婴儿车的乘客等特殊群体提供便利的垂直交通方式，是车站无障碍设施体系的核心组成；四是提高车站的现代化水平，完善的电梯设施配置是城市轨道交通车站服务质量的重要体现。",
+      "chars": 232,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "电梯系统的主要作用包括：一是提高车站的通行能力，快速输送乘客在不同楼层之间流动，特别是在早晚高峰时段，自动扶梯是乘客进出站台的主要通道，其运行效率直接影响车站的客流疏散能力；二是提升服务质量，为乘客提供便捷、舒适的出行体验，减少乘客步行爬楼梯的体力消耗；三是保障无障碍出行，为残障人士、老年人、孕妇、携带婴儿车的乘客等特殊群体提供便利的垂直交通方式，是车站无障碍设施体系的核心组成；四是提高车站的现代化水平，完善的电梯设施配置是城市轨道交通车站服务质量的重要体现。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 30,
+      "style": "正文内容",
+      "text": "电梯设备的安全可靠运行直接关系到乘客的人身安全和车站的正常运营。由于电梯是载人特种设备，一旦发生故障可能导致乘客被困、摔倒甚至伤亡等严重后果，因此对电梯设备的安全性和检修维护质量要求极高。",
+      "chars": 94,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "电梯设备的安全可靠运行直接关系到乘客的人身安全和车站的正常运营。由于电梯是载人特种设备，一旦发生故障可能导致乘客被困、摔倒甚至伤亡等严重后果，因此对电梯设备的安全性和检修维护质量要求极高。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 31,
+      "style": "Heading 2",
+      "text": "2.2  系统结构与组成",
+      "chars": 12,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": 152400,
+      "space_after": 76200,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "2.2  ",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "系统结构与组成",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading2"
+    },
+    {
+      "index": 32,
+      "style": "正文内容",
+      "text": "电梯系统按类型分为自动扶梯和垂直电梯两大类，两者的结构组成有所不同。",
+      "chars": 34,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "电梯系统按类型分为自动扶梯和垂直电梯两大类，两者的结构组成有所不同。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 33,
+      "style": "正文内容",
+      "text": "（一）自动扶梯",
+      "chars": 7,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "（一）自动扶梯",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading3"
+    },
+    {
+      "index": 34,
+      "style": "正文内容",
+      "text": "自动扶梯主要由梯级系统、驱动系统、扶手系统、桁架结构、控制系统和安全保护系统六大部分组成。",
+      "chars": 45,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "自动扶梯主要由梯级系统、驱动系统、扶手系统、桁架结构、控制系统和安全保护系统六大部分组成。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 35,
+      "style": "正文内容",
+      "text": "梯级系统是乘客站立的部件，由梯级、梯级链、梯级导轨和返回导轨组成。梯级是乘客直接踏踩的水平踏板，通常采用铝合金压铸件，表面设有防滑纹路。梯级链连接所有梯级形成闭合环链，在驱动系统带动下牵引梯级循环运动。导轨分为工作导轨和返回导轨，引导梯级按预定轨迹运动。",
+      "chars": 127,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "梯级系统是乘客站立的部件，由梯级、梯级链、梯级导轨和返回导轨组成",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "。梯级是乘客直接踏踩的水平踏板，通常采用铝合金压铸件，表面设有防滑纹路。梯级链连接所有梯级形成闭合环链，在驱动系统带动下牵引梯级循环运动。导轨分为工作导轨和返回导轨，引导梯级按预定轨迹运动。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 36,
+      "style": "正文内容",
+      "text": "驱动系统是自动扶梯的动力来源，主要由电机、减速器、制动器、驱动主轴和传动链组成。电机通常采用三相异步电动机或永磁同步电动机，功率根据扶梯提升高度和额定速度确定。减速器降低电机转速并增大输出扭矩，制动器在停机时锁定驱动主轴，防止扶梯滑行。",
+      "chars": 118,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "驱动系统是自动扶梯的动力来源，主要由电机、减速器、制动器、驱动主轴和传动链组成。电机通常采用三相异步电动机或永磁同步电动机，功率根据扶梯提升高度和额定速度确定。减速器降低电机转速并增大输出扭矩，制动器在停机时锁定驱动主轴，防止扶梯滑行。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 37,
+      "style": "正文内容",
+      "text": "扶手系统包括扶手带、扶手驱动装置、扶手带导轨和张紧装置。扶手带是供乘客扶持的运动带，通常采用多层橡胶带，内层有钢丝绳增强。扶手带与梯级同步运动，速度偏差不超过2%。",
+      "chars": 82,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "扶手系统包括扶手带、扶手驱动装置、扶手带导轨和张紧装置。扶手带是供乘客扶",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "持的运动带，通常采用多层橡胶带，内层有钢丝绳增强。扶手带与梯级同步运动，速度偏差不超过",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "2%",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 38,
+      "style": "正文内容",
+      "text": "桁架结构是自动扶梯的承载框架，采用焊接钢结构，支撑所有部件和乘客载荷。桁架安装于车站土建结构预留的扶梯井道内，两端分别固定在不同楼层的承重结构上。",
+      "chars": 73,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "桁架结构是自动扶梯的承载框架，采用焊接钢结构，支撑所有部件和乘客载荷。桁架安装于车站土建结构预留的扶梯井道内，两端分别固定在不同楼层的承重结构上。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 39,
+      "style": "正文内容",
+      "text": "控制系统包括控制柜、变频器、操作按钮和各类传感器，负责扶梯的启动、停止、运行方向切换和故障保护。现代地铁自动扶梯通常采用变频调速技术，可实现节能运行和速度切换。",
+      "chars": 80,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "控制系统包括控制柜、变频器、操作按钮和各类传感器，负责扶梯的启动、停止、运行方向切换和故障保护。现代地铁自动扶梯通常采用变频调速技术，可实现节能运行和速度切换。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 40,
+      "style": "正文内容",
+      "text": "安全保护系统包括梳齿板安全开关、扶手带入口安全开关、梯级链断裂保护、超速保护、逆转保护、防逆转装置、急停按钮等多种安全装置，保障乘客和设备安全。",
+      "chars": 72,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "安全保护系统包括梳齿板安全开关、扶手带入口安全开关、梯级链断裂保护、超速保护、逆转保护、防逆转装置、",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "急停按钮等多种安全装置，保障乘客和设备安全。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 41,
+      "style": "正文内容",
+      "text": "（二）垂直电梯",
+      "chars": 7,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "（二）垂直电梯",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading3"
+    },
+    {
+      "index": 42,
+      "style": "正文内容",
+      "text": "垂直电梯主要由曳引系统、轿厢、对重、导轨、门系统、控制系统、安全保护系统和供电系统组成。",
+      "chars": 44,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "垂直电梯主要由曳引系统、轿厢、对重、导轨、门系统、控制系统、安全保护系统和供电系统组成。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 43,
+      "style": "正文内容",
+      "text": "曳引系统是电梯的核心动力部分，包括曳引机、曳引绳、导向轮和反绳轮。曳引机通过曳引绳与轿厢和对重连接，利用曳引绳与曳引轮之间的摩擦力驱动轿厢上下运行。曳引机通常采用无齿轮永磁同步曳引机，具有效率高、噪音低、体积小的优点。",
+      "chars": 109,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "曳引系统是电梯的核心动力部分，包括曳引机、曳引绳、导向轮和反绳轮。曳引机通过曳引绳与轿厢和对重连接，利用曳引绳与曳引轮之间的摩擦力驱动轿厢上下运行。曳引机通常采用无齿轮永磁同步曳引机，具有效率高、噪音低、体积小的优点。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 44,
+      "style": "正文内容",
+      "text": "轿厢是承载乘客的封闭部件，由轿厢架、轿厢体、轿厢门和轿内操纵装置组成。轿厢内部设有照明、通风、报警按钮和楼层显示器等设施。对重用于平衡轿厢重量，减少电机功率需求，对重重量通常为轿厢额定载重量加上轿厢自重的40%-50%。",
+      "chars": 110,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "轿厢是承载乘客的封闭部件，由轿厢架、轿厢体、轿厢门和轿内操纵装置组成。轿厢内部设有照明、通风、报警按钮和楼层显示器等设施。对重用于平衡轿厢重量，减少电机功率需求，对重重量通常为轿厢额定载重量加上轿厢自重的",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "40%-50%",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 45,
+      "style": "正文内容",
+      "text": "导轨分为轿厢导轨和对重导轨，安装在井道壁上，为轿厢和对重的上下运动提供导向。导轨的安装精度直接影响电梯运行的平稳性和舒适度。",
+      "chars": 62,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "导轨分为轿厢导轨和对重导轨，安装在井道壁上，为轿厢和对重的上下运动提供导向。导轨的安装精度直接影响电梯运行的平稳性和舒适度。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 46,
+      "style": "正文内容",
+      "text": "门系统包括厅门和轿门，是电梯安全的重要部件。厅门是每层楼电梯入口处的门，轿门是轿厢上的门。门系统由门机驱动装置、门扇、门导轨、门滑块和门锁装置组成。门锁装置在门关闭后将门锁止，并向控制系统提供门锁闭合信号，是电梯安全运行的重要联锁条件。",
+      "chars": 118,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "门系统包括厅门和轿门，是电梯安全的重要部件。厅门是每层楼电梯入口处的门，轿门是轿厢上的门。门系统由门机驱动装置、门扇、门导轨、门滑块和门锁装置组成。门锁装置在门关闭后将门锁止，并向控制系统提供门锁闭合信号，是电梯安全运行的重要联锁条件。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 47,
+      "style": "正文内容",
+      "text": "控制系统包括控制柜、变频器、楼层指示器、按钮面板和各类传感器，负责电梯的运行逻辑控制、楼层选择、开关门控制和故障诊断。",
+      "chars": 59,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "控制系统包括控制柜、变频器、楼层指示器、按钮面板和各类传感器，",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "负责电梯的运行逻辑控制、楼层选择、开关门控制和故障诊断。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 48,
+      "style": "正文内容",
+      "text": "安全保护系统是垂直电梯最重要的子系统，包括限速器、安全钳、缓冲器、门锁装置、端站减速开关、端站限位开关和极限开关等。限速器监测电梯运行速度，当速度超过额定速度的115%时限速器触发安全钳动作，将轿厢夹持在导轨上紧急制停。缓冲器安装在井道底部，在轿厢或对重坠落到底部时提供最后的缓冲保护。",
+      "chars": 143,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "安全保护系统是垂直电梯最重要的子系统，包括限速器、安全钳、缓冲器、门锁装置、端站减速开关、端站限位开关和极限开关等。限速器监测电梯运行速度，当速度超过额定速度的",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "115%",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "时限速器触发安全钳动作，将轿厢夹持在导轨上紧急制停。缓冲器安装在井道底部，在轿厢或对重坠落到底部时提供最后的缓冲保护。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 49,
+      "style": "表注",
+      "text": "表2-1 电梯系统组成表",
+      "chars": 12,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": 76200,
+      "space_after": 76200,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "表",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "2-1 ",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "电梯系统组成表",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "caption"
+    },
+    {
+      "index": 50,
+      "style": "Heading 2",
+      "text": "2.3  工作原理",
+      "chars": 9,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": 152400,
+      "space_after": 76200,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "2.3  ",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "工作原理",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading2"
+    },
+    {
+      "index": 51,
+      "style": "正文内容",
+      "text": "（一）自动扶梯工作原理",
+      "chars": 11,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "（一）自动扶梯工作原理",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading3"
+    },
+    {
+      "index": 52,
+      "style": "正文内容",
+      "text": "自动扶梯的驱动电机启动后，通过减速器降低转速并增大扭矩，驱动主轴旋转。驱动主轴上的驱动链轮通过传动链或直接驱动梯级链，带动梯级沿工作导轨向上或向下运动。梯级从上端转入返回导轨，在桁架内部返回下端，再转入工作导轨，形成连续循环运动。扶手带通过扶手驱动装置与梯级同步运动，供乘客扶持。控制系统监测扶梯运行状态，在检测到异常时自动停机并报警。",
+      "chars": 168,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "自动扶梯的驱动电机启动后，通过减速器降低转速并增大扭矩，驱动主轴旋转。驱动主轴上的驱动链轮通过传动链或直接驱动梯级链，带动梯级沿工作导轨向上或向下运动。梯级从上端转入返回导轨，在桁架内部返回下端，再转入工作导轨，形成连续循环运动。扶手带通过扶手驱动装置与梯级同步运动，供乘客扶持。控制系统监测扶梯运行状态，在检测到异常时自动停机并报警。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 53,
+      "style": "正文内容",
+      "text": "（二）垂直电梯工作原理",
+      "chars": 11,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "（二）垂直电梯工作原理",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading3"
+    },
+    {
+      "index": 54,
+      "style": "正文内容",
+      "text": "垂直电梯的曳引机通过曳引绳与轿厢和对重连接。曳引机启动后驱动曳引轮旋转，利用曳引绳与曳引轮之间的摩擦力使轿厢上升或下降。控制系统根据乘客的楼层呼叫和轿内指令，自动选择运行方向和目标楼层。轿厢到达目标楼层时，控制系统控制曳引机制动停车，开门放行。关门后确认门锁闭合，方可启动运行。运行过程中，限速器持续监测轿厢速度，如超速则触发安全钳紧急制停。如轿厢冲顶或蹲底，端站开关和缓冲器提供最后的安全保护。",
+      "chars": 198,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "垂直电梯的曳引机通过曳引绳与轿厢和对重连接。曳引机启动后驱动曳引轮旋转，利用曳引绳与曳引轮之间的摩擦力使轿厢上升或下降。控制系统根据乘客的楼层呼叫和轿内指令，自动选择运行方向和目标楼层。轿厢到达目标楼层时，控制系统控制曳引机制动停车，开门放行。关门后确认门锁闭合，方可启动运行。运行过程中，限速器持续监测轿厢速度，如超速则触发安全钳紧急制停。如轿厢冲顶或蹲底，端站开关和缓冲器提供最后的安全保护。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 55,
+      "style": "Heading 1",
+      "text": "3  常见故障分析",
+      "chars": 9,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": 152400,
+      "space_after": 152400,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "3  ",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "常见故障分析",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading1"
+    },
+    {
+      "index": 56,
+      "style": "Heading 2",
+      "text": "3.1  故障基本情况",
+      "chars": 11,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": 152400,
+      "space_after": 76200,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "3.1  ",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "故障基本情况",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading2"
+    },
+    {
+      "index": 57,
+      "style": "正文内容",
+      "text": "太平街口站电梯设备长期处于高负荷连续运行状态，使用频率高，机械部件磨损快，电气元件老化快，容易发生各种故障。根据太平街口站近一年的设备故障维修记录统计，电梯设备月均故障报修量约为5-8起，其中自动扶梯故障约占60%，垂直电梯故障约占40%。",
+      "chars": 120,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "太平街口站电梯设备长期处于高负荷连续运行状态，使用频率高，机械部件磨损快，电气元件老化快，容易发生各种故障。根据太平街口站近一年的设备故障维修记录统计，电梯设备月均故障报修量约为",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "5-8",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "起，其中自动扶梯故障约占",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "60%",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "，",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "垂直电梯故障约占",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "40%",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 58,
+      "style": "正文内容",
+      "text": "从故障类型来看，门系统故障占比最高，约占电梯总故障数的60%以上，主要包括开关门不畅、门不能完全关闭、门锁接触不良等，这些故障在垂直电梯中尤为常见。其次是电气控制类故障，约占20%，主要包括控制板故障、传感器故障、通信故障、按钮失灵等。机械类故障约占15%，主要包括运行异响、振动大、梯级缺损、扶手带跑偏等，机械类故障在自动扶梯中较多。其他故障约占5%，包括照明故障、显示故障等。",
+      "chars": 190,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "从故障类型来看，门系统故障占比最高，约占电梯总故障数的",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "60%",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "以上，主要包括开关门不畅、门不能完全关闭、门锁接触不良等，这些故障在垂直电梯中尤为常见。其次是电气控制类故障，约占",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "20%",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "，主要包括控制板故障、传感器故障、通信故障、按钮失灵等。机械类故障约占",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "15%",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "，主要包括运行异响、振动大、梯级缺损、扶手带跑偏等，机械类故障在自动扶梯中较多。其他故障约占",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "5%",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "，包括照明故障、显示故障等。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 59,
+      "style": "正文内容",
+      "text": "从故障的时段分布来看，早晚高峰时段故障报修量较高，与客流高峰期电梯满载运行直接相关。夏季高温季节，电机和控制柜散热不良导致的故障有所增加。雨季因乘客携带雨水进入电梯，水滴导致门导轨积水和电气短路的风险增加。",
+      "chars": 103,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "从故障的时段分布来看，早晚高峰时段故障报修量较高，与客流高峰期电梯满载运行直接相关。夏季高温季节，电机和控制柜散热不良导致的故障有所增加。雨季因乘客携带雨水进入电梯，水滴导致门导轨积水和电气短路的风险增加。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 60,
+      "style": "正文内容",
+      "text": "从故障的影响程度来看，垂直电梯困人故障是最严重的故障类型，需在接到报警后30分钟内完成救援。自动扶梯突发停机可能导致乘客摔倒受伤，也是影响较大的故障类型。",
+      "chars": 77,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "从故障的影响程度来看，垂直电梯困人故障是最严重的故障类型，需在接到报警后",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "30",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "分钟内完成救援。自动扶梯突发停机可能导致乘客摔倒受伤，也是影响较大的故障类型。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 61,
+      "style": "Heading 2",
+      "text": "3.2  常见故障分类及原因分析",
+      "chars": 16,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": 152400,
+      "space_after": 76200,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "3.2  ",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "常见故障分类及原因分析",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading2"
+    },
+    {
+      "index": 62,
+      "style": "正文内容",
+      "text": "根据太平街口站电梯设备运行数据和故障维修记录，常见故障主要分为门系统故障、电气控制类故障和机械类故障三大类。",
+      "chars": 54,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "根据太平街口站电梯设备运行数据和故障维修记录，常见故障主要分为门系统故障、电气控制类故障和机械类故障三大类。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 63,
+      "style": "正文内容",
+      "text": "（一）门系统故障",
+      "chars": 8,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "（一）门系统故障",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading3"
+    },
+    {
+      "index": 64,
+      "style": "正文内容",
+      "text": "门系统故障是电梯设备中最为常见的故障类型，主要表现为开关门不畅、门不能完全关闭、门锁接触不良等。",
+      "chars": 48,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "门系统故障是电梯设备中最为常见的故障类型，主要表现为开关门不畅、门不能完全关闭、",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "门锁接触不良等。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 65,
+      "style": "正文内容",
+      "text": "开关门不畅表现为门扇在开关过程中出现卡顿、抖动或速度不均匀。原因分析：门导轨积尘导致门滑块运动阻力增大；门滑块磨损导致与导轨间隙不当；门机皮带松动或磨损导致驱动力不足；门扇变形或密封条老化导致门扇与门框摩擦增大。",
+      "chars": 106,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "开关门不畅表现为门扇在开关过程中出现卡顿、抖动或速度不均匀。原因分析：门导轨积尘导致门滑块运动阻力增大；门滑块磨损导致与导轨间隙不当；门机皮带松动或磨损导致驱动力不足；门扇变形或密封条老化导致门扇与门框摩擦增大。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 66,
+      "style": "正文内容",
+      "text": "门不能完全关闭表现为门扇关闭不到位，系统报门未关好故障。原因分析：门导轨严重积尘或异物卡入导致门扇受阻；门滑块脱落导致门扇脱离导轨；门机驱动装置故障导致门扇驱动力不足；光幕或安全触板误触发导致门反复打开。",
+      "chars": 102,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "门不能完全关闭表现为门扇关闭不到位，系统报门未关好故障。原因分析：门导轨严重积尘或异物卡入导致门扇受阻；门滑块脱落导致门扇脱离导轨；门机驱动装置故障导致门扇驱动力不足；光幕或安全触板误触发导致门反复打开。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 67,
+      "style": "正文内容",
+      "text": "门锁接触不良表现为门已关闭但门锁信号未闭合，电梯无法启动。原因分析：门锁触点氧化或磨损导致接触电阻增大；门锁位置偏移导致锁舌与锁扣未完全啮合；门锁连接线路接触不良或断路；门锁机械部件磨损导致锁止不到位。",
+      "chars": 101,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "门锁接触不良表现为门已关闭但门锁信号未闭合，电梯无法启动。原因分析：门锁触点氧化或磨损导致接触电阻增大；门锁位置偏移导致锁舌与锁扣未完全啮合；门锁连接线路接触不良或断路；门锁机械部件磨损导致锁止不到位。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 68,
+      "style": "正文内容",
+      "text": "（二）电气控制类故障",
+      "chars": 10,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "（二）电气控制类故障",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading3"
+    },
+    {
+      "index": 69,
+      "style": "正文内容",
+      "text": "电气控制类故障主要表现为电梯不启动、楼层显示异常、按钮失灵、通信故障等。",
+      "chars": 36,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "电气控制类故障主要表现为电梯不启动、楼层显示异常、按钮失灵、通信故障等。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 70,
+      "style": "正文内容",
+      "text": "电梯不启动表现为呼梯或轿内指令后电梯无响应。原因分析：控制板故障导致逻辑处理异常；变频器故障导致无法驱动电机；安全回路断开（如门锁未闭合、安全钳开关动作等）导致控制系统锁定启动；供电异常导致控制系统无法工作。",
+      "chars": 104,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "电梯不启动表现为呼梯或轿内指令后电梯无响应。原因分析：控制板故障导致逻辑处理异常；变频器故障导致无法驱动电机；安全回路断开（如门锁未闭合、安全钳开关动作等）导致控制系统锁定启动；供电异常导致控制系统无法工作。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 71,
+      "style": "正文内容",
+      "text": "楼层显示异常表现为楼层指示器显示错误或不显示。原因分析：楼层传感器（磁感应开关或光电开关）损坏或位置偏移；显示驱动板故障；显示通信线路接触不良。",
+      "chars": 72,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "楼层显示异常表现为楼层指示器显示错误或不显示。原因分析：楼层传感器（",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "磁感应开关或光电开关）损坏或位置偏移；显示驱动板故障；显示通信线路接触不良。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 72,
+      "style": "正文内容",
+      "text": "按钮失灵表现为楼层呼叫按钮或轿内指令按钮无响应。原因分析：按钮内部触点氧化或磨损导致接触不良；按钮接线脱落或断路；按钮面板进水导致短路。",
+      "chars": 68,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "按钮失灵表现为楼层呼叫按钮或轿内指令按钮无响应。原因分析：按钮内部触点氧化或磨损导致接触不良；按钮接线脱落或断路；按钮面板进水导致短路。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 73,
+      "style": "正文内容",
+      "text": "通信故障表现为控制柜与楼层板或轿顶板之间的通信中断。原因分析：通信线路断路或接触不良；通信接口板故障；电磁干扰导致通信信号异常。",
+      "chars": 64,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "通信故障表现为控制柜与楼层板或轿顶板之间的通信中断。原因分析：通信线路断路或接触不良；通信接口板故障；电磁干扰导致通信信号异常。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 74,
+      "style": "正文内容",
+      "text": "（三）机械类故障",
+      "chars": 8,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "（三）机械类故障",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading3"
+    },
+    {
+      "index": 75,
+      "style": "正文内容",
+      "text": "机械类故障主要表现为运行异响、振动大、梯级缺损、扶手带跑偏等。",
+      "chars": 31,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "机械类故障主要表现为运行异响、振动大、梯级缺损、扶手带跑偏等。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 76,
+      "style": "正文内容",
+      "text": "运行异响表现为电梯运行过程中发出异常噪音。原因分析：导轨润滑不足导致导靴与导轨干摩擦；轴承磨损产生间隙和碰撞声；紧固件松动导致部件相对运动和振动；曳引绳与绳轮槽磨损产生摩擦声。",
+      "chars": 88,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "运行异响表现为电梯运行过程中发出异常噪音。原因分析：导轨润滑不足导致导靴与导轨干摩擦；轴承磨损产生间隙和碰撞声；紧固件松动导致部件相对运动和振动；曳引绳与绳轮槽磨损产生摩擦声。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 77,
+      "style": "正文内容",
+      "text": "振动大表现为电梯运行过程中轿厢或扶梯整体振动明显。原因分析：导轨安装偏差或磨损导致轿厢运动不平稳；导靴磨损导致导向间隙增大；曳引绳张力不均匀导致运行不平衡；对重重量配置不当。",
+      "chars": 87,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "振动大表现为电梯运行过程中轿厢或扶梯整体振动明显。原因分析：导轨安装偏差或磨损导致轿厢运动不平稳；导靴磨损导致导向间隙增大；曳引绳张力不均匀导致运行不平衡；对重重量配置不当。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 78,
+      "style": "正文内容",
+      "text": "梯级缺损（自动扶梯）表现为梯级表面破损、断裂或缺失。原因分析：梯级长期承受乘客载荷产生疲劳裂纹；异物卡入梯级与梳齿板之间导致梯级损坏；梯级材质缺陷或铸造缺陷在使用中暴露。",
+      "chars": 85,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "梯级缺损（自动扶梯）表现为梯级表面破损、断裂或缺失。原因分析：梯级长期承受乘客载荷产生疲劳裂纹；异物卡入梯级与梳齿板之间导致梯级损坏；梯级材质缺陷或铸造缺陷在使用中暴露。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 79,
+      "style": "正文内容",
+      "text": "扶手带跑偏（自动扶梯）表现为扶手带在运行中偏离正常轨迹。原因分析：扶手带磨损导致尺寸变化；扶手带张紧度不够导致运行松弛；扶手带导轨磨损或安装偏差；扶手驱动轮磨损导致带偏移。",
+      "chars": 86,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "扶手带跑偏（自动扶梯）表现为扶手带在运行中偏离正常轨迹。原因分析：",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "扶手带磨损导致尺寸变化；扶手带张紧度不够导致运行松弛；扶手带导轨磨损或安装偏差；扶手驱动轮磨损导致带偏移。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 80,
+      "style": "表注",
+      "text": "表3-1 电梯常见故障及原因分析表",
+      "chars": 17,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": 76200,
+      "space_after": 76200,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "表",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "3-1 ",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "电梯常见故障及原因分析表",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "caption"
+    },
+    {
+      "index": 81,
+      "style": "Heading 1",
+      "text": "4  检修方案设计",
+      "chars": 9,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": 152400,
+      "space_after": 152400,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "4  ",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "检修方案设计",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading1"
+    },
+    {
+      "index": 82,
+      "style": "Heading 2",
+      "text": "4.1  检修基本原则与标准",
+      "chars": 14,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": 152400,
+      "space_after": 76200,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "4.1  ",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "检修基本原则与标准",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading2"
+    },
+    {
+      "index": 83,
+      "style": "正文内容",
+      "text": "电梯设备检修应遵循以下基本原则：",
+      "chars": 16,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "电梯设备检修应遵循以下基本原则：",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 84,
+      "style": "正文内容",
+      "text": "一是安全第一的原则。电梯是载人特种设备，检修工作必须把安全放在首位，严格遵守特种设备安全操作规程。检修前必须断电挂牌、确认无电压后方可操作，检修过程中必须防止电梯意外启动。",
+      "chars": 86,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "一是安全第一的原则。电梯是载人特种设备，检修工作必须把安全放在首位，严格遵守特种设备安全操作规程。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "检修前必须断电挂牌、确认无电压后方可操作，检修过程中必须防止电梯意外启动。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 85,
+      "style": "正文内容",
+      "text": "二是预防为主的原则。通过日常维护和定期检修，及时发现和消除设备隐患，预防故障发生。特别是对安全保护装置（限速器、安全钳、缓冲器、门锁等）的定期检查和功能验证，是预防安全事故的关键。",
+      "chars": 90,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "二是预防为主的原则。通过日常维护和定期检修，及时发现和消除设备隐患，预防故障发生。特别是对安全保护装置（限速器、安全钳、缓冲器、门锁等）的定期检查和功能验证，是预防安全事故的关键。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 86,
+      "style": "正文内容",
+      "text": "三是质量第一的原则。检修工作必须严格按照标准和规范进行，确保检修质量。检修完成后必须进行功能测试，确认设备各项功能正常后方可恢复运行。",
+      "chars": 67,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "三是质量第一的原则。检修工作必须严格按照标准和规范进行，确保检修质量。检修完成后必须进行功能测试，确认设备各项功能正常后方可恢复运行。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 87,
+      "style": "正文内容",
+      "text": "四是持证上岗的原则。电梯检修属于特种设备作业，检修人员必须持有相应的特种设备作业人员资格证书，严禁无证作业。",
+      "chars": 54,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "四是持证上岗的原则。电梯检修属于特种设备作业，检修人员必须持有相应的特种设备作业人员资格证书，严禁无证作业。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 88,
+      "style": "正文内容",
+      "text": "检修工作应符合以下标准：一是国家特种设备相关法规和标准，如《电梯制造与安装安全规范》（GB 7588）、《电梯维护保养规则》（TSG T5002）等；二是《地铁设计规范》（GB 50157-2013）中关于车站电梯设备的有关规定；三是设备生产厂家提供的设备使用说明书和维护手册；四是运营单位制定的电梯检修规程和安全管理制度。电梯检修必须由具备相应资质的单位和人员进行，接受特种设备检验部门的定期监督检验。",
+      "chars": 202,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "检修工作应符合以下标准：一是国家特种设备相关法规和标准，如《电梯制造与安装安全规范》（",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "GB 7588",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "）、《电梯维护保养规则》（",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "TSG T5002",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "）等；二是《地铁设计规范》（",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "GB 50157-2013",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "）中关于车站电梯设备的有关规定；三是设备生产厂家提供的设备使用说明书和维护手册；四是运营单位制定的电梯检修规程和安全管理制度。电梯检修必须由具备相应资质的单位和人员进行，接受特种设备检验部门的定期监督检验。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 89,
+      "style": "Heading 2",
+      "text": "4.2  日常维护方案",
+      "chars": 11,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": 152400,
+      "space_after": 76200,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "4.2  ",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "日常维护方案",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading2"
+    },
+    {
+      "index": 90,
+      "style": "正文内容",
+      "text": "日常维护是保障电梯设备正常运行的基础，主要由电梯维保人员按规定周期进行，站务人员配合进行日常巡检。",
+      "chars": 49,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "日常维护是保障电梯设备正常运行的基础，主要由电梯维保人员按规定周期进行，",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "站务人员配合进行日常巡检。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 91,
+      "style": "正文内容",
+      "text": "（一）日常巡检",
+      "chars": 7,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "（一）日常巡检",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading3"
+    },
+    {
+      "index": 92,
+      "style": "正文内容",
+      "text": "日常巡检由站务人员在每日运营前和运营过程中执行。巡检内容包括：外观检查设备完好、无破损、标识清晰；实际测试运行状态，确认运行平稳、无异常振动和噪音；测试开关门功能（垂直电梯），确认开关顺畅、无卡滞、速度正常；测试各楼层按钮和开关门按钮功能；检查楼层显示和方向显示是否正常；检查安全警示标识是否齐全清晰；检查扶手带运行状态（自动扶梯），确认无破损、无跑偏；检查梳齿板状态（自动扶梯），确认完好无缺损。发现异常立即记录并上报维保人员。",
+      "chars": 215,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "日常巡检由站务人员在每日运营前和运营过程中执行。巡检内容包括：外观检查设备完好、无破损、标识清晰；实际测试运行状态，确认运行平稳、无异常振动和噪音；测试开关门功能（垂直电梯），确认开关顺畅、无卡滞、速度正常；测试各楼层按钮和开关门按钮功能；检查楼层显示和方向显示是否正常；检查安全警示标识是否齐全清晰；检查扶手带运行状态（自动扶梯），确认无破损、无跑偏；检查梳齿板状态（自动扶梯），确认完好无缺损。发现异常立即记录并上报维保人员。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 93,
+      "style": "正文内容",
+      "text": "（二）半月保养",
+      "chars": 7,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "（二）半月保养",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading3"
+    },
+    {
+      "index": 94,
+      "style": "正文内容",
+      "text": "半月保养由电梯维保人员每半个月执行一次，主要进行清洁润滑、基本检查和功能测试。",
+      "chars": 39,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "半月保养由电梯维保人员每半个月执行一次，主要进行清洁润滑、基本检查和功能测试。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 95,
+      "style": "正文内容",
+      "text": "清洁润滑内容：清洁自动扶梯的梯级、梳齿板、扶手带表面和桁架内部灰尘杂物；清洁垂直电梯的门导轨、门滑块和门锁装置灰尘；对门机导轨、门铰链、门滑块等运动部件进行润滑；对自动扶梯的梯级链、驱动链进行润滑；检查减速器油位，不足时补充。",
+      "chars": 113,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "清洁润滑内容：清洁自动扶梯的梯级、梳齿板、扶手带表面和桁架内部灰尘杂物；清洁垂直电梯的门导轨、门滑块和门锁装置灰尘；对门机导轨、门铰链、门滑块等运动部件进行润滑；对自动扶梯的梯级链、驱动链进行润滑；检查减速器油位，不足时补充。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 96,
+      "style": "正文内容",
+      "text": "基本检查内容：检查各部件磨损情况，特别是门滑块、扶手带、梯级、梳齿板等易损件；检查紧固件是否松动，使用扭矩扳手按规定力矩紧固；调整门机皮带张紧度、门锁间隙、扶手带张紧度等；检查曳引绳（垂直电梯）的外观和张力状态。",
+      "chars": 106,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "基本检查内容：检查各部件磨损情况，特别是门滑块、扶手带、梯级、梳齿板等易损件；检查紧固件是否松动，使用扭矩扳手按规定力矩紧固；调整门机皮带张紧度、门锁间隙、扶手带张紧度等；检查曳引绳（垂直电梯）的外观和张力状态。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 97,
+      "style": "正文内容",
+      "text": "功能测试内容：测试开关门功能是否正常；测试平层精度是否在允许范围内；测试按钮和显示功能；测试安全保护装置（如梳齿板开关、扶手带入口开关、急停按钮等）是否正常响应。",
+      "chars": 81,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "功能测试内容：测试开关门功能是否正常；测试平层精度是否在允许范围内；测试按钮和显示功能；测试安全保护装置（如梳齿板开关、扶手带入口开关、急停按钮等）是否正常响应。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 98,
+      "style": "正文内容",
+      "text": "（三）月度检修",
+      "chars": 7,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "（三）月度检修",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading3"
+    },
+    {
+      "index": 99,
+      "style": "正文内容",
+      "text": "月度检修在半月保养基础上增加以下内容：各安全装置专项检查，包括限速器动作测试、安全钳功能检查、缓冲器状态检查、门锁装置可靠性检查、端站开关功能测试等；电气系统检查，包括控制柜内部清洁除尘、接线端子紧固、变频器运行参数检查、绝缘电阻测量等；运行参数检测，包括运行速度测量、平层精度测量、开关门时间测量等。",
+      "chars": 151,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "月度检修在半月保养基础上增加以下内容：各安全装置专项检查，包括限速器动作测试、安全钳功能检查、缓冲器状态检查、门锁装置可靠性检查、端站开关功能测试等；电气系统检查，包括控制柜内部清洁除尘、接线端子紧固、变频器运行参数检查、绝缘电阻测量等；运行参数检测，包括运行速度测量、平层精度测量、开关门时间测量等。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 100,
+      "style": "正文内容",
+      "text": "（四）年度检验",
+      "chars": 7,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "（四）年度检验",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading3"
+    },
+    {
+      "index": 101,
+      "style": "正文内容",
+      "text": "年度检验由特种设备检验部门执行，维保单位配合。年度检验内容包括：全面检查电梯所有部件的磨损和老化状态；进行整机性能测试，包括运行速度、平层精度、开关门时间、噪音等；安全装置全面测试，包括限速器-安全钳联动测试、缓冲器压缩测试、门锁装置可靠性测试、端站保护功能测试等；出具年度检验报告，对不合格项进行整改。年度检验合格后电梯方可继续使用。",
+      "chars": 168,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "年度检验由特种设备检验部门执行，维保单位配合。年度检验内容包括：全面检查电梯所有部件的磨损和老化状态；进行整机性能测试，包括运行速度、平层精度、开关门时间、噪音等；安全装置全面测试，包括限速器",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "-",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "安全钳联动测试、缓冲器压缩测试、门锁装置可靠性测试、端站保护功能测试等；出具年度检验报告，对不合格项进行整改。年度检验合格后电梯方可继续使用。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 102,
+      "style": "表注",
+      "text": "表4-1 电梯检修周期表",
+      "chars": 12,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": 76200,
+      "space_after": 76200,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "表",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "4-1 ",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "电梯检修周期表",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "caption"
+    },
+    {
+      "index": 103,
+      "style": "表注",
+      "text": "表4-2 电梯日常检查表",
+      "chars": 12,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": 76200,
+      "space_after": 76200,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "表",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "4-2 ",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "电梯日常检查表",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "caption"
+    },
+    {
+      "index": 104,
+      "style": "Heading 1",
+      "text": "5  总  结",
+      "chars": 7,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": 152400,
+      "space_after": 152400,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "5  ",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "总",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "  ",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "结",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading1"
+    },
+    {
+      "index": 105,
+      "style": "正文内容",
+      "text": "本设计以太平街口站电梯为设计对象，通过对系统组成、工作原理的分析，总结了常见故障类型及产生原因，制定了设备检修维护方案，明确了检修的基本原则、周期内容和质量标准，形成了一套较为完整的设备检修方案。",
+      "chars": 98,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "本设计以太平街口站电梯为设计对象，通过对系统组成、工作原理的分析，总结了常见故障类型及产生原因，制定了设备检修维护方案，",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "明确了检修的基本原则、周期内容和质量标准，形成了一套较为完整的设备检修方案。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 106,
+      "style": "正文内容",
+      "text": "本方案具有以下特点：一是实用性强，方案内容紧密结合太平街口站高客流、高负荷运营的实际情况，检修内容和方法具有较强的可操作性；二是系统性强，方案涵盖了自动扶梯和垂直电梯两大设备类型，从故障分析到检修实施，从日常维护到年度检验，形成了完整的体系；三是规范性强，方案严格遵循特种设备相关法规和标准，强调持证上岗和特检年检要求，确保检修工作的合规性。",
+      "chars": 171,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "本方案具有以下特点：一是实用性强，方案内容紧密结合太平街口站高客流、高负荷运营的实际情况，检修内容和方法具有较强的可操作性；二是系统性强，方案涵盖了自动扶梯和垂直电梯两大设备类型，从故障分析到检修实施，从日常维护到年度检验，形成了完整的体系；三是规范性强，方案严格遵循特种设备相关法规和标准，强调持证上岗和特检年检要求，确保检修工作的合规性。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 107,
+      "style": "正文内容",
+      "text": "通过本方案的实施，可有效提高设备的检修质量和效率，降低设备故障率，延长设备使用寿命，为城市轨道交通车站机电设备的安全稳定运行提供保障。在实际应用中，可根据具体设备型号和车站运营特点进行适当调整，使方案更加贴合实际。",
+      "chars": 107,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "通过本方案的实施，可有效提高设备的检修质量和效率，降低设备故障率，延长设备使用寿命，为城市轨道交通车站机电设备的安全稳定运行提供保障。在实际应用中，可根据具体设备型号和车站运营特点进行适当调整，使方案更加贴合实际。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 108,
+      "style": "正文内容",
+      "text": "本方案的不足之处在于：一是方案中部分故障分析基于一般性经验，与太平街口站的具体设备型号和运行环境可能存在一定偏差，需要在实际执行中根据设备具体情况进行修正；二是方案中未涉及基于物联网的电梯远程监控和故障预警技术，未来可结合智慧车站建设引入智能监测手段，实现电梯设备的状态监测和预测性维护；三是方案对电梯困人应急救援的具体操作流程设计不够详细，需在实际中配套制定专项应急预案和救援演练计划。",
+      "chars": 194,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": 304800,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "本方案的不足之处在于：一是方案中部分故障分析基于一般性经验，与太平街口站的具体设备型号和运行环境可能存在一定偏差，需要在实际执行中根据设备具体情况进行修正；二是方案中未涉及基于物联网的电梯远程监控和故障预警技术，未来可结合智慧车站建设引入智能监测手段，实现电梯设备的状态监测和预测性维护；三是方案对电梯困人应急救援的具体操作流程设计不够详细，需在实际中配套制定专项应急预案和救援演练计划",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "。",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "body"
+    },
+    {
+      "index": 109,
+      "style": "Heading 1",
+      "text": "参考文献",
+      "chars": 4,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": 152400,
+      "space_after": 152400,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "参考文献",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "heading1"
+    },
+    {
+      "index": 110,
+      "style": "参考文献",
+      "text": "GB50157-2013,地铁设计规范[S].北京:中国计划出版社,2013.",
+      "chars": 39,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "GB50157-2013,",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "地铁设计规范",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "[S].",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "北京",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ":",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "中国计划出版社",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ",2013.",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "reference"
+    },
+    {
+      "index": 111,
+      "style": "参考文献",
+      "text": "李明.基于事故的地铁电梯预防性维护和故障检修[J].科技资讯,2023(10):45-47.",
+      "chars": 46,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "李明",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ".",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "基于事故的地铁电梯预防性维护和故障检修",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "[J].",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "科技资讯",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ",2023(10):45-47.",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "reference"
+    },
+    {
+      "index": 112,
+      "style": "参考文献",
+      "text": "张伟.浅谈城市地铁电梯和自动扶梯系统的选型与维护[J].中国高新技术企业,2018(12):71-73.",
+      "chars": 52,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "张伟",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ".",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "浅谈城市地铁电梯和自动扶梯系统的选型与维护",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "[J].",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "中国高新技术企业",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ",2018(12):71-73.",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "reference"
+    },
+    {
+      "index": 113,
+      "style": "参考文献",
+      "text": "王建国.浅析地铁电梯设备故障排除与维修[J].科技资讯,2020(33):54-56.",
+      "chars": 43,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "王建国",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ".",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "浅析地铁电梯设备故障排除与维修",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "[J].",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "科技资讯",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ",2020(33):54-56.",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "reference"
+    },
+    {
+      "index": 114,
+      "style": "参考文献",
+      "text": "刘洋.地铁站内电梯设备的机械故障维护措施[J].中国设备工程,2020(16):24-26.",
+      "chars": 46,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "刘洋",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ".",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "地铁站内电梯设备的机械故障维护措施",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "[J].",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "中国设备工程",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ",2020(16):24-26.",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "reference"
+    },
+    {
+      "index": 115,
+      "style": "参考文献",
+      "text": "赵伟.加强地铁电梯维护保养与管理预防电梯安全事故[J].城镇建设与规划,2023(7):112-114.",
+      "chars": 52,
+      "alignment": null,
+      "line_spacing": null,
+      "space_before": null,
+      "space_after": null,
+      "left_indent": null,
+      "first_line_indent": null,
+      "page_break_before": false,
+      "keep_with_next": false,
+      "runs": [
+        {
+          "text": "赵伟",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ".",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "加强地铁电梯维护保养与管理预防电梯安全事故",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "[J].",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "城镇建设与规划",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ",2023(7):112-114.",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ],
+      "role": "reference"
+    }
+  ]
+}

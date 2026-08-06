@@ -24,12 +24,14 @@ def route(meta, request="", force_profile=None):
     if dec["confidence"] < 0.9:
         dec = judge(meta, request, dec)
         dec["reason"].append("level2_light_judge")
-    if force_profile:
+    if force_profile and force_profile != "auto":
         dec["recommended_compute"] = force_profile
         dec["reason"].append("force_profile")
         dec["fingerprint"] = fp
         dec["source"] = "forced"
         return dec
+    if force_profile == "auto":
+        dec["reason"].append("profile_auto")
     history = decision_cache.load(HISTORY, [])
     adjusted, note = escalation.suggest(dec["recommended_compute"], meta.get("task_type", "docx"), history)
     if note:

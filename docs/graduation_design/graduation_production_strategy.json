@@ -1,0 +1,15 @@
+﻿{
+  "checkpoint_id": "CP-2026-08-06-007",
+  "phase": "毕业设计四件套生产策略固定",
+  "status": "confirmed",
+  "created_at": "2026-08-06",
+  "strategy": {
+    "01": "v03/run_taskbook_case.py + 两行空行修正 + Layout Compliance 2页",
+    "02": "v1.3 模板样式法?TemplateInstanceBuilder + ContentAdapter + Table Grid + 表格内容 + 单一TOC）",
+    "03": "EvaluationSkillRunner v1.0",
+    "04": "DefenseSkillRunner + DEFENSE_LAYOUT_NORMALIZE=1 v0.9"
+  },
+  "principle": "模板为唯一版式来源，学生信息/课题/初稿可来自学生",
+  "doc": "docs/graduation_design/graduation_production_strategy.md",
+  "preserve": "不覆盖上一稳定版本"
+}

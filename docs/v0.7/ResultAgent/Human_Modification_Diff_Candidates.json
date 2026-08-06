@@ -1,0 +1,1665 @@
+{
+  "schema": "0.7-modification-diff-candidates-v1",
+  "students": {
+    "王欢": [
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_AI基线版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.93,
+        "similarity": 0.994
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_教师修改工作副本.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.991
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.1_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.971
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.89,
+        "similarity": 0.969
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐0.74cm.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐v2.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_字符规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_引号规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.89,
+        "similarity": 0.982
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终交付版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.89,
+        "similarity": 0.982
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版_参考格式修复版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_标点规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_正文符号修复版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.9,
+        "similarity": 0.984
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录更新版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.89,
+        "similarity": 0.982
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录重新生成版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.9,
+        "similarity": 0.984
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_表格表头规范版.docx",
+        "change_type": "table_format",
+        "area": "表格区域",
+        "confidence": 0.89,
+        "similarity": 0.982
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.89,
+        "similarity": 0.96
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_AI基线版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\AI版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_AI生成版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.93,
+        "similarity": 0.994
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_教师修改工作副本.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\AI版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_AI生成版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.991
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\AI版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_AI生成版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.1_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.971
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\AI版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_AI生成版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.89,
+        "similarity": 0.969
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\AI版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_AI生成版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐0.74cm.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\AI版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_AI生成版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐v2.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\AI版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_AI生成版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_字符规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\AI版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_AI生成版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_引号规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.89,
+        "similarity": 0.982
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\AI版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_AI生成版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终交付版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.89,
+        "similarity": 0.982
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\AI版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_AI生成版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\AI版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_AI生成版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版_参考格式修复版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\AI版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_AI生成版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_标点规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\AI版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_AI生成版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_正文符号修复版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.9,
+        "similarity": 0.984
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\AI版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_AI生成版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录更新版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.89,
+        "similarity": 0.982
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\AI版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_AI生成版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录重新生成版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.9,
+        "similarity": 0.984
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\AI版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_AI生成版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_表格表头规范版.docx",
+        "change_type": "table_format",
+        "area": "表格区域",
+        "confidence": 0.89,
+        "similarity": 0.982
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\AI版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_AI生成版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.89,
+        "similarity": 0.96
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_AI基线版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\人工版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_人工修订版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.93,
+        "similarity": 0.994
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_教师修改工作副本.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\人工版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_人工修订版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.991
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\人工版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_人工修订版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.1_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.971
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\人工版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_人工修订版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.89,
+        "similarity": 0.969
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\人工版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_人工修订版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐0.74cm.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\人工版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_人工修订版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐v2.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\人工版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_人工修订版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_字符规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\人工版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_人工修订版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_引号规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.89,
+        "similarity": 0.982
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\人工版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_人工修订版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终交付版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.89,
+        "similarity": 0.982
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\人工版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_人工修订版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\人工版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_人工修订版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版_参考格式修复版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\人工版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_人工修订版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_标点规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\人工版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_人工修订版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_正文符号修复版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.9,
+        "similarity": 0.984
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\人工版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_人工修订版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录更新版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.89,
+        "similarity": 0.982
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\人工版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_人工修订版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录重新生成版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.9,
+        "similarity": 0.984
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\人工版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_人工修订版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_表格表头规范版.docx",
+        "change_type": "table_format",
+        "area": "表格区域",
+        "confidence": 0.89,
+        "similarity": 0.982
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\人工版本\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_人工修订版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.89,
+        "similarity": 0.96
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_AI基线版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_教师修改工作副本.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.92,
+        "similarity": 0.991
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_AI基线版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.1_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.971
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_AI基线版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.89,
+        "similarity": 0.968
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_AI基线版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐0.74cm.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_AI基线版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐v2.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_AI基线版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_字符规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_AI基线版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_引号规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.89,
+        "similarity": 0.981
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_AI基线版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终交付版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.89,
+        "similarity": 0.981
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_AI基线版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_AI基线版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版_参考格式修复版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_AI基线版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_标点规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.9,
+        "similarity": 0.983
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_AI基线版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_正文符号修复版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.89,
+        "similarity": 0.979
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_AI基线版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录更新版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.89,
+        "similarity": 0.981
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_AI基线版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录重新生成版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.89,
+        "similarity": 0.979
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_AI基线版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_表格表头规范版.docx",
+        "change_type": "table_format",
+        "area": "表格区域",
+        "confidence": 0.89,
+        "similarity": 0.981
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_AI基线版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.89,
+        "similarity": 0.965
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_教师修改工作副本.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.1_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.94,
+        "similarity": 0.98
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_教师修改工作副本.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.94,
+        "similarity": 0.977
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_教师修改工作副本.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐0.74cm.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.94,
+        "similarity": 0.992
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_教师修改工作副本.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐v2.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.94,
+        "similarity": 0.992
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_教师修改工作副本.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_字符规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.98,
+        "similarity": 0.992
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_教师修改工作副本.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_引号规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.98,
+        "similarity": 0.99
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_教师修改工作副本.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终交付版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.98,
+        "similarity": 0.99
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_教师修改工作副本.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.94,
+        "similarity": 0.992
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_教师修改工作副本.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版_参考格式修复版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.94,
+        "similarity": 0.992
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_教师修改工作副本.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_标点规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.94,
+        "similarity": 0.992
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_教师修改工作副本.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_正文符号修复版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.94,
+        "similarity": 0.987
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_教师修改工作副本.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录更新版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.98,
+        "similarity": 0.99
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_教师修改工作副本.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录重新生成版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.94,
+        "similarity": 0.987
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_教师修改工作副本.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_表格表头规范版.docx",
+        "change_type": "table_format",
+        "area": "表格区域",
+        "confidence": 0.98,
+        "similarity": 0.99
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.3_王欢成果验证\\真实训练\\王欢成果_教师修改工作副本.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.91,
+        "similarity": 0.957
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.1_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.94,
+        "similarity": 0.98
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.1_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐0.74cm.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.97,
+        "similarity": 0.972
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.1_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐v2.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.97,
+        "similarity": 0.972
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.1_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_字符规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.93,
+        "similarity": 0.972
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.1_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_引号规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.93,
+        "similarity": 0.972
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.1_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终交付版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.93,
+        "similarity": 0.972
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.1_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.97,
+        "similarity": 0.972
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.1_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版_参考格式修复版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.97,
+        "similarity": 0.972
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.1_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_标点规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.97,
+        "similarity": 0.972
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.1_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_正文符号修复版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.92,
+        "similarity": 0.969
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.1_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录更新版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.93,
+        "similarity": 0.972
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.1_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录重新生成版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.92,
+        "similarity": 0.969
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.1_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_表格表头规范版.docx",
+        "change_type": "table_format",
+        "area": "表格区域",
+        "confidence": 0.93,
+        "similarity": 0.972
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.1_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.92,
+        "similarity": 0.937
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐0.74cm.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.96,
+        "similarity": 0.985
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐v2.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.96,
+        "similarity": 0.985
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_字符规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.96,
+        "similarity": 0.985
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_引号规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.96,
+        "similarity": 0.986
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终交付版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.96,
+        "similarity": 0.986
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.96,
+        "similarity": 0.985
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版_参考格式修复版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.96,
+        "similarity": 0.985
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_标点规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.96,
+        "similarity": 0.985
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_正文符号修复版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.94,
+        "similarity": 0.982
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录更新版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.96,
+        "similarity": 0.986
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录重新生成版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.94,
+        "similarity": 0.982
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_表格表头规范版.docx",
+        "change_type": "table_format",
+        "area": "表格区域",
+        "confidence": 0.96,
+        "similarity": 0.986
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.9,
+        "similarity": 0.935
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐v2.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐0.74cm.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.99,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐0.74cm.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_字符规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.97,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐0.74cm.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_引号规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.97,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐0.74cm.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终交付版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.97,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐0.74cm.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.99,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版_参考格式修复版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐0.74cm.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.99,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐0.74cm.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_标点规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.99,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐0.74cm.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_正文符号修复版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.95,
+        "similarity": 0.995
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐0.74cm.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录更新版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.97,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐0.74cm.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录重新生成版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.95,
+        "similarity": 0.995
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐0.74cm.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_表格表头规范版.docx",
+        "change_type": "table_format",
+        "area": "表格区域",
+        "confidence": 0.97,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐0.74cm.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.93,
+        "similarity": 0.95
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐v2.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_字符规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.97,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐v2.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_引号规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.97,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐v2.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终交付版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.97,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐v2.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.99,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版_参考格式修复版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐v2.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.99,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐v2.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_标点规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.99,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐v2.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_正文符号修复版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.95,
+        "similarity": 0.995
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐v2.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录更新版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.97,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐v2.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录重新生成版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.95,
+        "similarity": 0.995
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐v2.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_表格表头规范版.docx",
+        "change_type": "table_format",
+        "area": "表格区域",
+        "confidence": 0.97,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_参考对齐v2.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.93,
+        "similarity": 0.95
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_字符规范版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_引号规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.99,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_字符规范版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终交付版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.99,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_字符规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.97,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版_参考格式修复版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_字符规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.97,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_标点规范版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_字符规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.97,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_字符规范版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_正文符号修复版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.97,
+        "similarity": 0.995
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_字符规范版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录更新版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.99,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_字符规范版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录重新生成版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.97,
+        "similarity": 0.995
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_字符规范版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_表格表头规范版.docx",
+        "change_type": "table_format",
+        "area": "表格区域",
+        "confidence": 0.99,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_字符规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.91,
+        "similarity": 0.95
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_引号规范版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终交付版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.99,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_引号规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.97,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版_参考格式修复版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_引号规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.97,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_标点规范版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_引号规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.97,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_引号规范版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_正文符号修复版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.97,
+        "similarity": 0.997
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_引号规范版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录更新版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.99,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_引号规范版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录重新生成版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.97,
+        "similarity": 0.997
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_引号规范版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_表格表头规范版.docx",
+        "change_type": "table_format",
+        "area": "表格区域",
+        "confidence": 0.99,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_引号规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.91,
+        "similarity": 0.948
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终交付版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.97,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版_参考格式修复版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终交付版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.97,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_标点规范版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终交付版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.97,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终交付版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_正文符号修复版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.97,
+        "similarity": 0.997
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终交付版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录更新版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.99,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终交付版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录重新生成版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.97,
+        "similarity": 0.997
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_表格表头规范版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终交付版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.99,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终交付版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.91,
+        "similarity": 0.948
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版_参考格式修复版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.99,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_标点规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.99,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_正文符号修复版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.95,
+        "similarity": 0.995
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录更新版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.97,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录重新生成版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.95,
+        "similarity": 0.995
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_表格表头规范版.docx",
+        "change_type": "table_format",
+        "area": "表格区域",
+        "confidence": 0.97,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.93,
+        "similarity": 0.95
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版_参考格式修复版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_标点规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.99,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版_参考格式修复版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_正文符号修复版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.95,
+        "similarity": 0.995
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版_参考格式修复版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录更新版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.97,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版_参考格式修复版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录重新生成版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.95,
+        "similarity": 0.995
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版_参考格式修复版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_表格表头规范版.docx",
+        "change_type": "table_format",
+        "area": "表格区域",
+        "confidence": 0.97,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_最终验收版_参考格式修复版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.93,
+        "similarity": 0.95
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_标点规范版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_正文符号修复版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.95,
+        "similarity": 0.995
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_标点规范版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录更新版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.97,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_标点规范版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录重新生成版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.95,
+        "similarity": 0.995
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_标点规范版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_表格表头规范版.docx",
+        "change_type": "table_format",
+        "area": "表格区域",
+        "confidence": 0.97,
+        "similarity": 0.998
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_标点规范版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.93,
+        "similarity": 0.95
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_正文符号修复版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录更新版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.97,
+        "similarity": 0.997
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录重新生成版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_正文符号修复版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.99,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_表格表头规范版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_正文符号修复版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.97,
+        "similarity": 0.997
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_正文符号修复版.docx",
+        "change_type": "character_style",
+        "area": "正文/标点区域",
+        "confidence": 0.9,
+        "similarity": 0.946
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录重新生成版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录更新版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.97,
+        "similarity": 0.997
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_表格表头规范版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录更新版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.99,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录更新版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.91,
+        "similarity": 0.948
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_表格表头规范版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录重新生成版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.97,
+        "similarity": 0.997
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_目录重新生成版.docx",
+        "change_type": "toc",
+        "area": "目录区域",
+        "confidence": 0.9,
+        "similarity": 0.946
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_王欢成果验证\\02 王欢 毕业设计成果 解放西路站AFC检票机故障排查方案设计_表格表头规范版.docx",
+        "change_type": "table_format",
+        "area": "表格区域",
+        "confidence": 0.91,
+        "similarity": 0.948
+      }
+    ],
+    "邱志豪": [
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果Reference质量验证\\邱志豪毕业设计成果_Reference质量验证版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_邱志豪成果验证\\01 邱志豪 毕业设计成果 太平街口站电梯常见故障分析与检修方案设计_最终验收版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.98,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果参考文献修正\\邱志豪毕业设计成果_参考文献修正版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_邱志豪成果验证\\01 邱志豪 毕业设计成果 太平街口站电梯常见故障分析与检修方案设计_最终验收版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.98,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果参考文献修正\\邱志豪毕业设计成果_参考文献排版修正版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_邱志豪成果验证\\01 邱志豪 毕业设计成果 太平街口站电梯常见故障分析与检修方案设计_最终验收版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.98,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果参考文献悬挂修正\\邱志豪毕业设计成果_参考文献修正版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_邱志豪成果验证\\01 邱志豪 毕业设计成果 太平街口站电梯常见故障分析与检修方案设计_最终验收版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.98,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果经验验证新版\\邱志豪毕业设计成果_经验验证新版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.4.2_邱志豪成果验证\\01 邱志豪 毕业设计成果 太平街口站电梯常见故障分析与检修方案设计_最终验收版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.98,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果参考文献修正\\邱志豪毕业设计成果_参考文献修正版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果Reference质量验证\\邱志豪毕业设计成果_Reference质量验证版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.98,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果参考文献修正\\邱志豪毕业设计成果_参考文献排版修正版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果Reference质量验证\\邱志豪毕业设计成果_Reference质量验证版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.98,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果Reference质量验证\\邱志豪毕业设计成果_Reference质量验证版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果参考文献悬挂修正\\邱志豪毕业设计成果_参考文献修正版.docx",
+        "change_type": "reference_format",
+        "area": "参考文献区域",
+        "confidence": 0.98,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果Reference质量验证\\邱志豪毕业设计成果_Reference质量验证版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果经验驱动生成\\邱志豪毕业设计成果_经验驱动生成版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.98,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果Reference质量验证\\邱志豪毕业设计成果_Reference质量验证版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果经验验证新版\\邱志豪毕业设计成果_经验验证新版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.98,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果参考文献修正\\邱志豪毕业设计成果_参考文献修正版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果参考文献修正\\邱志豪毕业设计成果_参考文献排版修正版.docx",
+        "change_type": "reference_format",
+        "area": "参考文献区域",
+        "confidence": 0.99,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果参考文献修正\\邱志豪毕业设计成果_参考文献修正版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果参考文献悬挂修正\\邱志豪毕业设计成果_参考文献修正版.docx",
+        "change_type": "reference_format",
+        "area": "参考文献区域",
+        "confidence": 0.98,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果参考文献修正\\邱志豪毕业设计成果_参考文献修正版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果经验驱动生成\\邱志豪毕业设计成果_经验驱动生成版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.98,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果参考文献修正\\邱志豪毕业设计成果_参考文献修正版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果经验验证新版\\邱志豪毕业设计成果_经验验证新版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.98,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果参考文献修正\\邱志豪毕业设计成果_参考文献排版修正版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果参考文献悬挂修正\\邱志豪毕业设计成果_参考文献修正版.docx",
+        "change_type": "reference_format",
+        "area": "参考文献区域",
+        "confidence": 0.98,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果参考文献修正\\邱志豪毕业设计成果_参考文献排版修正版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果经验驱动生成\\邱志豪毕业设计成果_经验驱动生成版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.98,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果参考文献修正\\邱志豪毕业设计成果_参考文献排版修正版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果经验验证新版\\邱志豪毕业设计成果_经验验证新版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.98,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果参考文献悬挂修正\\邱志豪毕业设计成果_参考文献修正版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果经验驱动生成\\邱志豪毕业设计成果_经验驱动生成版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.98,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果参考文献悬挂修正\\邱志豪毕业设计成果_参考文献修正版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果经验验证新版\\邱志豪毕业设计成果_经验验证新版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.98,
+        "similarity": 1.0
+      },
+      {
+        "before": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果经验验证新版\\邱志豪毕业设计成果_经验验证新版.docx",
+        "after": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果经验驱动生成\\邱志豪毕业设计成果_经验驱动生成版.docx",
+        "change_type": "format_revision",
+        "area": "未知区域",
+        "confidence": 0.98,
+        "similarity": 1.0
+      }
+    ]
+  }
+}

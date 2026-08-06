@@ -1,0 +1,32 @@
+{
+  "document": "邱志豪毕业设计成果",
+  "scope": "参考文献",
+  "findings": [
+    {
+      "id": "REF-001",
+      "location": "DOCX ref index 1-5 / PDF page 16 [2]-[6]",
+      "type": "content_pollution",
+      "detail": "尾部残留 查看 + U+00A0",
+      "count": 5,
+      "severity": "medium",
+      "render_visible": true
+    }
+  ],
+  "character_layer": {
+    "nbsps": 5,
+    "anchor_text": "查看",
+    "anchor_count": 5,
+    "hidden_chars": []
+  },
+  "format_layer": {
+    "style_ok": true,
+    "indent_ok": true,
+    "run_rPr_issue": false
+  },
+  "render_layer": {
+    "pdf_visible": true,
+    "page": 16
+  },
+  "root_cause": "Content Clean未去除网页链接锚文本",
+  "status": "diagnosed"
+}

@@ -1,0 +1,24 @@
+{
+  "experience_id": "validated_reference_format_001",
+  "name": "参考文献悬挂缩进视觉层级保持",
+  "status": "long_term_knowledge",
+  "human_confirmed": true,
+  "confirmed_at": "2026-08-04",
+  "detection_method": "检测多行参考文献首行与续行文字起始位置关系",
+  "judgment_basis": "续行未与正文起始位置形成统一视觉层级",
+  "root_cause": "参考文献段落样式未符合模板质量要求",
+  "strategy": "调整悬挂缩进参数，使参考文献区域恢复视觉一致",
+  "parameter_source": "具体缩进值来自当前黄金模板，而非固定规则",
+  "baseline": "杨振海毕业设计成果模板",
+  "source_verified": true,
+  "evidence": [
+    "邱志豪毕业设计成果_参考文献修正版.docx",
+    "邱志豪毕业设计成果_参考文献修正版.pdf",
+    "邱志豪参考文献修正验证报告.md"
+  ],
+  "applicable_scope": [
+    "毕业设计成果",
+    "参考文献区域",
+    "多行参考文献"
+  ]
+}

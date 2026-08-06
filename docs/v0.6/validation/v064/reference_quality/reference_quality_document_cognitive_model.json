@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.7-rqs",
+  "document_type": "graduation_result",
+  "structure": {
+    "pages": 16,
+    "tables": 6,
+    "references": 6
+  },
+  "page_quality": {
+    "blank_pages": [],
+    "balanced": true
+  },
+  "regions": [
+    "封面",
+    "承诺",
+    "目录",
+    "正文",
+    "表格",
+    "参考文献"
+  ]
+}

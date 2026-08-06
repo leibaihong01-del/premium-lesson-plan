@@ -1,0 +1,73 @@
+schema_version: 0.7-runtime-v1
+default_python: "3.12"
+platform: windows
+
+dependency_groups:
+  document_parser:
+    - name: python-docx
+      import: docx
+      purpose: DOCX 结构解析与填充
+      required: true
+      version: ">=1.1.0"
+      health_check: "import docx; from docx import Document"
+    - name: pdfplumber
+      import: pdfplumber
+      purpose: PDF 文本与位置提取
+      required: true
+      version: ">=0.10.0"
+      health_check: "open pdf and extract text"
+    - name: pypdf
+      import: pypdf
+      purpose: PDF 页数提取
+      required: true
+      version: ">=4.0.0"
+      health_check: "PdfReader page count"
+    - name: pypdfium2
+      import: pypdfium2
+      purpose: PDF 渲染备用
+      required: false
+      version: ">=4.0.0"
+      health_check: "render page to bitmap"
+
+  analysis:
+    - name: lxml
+      import: lxml
+      purpose: XML 与样式分析
+      required: true
+      version: ">=5.0.0"
+      health_check: "import lxml.etree"
+    - name: pillow
+      import: PIL
+      purpose: 图像与渲染检查
+      required: false
+      version: ">=10.0.0"
+      health_check: "open image"
+
+  validation:
+    - name: openpyxl
+      import: openpyxl
+      purpose: 表格数据校验（xlsx）
+      required: false
+      version: ">=3.1.0"
+      health_check: "load workbook"
+
+  rendering:
+    - name: Word COM
+      import: null
+      purpose: DOCX 转 PDF
+      required: true
+      platform: windows
+      health_check: "powershell Word.Application"
+
+  config:
+    - name: pyyaml
+      import: yaml
+      purpose: 配置与记忆读取
+      required: true
+      version: ">=6.0.0"
+      health_check: "yaml.safe_load"
+
+runtime_health:
+  check_on_startup: true
+  degraded_policy: "缺失可选组件时标记 degraded/unknown，不中断生成，不临时安装"
+  missing_policy: "缺失必需组件时禁止生成，先进入环境初始化"

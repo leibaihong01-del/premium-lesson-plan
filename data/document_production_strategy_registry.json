@@ -1,0 +1,126 @@
+{
+  "registry_version": "0.7-production-strategy-v1",
+  "principle": "以最佳已验证生产策略为准，不按版本号选择生成方式",
+  "strategies": {
+    "task_book": {
+      "name": "TaskBook Production Strategy",
+      "calling_entry": "毕业设计智能制作工作区/00_系统配置/模块/v03/run_taskbook_case.py",
+      "generator": "v03/taskbook_generator.py（模板母版复制 + 学生任务书内容迁移）",
+      "input": [
+        "学生信息.json",
+        "任务书.docx",
+        "01 杨振海毕业设计任务书模板"
+      ],
+      "template": "01 杨振海 毕业设计任务书 黄兴南路站AFC闸机设备检修方案设计.docx",
+      "rules": [
+        "18x14表结构",
+        "设计目标/设计任务迁移",
+        "内部审核自动修复"
+      ],
+      "output": "06_输出成果/V0.3_学生姓名任务书验证/01 学生姓名 毕业设计任务书 课题名称.docx",
+      "validated_cases": [
+        "王欢",
+        "汪子涵",
+        "邱志豪",
+        "陈家宝"
+      ]
+    },
+    "result": {
+      "name": "Result Production Strategy (Result Skill v2)",
+      "calling_entry": "CourseAgent/core/graduation_skill_runners.py::ResultSkillRunner（Result Skill v2 正式封装）",
+      "generator": "v03/result_reference_builder.py（模板保真重构） + 封面字段移植 + 字体规范",
+      "input": [
+        "StudentProfile",
+        "成果初稿.docx",
+        "成果记录表.docx",
+        "02 杨振海毕业设计成果模板"
+      ],
+      "template": "02 杨振海 毕业设计成果 黄兴南路站AFC闸机设备检修方案设计.docx",
+      "rules": [
+        "黄金模板前页保留",
+        "正文从学生初稿重构",
+        "封面字段以成果记录表为准",
+        "正文12pt宋体",
+        "TOC域",
+        "Result Experience Consumer",
+        "Result Quality Pipeline"
+      ],
+      "output": "学生成果包/02 学生姓名 毕业设计成果 课题名称.docx",
+      "validated_cases": [
+        "汪子涵",
+        "戴吉祥"
+      ],
+      "region_route": {
+        "A_fixed": [
+          "承诺书",
+          "原创声明",
+          "使用授权",
+          "诚信承诺"
+        ],
+        "B_field_replace": [
+          "封面"
+        ],
+        "C_reconstruct": [
+          "正文章节",
+          "表格内容",
+          "参考文献内容"
+        ],
+        "D_auto": [
+          "TOC域",
+          "PAGE域"
+        ]
+      },
+      "document": "Result_Region_Classification_Strategy.md"
+    },
+    "evaluation_form": {
+      "name": "Evaluation Production Strategy",
+      "calling_entry": "CourseAgent/core/graduation_skill_runners.py -> EvaluationSkillRunner",
+      "generator": "模板母版复制 + run级字段替换（样式继承）",
+      "input": [
+        "学生信息.json",
+        "04 杨振海成绩评定表模板"
+      ],
+      "template": "04 杨振海 毕业设计成绩评定表 黄兴南路站AFC闸机设备检修方案设计.docx",
+      "rules": [
+        "16x13表结构",
+        "签字区域保留",
+        "字符样式继承",
+        "Evaluation Form Quality Memory"
+      ],
+      "output": "学生成果包/03 学生姓名 毕业设计成绩评定表 课题名称.docx",
+      "validated_cases": [
+        "王欢",
+        "汪子涵",
+        "邱志豪",
+        "陈家宝"
+      ]
+    },
+    "defense_record": {
+      "name": "Defense Production Strategy",
+      "calling_entry": "CourseAgent/core/graduation_skill_runners.py -> DefenseSkillRunner",
+      "generator": "模板母版复制 + run级字段替换 + 学生答辩内容迁移",
+      "input": [
+        "学生信息.json",
+        "答辩记录表.docx",
+        "05 杨振海答辩记录表模板"
+      ],
+      "template": "05 杨振海 毕业设计答辩记录表 黄兴南路站AFC闸机设备检修方案设计.docx",
+      "rules": [
+        "单表结构",
+        "提问回答区域完整",
+        "答辩结论/记录人保留",
+        "Defense Record Quality Memory"
+      ],
+      "output": "学生成果包/04 学生姓名 毕业设计答辩记录表 课题名称.docx",
+      "validated_cases": [
+        "王欢",
+        "汪子涵",
+        "邱志豪",
+        "陈家宝"
+      ]
+    }
+  },
+  "skill_versions": {
+    "result": "result_v2 (2.0)"
+  }
+}

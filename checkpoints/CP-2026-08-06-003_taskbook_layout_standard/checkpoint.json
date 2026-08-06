@@ -1,0 +1,16 @@
+﻿{
+  "checkpoint_id": "CP-2026-08-06-003",
+  "phase": "任务书版式标准生产方式固化",
+  "status": "confirmed",
+  "created_at": "2026-08-06",
+  "rules": [
+    "task_book/rules/layout_compliance.md"
+  ],
+  "standard": [
+    "v03/run_taskbook_case.py",
+    "设计目标/任务保留两行空行",
+    "Layout Compliance 2 页"
+  ],
+  "validation": "邱志豪 + 汪子涵任务书均通过人工确认，后续仅用此方式",
+  "preserve": "不覆盖上一稳定版本"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": "0.7-rqs",
+  "candidate_id": "candidate_rqs_real_case_001",
+  "problem": "参考文献区域污染与样式不一致",
+  "root_cause": "缺少参考文献质量约束",
+  "strategy": "清理污染字符并调用模板参考文献样式",
+  "result": {
+    "pollution": 0,
+    "layout_ok": true
+  },
+  "source_verified": true,
+  "status": "candidate"
+}

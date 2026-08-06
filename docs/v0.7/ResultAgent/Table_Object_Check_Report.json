@@ -1,0 +1,92 @@
+{
+  "master_table_count": 6,
+  "generated_table_count": 3,
+  "xml_table_count_master": {
+    "open": 6,
+    "close": 6
+  },
+  "xml_table_count_generated": {
+    "open": 3,
+    "close": 3
+  },
+  "missing_tables": [
+    3,
+    4,
+    5
+  ],
+  "master_table_locations": [
+    {
+      "index": 0,
+      "rows": 11,
+      "cols": 2,
+      "body_position": 1,
+      "first_cell": "毕业设计"
+    },
+    {
+      "index": 1,
+      "rows": 7,
+      "cols": 5,
+      "body_position": 6,
+      "first_cell": "学生毕业设计真实性承诺"
+    },
+    {
+      "index": 2,
+      "rows": 8,
+      "cols": 4,
+      "body_position": 67,
+      "first_cell": "组成部分"
+    },
+    {
+      "index": 3,
+      "rows": 12,
+      "cols": 5,
+      "body_position": 104,
+      "first_cell": "故障类别"
+    },
+    {
+      "index": 4,
+      "rows": 8,
+      "cols": 4,
+      "body_position": 169,
+      "first_cell": "排查步骤"
+    },
+    {
+      "index": 5,
+      "rows": 11,
+      "cols": 5,
+      "body_position": 171,
+      "first_cell": "序号"
+    }
+  ],
+  "generated_table_locations": [
+    {
+      "index": 0,
+      "rows": 11,
+      "cols": 2,
+      "body_position": 1,
+      "first_cell": "毕业设计"
+    },
+    {
+      "index": 1,
+      "rows": 7,
+      "cols": 5,
+      "body_position": 6,
+      "first_cell": "学生毕业设计真实性承诺"
+    },
+    {
+      "index": 2,
+      "rows": 39,
+      "cols": 15,
+      "body_position": 14,
+      "first_cell": "组成部分"
+    }
+  ],
+  "nested_tables": {
+    "master": 0,
+    "generated": 0
+  },
+  "body_child_count": {
+    "master": 190,
+    "generated": 81
+  }
+}

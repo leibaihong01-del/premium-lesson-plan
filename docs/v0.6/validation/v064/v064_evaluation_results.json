@@ -1,0 +1,30 @@
+[
+  {
+    "case_id": "wang_huan_golden",
+    "violations": 0,
+    "deviations": 0,
+    "diagnosis": "no_action",
+    "final_passed": true
+  },
+  {
+    "case_id": "wang_zihan_excellent",
+    "violations": 0,
+    "deviations": 0,
+    "diagnosis": "no_action",
+    "final_passed": true
+  },
+  {
+    "case_id": "qiu_zhihao_problem",
+    "violations": 1,
+    "deviations": 0,
+    "diagnosis": "needs_revision",
+    "final_passed": true
+  },
+  {
+    "case_id": "qiu_zhihao_fixed",
+    "violations": 0,
+    "deviations": 0,
+    "diagnosis": "no_action",
+    "final_passed": true
+  }
+]

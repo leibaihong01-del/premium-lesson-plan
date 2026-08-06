@@ -1,0 +1,14 @@
+# 目录规则（通用）
+rules:
+  - id: TOC-001
+    rule: 目录必须为真实 TOC 域，所有内容修改完成后最后更新
+    source: 王欢/汪子涵
+    validation: 已验证
+  - id: TOC-002
+    rule: Word 更新后复检 TOC 制表位（9355）与 updateFields
+    source: 王欢/汪子涵
+    validation: 已验证
+  - id: TOC-003
+    rule: 页码右对齐、点引导线、条目与标题一致
+    source: 王欢
+    validation: 已验证

@@ -1,42 +1,72 @@
 [
-  {
-    "time": "2026-08-01 02:12:30",
-    "suggestion": "继续执行生成→检测→修复→沉淀闭环",
-    "applied": true
-  },
-  {
-    "time": "2026-08-01 02:15:26",
-    "suggestion": "继续执行生成→检测→修复→沉淀闭环",
-    "applied": true
-  },
-  {
-    "time": "2026-08-01 02:24:52",
-    "suggestion": "继续执行生成→检测→修复→沉淀闭环",
-    "applied": true
-  },
-  {
-    "time": "2026-08-01 02:33:18",
-    "suggestion": "继续执行生成→检测→修复→沉淀闭环",
-    "applied": true
-  },
-  {
-    "time": "2026-08-01 02:41:52",
-    "suggestion": "继续执行生成→检测→修复→沉淀闭环",
-    "applied": true
-  },
-  {
-    "time": "2026-08-01 02:43:36",
-    "suggestion": "继续执行生成→检测→修复→沉淀闭环",
-    "applied": true
-  },
-  {
-    "time": "2026-08-01 02:52:00",
-    "suggestion": "继续执行生成→检测→修复→沉淀闭环",
-    "applied": true
-  },
-  {
-    "time": "2026-08-01 03:03:38",
-    "suggestion": "继续执行生成→检测→修复→沉淀闭环",
-    "applied": true
-  }
+    {
+        "time":  "2026-08-01 02:12:30",
+        "suggestion":  "继续执行生成→检测→修复→沉淀闭环",
+        "applied":  true
+    },
+    {
+        "time":  "2026-08-01 02:15:26",
+        "suggestion":  "继续执行生成→检测→修复→沉淀闭环",
+        "applied":  true
+    },
+    {
+        "time":  "2026-08-01 02:24:52",
+        "suggestion":  "继续执行生成→检测→修复→沉淀闭环",
+        "applied":  true
+    },
+    {
+        "time":  "2026-08-01 02:33:18",
+        "suggestion":  "继续执行生成→检测→修复→沉淀闭环",
+        "applied":  true
+    },
+    {
+        "time":  "2026-08-01 02:41:52",
+        "suggestion":  "继续执行生成→检测→修复→沉淀闭环",
+        "applied":  true
+    },
+    {
+        "time":  "2026-08-01 02:43:36",
+        "suggestion":  "继续执行生成→检测→修复→沉淀闭环",
+        "applied":  true
+    },
+    {
+        "time":  "2026-08-01 02:52:00",
+        "suggestion":  "继续执行生成→检测→修复→沉淀闭环",
+        "applied":  true
+    },
+    {
+        "time":  "2026-08-01 03:03:38",
+        "suggestion":  "继续执行生成→检测→修复→沉淀闭环",
+        "applied":  true
+    },
+    {
+        "time":  "2026-08-02 15:42:34",
+        "suggestion":  "继续执行生成→检测→修复→沉淀闭环",
+        "applied":  true
+    },
+    {
+        "time":  "2026-08-02 15:57:04",
+        "suggestion":  "继续执行生成→检测→修复→沉淀闭环",
+        "applied":  true
+    },
+    {
+        "time":  "2026-08-02 15:59:08",
+        "suggestion":  "检测器按模板结构动态适配，避免跨模板崩溃",
+        "applied":  true
+    },
+    {
+        "time":  "2026-08-02 15:59:08",
+        "suggestion":  "profile auto 使用路由计算档位，降低默认高算力消耗",
+        "applied":  true
+    },
+    {
+        "time":  "2026-08-02 15:59:08",
+        "suggestion":  "复用 review_cache，重复文档零重跑",
+        "applied":  true
+    },
+    {
+        "time":  "2026-08-02 15:59:08",
+        "suggestion":  "每任务结束执行经验沉淀与无用文件清理",
+        "applied":  true
+    }
 ]

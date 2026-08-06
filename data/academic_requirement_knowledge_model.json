@@ -1,0 +1,107 @@
+{
+  "schema_version": "0.7-arkm-v1",
+  "organization": "长沙轨道交通职业学院 轨道车辆学院",
+  "document_type": "毕业设计成果",
+  "source_priority": [
+    "学校正式文件",
+    "学院文件",
+    "专业要求",
+    "模板隐含规则",
+    "黄金案例经验"
+  ],
+  "sources": {
+    "school": [
+      "08轨道车辆学院毕业设计检查标准",
+      "成果第一轮人工审查反馈"
+    ],
+    "college_rules": "CourseAgent/skills/graduation_design/school_rules/check_rules.json",
+    "content_rules": "CourseAgent/skills/graduation_design/school_rules/content_rules.json",
+    "format_rules": "CourseAgent/skills/graduation_design/school_rules/format_rules.json",
+    "result_audit_rules": "CourseAgent/skills/graduation_design/result/rules/audit_rules.json",
+    "template_schema": "CourseAgent/skills/graduation_design/result/rules/template_schema.json"
+  },
+  "requirements": [
+    {
+      "id": "ARKM-CONTENT-001",
+      "category": "content",
+      "name": "必备内容完整",
+      "source": "08轨道车辆学院毕业设计检查标准 + result/audit_rules.json",
+      "rule": "成果必须包含摘要、目录、正文、总结、参考文献；选题名称存在",
+      "check": "sections_present",
+      "priority": 1
+    },
+    {
+      "id": "ARKM-CONTENT-002",
+      "category": "content",
+      "name": "禁用科研式表达",
+      "source": "school_rules/content_rules.json（08检查标准 + 人工审查反馈）",
+      "rule": "禁止本文研究了/本文研究；本文/本研究/笔者等按语境复核",
+      "check": "forbidden_expressions",
+      "priority": 1
+    },
+    {
+      "id": "ARKM-CONTENT-003",
+      "category": "content",
+      "name": "正文字数要求",
+      "source": "school_rules/check_rules.json CHK-03",
+      "rule": "正文字数不少于5000字（不含图纸/附录/参考文献）",
+      "check": "body_chars_min",
+      "priority": 1
+    },
+    {
+      "id": "ARKM-STRUCT-001",
+      "category": "structure",
+      "name": "自动目录",
+      "source": "school_rules/check_rules.json CHK-04 + result/toc_rules.yaml",
+      "rule": "目录必须是可更新的自动目录，无书签错误",
+      "check": "toc_field",
+      "priority": 1
+    },
+    {
+      "id": "ARKM-FORMAT-001",
+      "category": "format",
+      "name": "模板格式",
+      "source": "school_rules/format_rules.json FMT-02",
+      "rule": "4分节、6表、正文12pt宋体，Heading1/2/表注/参考文献样式",
+      "check": "template_format",
+      "priority": 2
+    },
+    {
+      "id": "ARKM-FORMAT-002",
+      "category": "format",
+      "name": "章节分页",
+      "source": "school_rules/format_rules.json FMT-01",
+      "rule": "按学院模板排版，章节之间分页",
+      "check": "section_page_break",
+      "priority": 2
+    },
+    {
+      "id": "ARKM-REF-001",
+      "category": "references",
+      "name": "参考文献要求",
+      "source": "school_rules/check_rules.json CHK-05",
+      "rule": "参考文献格式正确、无虚假文献、无多余空格",
+      "check": "reference_quality",
+      "priority": 1
+    },
+    {
+      "id": "ARKM-QUALITY-001",
+      "category": "quality",
+      "name": "任务匹配",
+      "source": "result/rules/content_rules.yaml CONTENT-004",
+      "rule": "课题与任务书一致、结构覆盖、逻辑闭环",
+      "check": "task_match",
+      "priority": 2
+    },
+    {
+      "id": "ARKM-PACKAGE-001",
+      "category": "package",
+      "name": "成果材料齐全",
+      "source": "school_rules/check_rules.json CHK-01",
+      "rule": "成果材料6部分齐全（任务书/成果/指导记录表/查重报告单/成绩评定表/答辩记录表）",
+      "check": "package_level",
+      "priority": 2,
+      "note": "由 Document Package Validator 校验"
+    }
+  ]
+}

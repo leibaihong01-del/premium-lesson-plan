@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.6.5",
+  "candidate_id": "candidate_reference_anchor_cleanup_001",
+  "source_case": "邱志豪成果",
+  "problem": "参考文献尾部残留网页锚文本 查看 与 U+00A0",
+  "problem_layer": "content_model",
+  "root_cause": "Content Clean未去除引用来源的链接锚文本",
+  "strategy": "参考文献清洗时去除尾部锚文本与不间断空格，保留GB/T格式",
+  "validation_plan": {
+    "case": "邱志豪成果",
+    "acceptance": [
+      "查看=0",
+      "U+00A0=0",
+      "文献条数不变"
+    ]
+  },
+  "status": "candidate",
+  "no_freeze": true
+}

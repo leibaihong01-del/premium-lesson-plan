@@ -1,0 +1,455 @@
+{
+  "total": 75,
+  "assets": [
+    {
+      "category": "experience",
+      "path": "core/memory.py",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "experience",
+      "path": "memory/compute_history.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "experience",
+      "path": "memory/decision_rules.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "experience",
+      "path": "memory/failure.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "experience",
+      "path": "memory/failures.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "experience",
+      "path": "memory/improvements.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "experience",
+      "path": "memory/index.py",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "experience",
+      "path": "memory/repair_actions.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "experience",
+      "path": "memory/rule_update.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "experience",
+      "path": "memory/rules.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "experience",
+      "path": "memory/success.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "experience",
+      "path": "memory/system/best_practices.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "experience",
+      "path": "memory/system/improvements.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "experience",
+      "path": "memory/system/knowledge_sources.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "experience",
+      "path": "memory/system/knowledge_updates.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "experience",
+      "path": "memory/system/lessons_learned.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "experience",
+      "path": "memory/system/rules.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "experience",
+      "path": "memory/system/solutions.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "experience",
+      "path": "memory/system/successes.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "experience",
+      "path": "memory/system/tasks.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "experience",
+      "path": "memory/system/user_preferences.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "experience",
+      "path": "memory/task_patterns.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "template",
+      "path": "modules/template_parser.py",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "prompt",
+      "path": "prompts/manifest.yaml",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "prompt",
+      "path": "prompts/translator/system.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "prompt",
+      "path": "prompts/translator/user_template.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "experience",
+      "path": "skills/document_management/experience_iteration_rules.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/SKILL.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/expert_rules/README.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/expert_rules/content_rules.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "skill",
+      "path": "skills/graduation_design/result/SKILL.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/result/cases/closed_loop_status.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/result/cases/validation_summary.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/result/content_check/README.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/result/content_check/region_policy.yaml",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/result/content_check/validator.py",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/result/content_understanding.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/result/references.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/result/review/diff_analysis_report.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/result/review/regeneration_verification_plan.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/result/review/result_skill_correction_rules.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/result/review/root_cause_report.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/result/review_loop.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/result/rules/audit_rules.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/result/rules/content_mapping_rules.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/result/rules/content_rules.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/result/rules/dual_version_rules.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "strategy",
+      "path": "skills/graduation_design/result/rules/generation_rules.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/result/rules/naming_rules.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "strategy",
+      "path": "skills/graduation_design/result/rules/result_generation_strategy.yaml",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/result/rules/teacher_correction_rules.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "template",
+      "path": "skills/graduation_design/result/rules/template_schema.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/result/v1.0_upgrade_plan.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/result/version.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/result/workflow.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/review/rule_source_audit.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/school_rules/README.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/school_rules/check_rules.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/school_rules/content_rules.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/school_rules/format_rules.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/school_rules/naming_rules.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/task_book/README.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/task_book/SKILL.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/task_book/cases/validation_summary.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/task_book/graduation_design_taskbook_v1.0.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/task_book/manifest.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/task_book/references.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/task_book/rules/audit_rules.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/task_book/rules/content_rules.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "strategy",
+      "path": "skills/graduation_design/task_book/rules/generation_rules.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/task_book/rules/naming_rules.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "template",
+      "path": "skills/graduation_design/task_book/rules/template_schema.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/task_book/version.json",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "unknown",
+      "path": "skills/graduation_design/task_book/workflow.md",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    },
+    {
+      "category": "experience",
+      "path": "tests/test_memory_index.py",
+      "source": "tag:v1.0-result-baseline",
+      "version": "v1.0-result-baseline"
+    }
+  ]
+}

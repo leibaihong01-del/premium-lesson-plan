@@ -1,0 +1,45 @@
+name: graduation_package
+version: v0.1
+status: active
+created_at: "2026-08-06"
+inputs:
+  roster: "毕业设计智能制作工作区/03_需要修改文件/毕业设计名单.xlsx"
+  student_dir: "毕业设计智能制作工作区/03_需要修改文件整理/<方向>/<学生名>"
+  templates: "毕业设计智能制作工作区/02_模板文件"
+steps:
+  - id: profile
+    desc: "以名单为准构建 StudentProfile（姓名/学号/班级/指导教师/题目/方向）"
+  - id: taskbook
+    entry: "00_系统配置/模块/v03/run_taskbook_case.py"
+    env: [GRAD_STUDENT, GRAD_DIRECTION, GRAD_SEQ]
+    layout: "2页；设计目标/设计任务各2行空行；行高auto"
+  - id: result
+    entry: "CourseAgent/tools/result_v1.4_pipeline.py"
+    version: "v1.5 唯一输出方式"
+    note: "封面字段替换覆盖班级/指导教师；正文全角；参考文献半角；引号宋体"
+  - id: evaluation
+    entry: "EvaluationSkillRunner (v1.0)"
+  - id: defense
+    entry: "DefenseSkillRunner + DEFENSE_LAYOUT_NORMALIZE=1 (v0.9)"
+  - id: defense_differentiation
+    entry: "CourseAgent/core/defense_differentiation.py"
+    when: "同方向批量生成"
+    profiles: ["professional_profile", "direction_profile", "student_project_profile"]
+    checks: ["首句重复", "高频句式", "关键词重复率"]
+    safety: "只重排已有材料，不虚构技术内容"
+  - id: validate
+    checks:
+      - "五字段四文件一致：姓名/学号/班级/指导教师/题目"
+      - "Result质量引擎pass"
+      - "TaskBook 2页"
+      - "PDF渲染成功"
+  - id: package
+    outputs:
+      - "01/02/03/04 *.docx"
+      - "README.md"
+      - "_过程记录/*.pdf + 校验报告"
+pitfalls:
+  - "Result封面漏替换班级→保留模板1班"
+  - "TaskBook内容过长→3页"
+  - "WPS占用文件→WinError 32"
+  - "学生信息与名单不一致"

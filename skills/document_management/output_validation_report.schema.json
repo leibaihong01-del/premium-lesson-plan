@@ -1,0 +1,46 @@
+{
+  "schema_version": "0.7-output-validation-v1",
+  "report_name": "output_validation_report",
+  "type": "object",
+  "required": ["student_name", "topic", "target_dir", "checks", "status"],
+  "properties": {
+    "student_name": {
+      "type": "string"
+    },
+    "topic": {
+      "type": "string"
+    },
+    "target_dir": {
+      "type": "string"
+    },
+    "checks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["check", "pass"],
+        "properties": {
+          "check": {
+            "type": "string",
+            "enum": ["file_name_format", "student_name_consistency", "topic_consistency", "document_code", "directory_structure", "student_isolation"]
+          },
+          "pass": {
+            "type": "boolean"
+          },
+          "detail": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "status": {
+      "type": "string",
+      "enum": ["pass", "fail", "unknown"]
+    },
+    "issues": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

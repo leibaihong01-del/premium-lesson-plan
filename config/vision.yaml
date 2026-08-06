@@ -1,0 +1,16 @@
+# Vision Provider 配置（V1.1 插件，默认关闭）
+default_provider: ""
+enabled: false
+
+providers:
+  mimo:
+    enabled: false
+    model: mimo-vision
+    base_url: ""
+    endpoint: /vision/analyze
+    api_key_env: MIMO_API_KEY
+    timeout: 30
+    max_retries: 2
+    retry_delay: 1.0
+    input_price_per_1k: 0.0
+    output_price_per_1k: 0.0

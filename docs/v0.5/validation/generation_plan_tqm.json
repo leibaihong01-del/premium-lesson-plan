@@ -1,0 +1,105 @@
+{
+  "schema_version": "0.5.4",
+  "plan_id": "plan_qzh_tqm_v1",
+  "case": "邱志豪",
+  "template_id": "task_book_golden_v1",
+  "golden_reference": {
+    "case_id": "wang_huan_taskbook",
+    "quality_level": "golden",
+    "applicable_scope": [
+      "task_book"
+    ],
+    "reference_features": {
+      "design_goal": {
+        "chars": 246,
+        "non_empty_paragraphs": 6
+      },
+      "design_task": {
+        "chars": 201,
+        "non_empty_paragraphs": 7
+      },
+      "expected_result": {
+        "chars": 224,
+        "non_empty_paragraphs": 11
+      },
+      "pages": 2
+    }
+  },
+  "content_strategy": {
+    "设计目标": {
+      "strategy": "先总后分",
+      "budget": {
+        "chars": [
+          230,
+          260
+        ],
+        "non_empty_paragraphs": 6,
+        "blank_paragraph_slack": 3
+      },
+      "allowed_expand": false
+    },
+    "设计任务": {
+      "strategy": "资料收集→文档撰写→结构原理→检修周期→作业流程→工具材料",
+      "budget": {
+        "chars": [
+          190,
+          220
+        ],
+        "non_empty_paragraphs": 7,
+        "blank_paragraph_slack": 3
+      },
+      "allowed_expand": false
+    },
+    "预期成果": {
+      "strategy": "固定内容，不扩展",
+      "budget": {
+        "chars": 224,
+        "non_empty_paragraphs": 11,
+        "blank_paragraph_slack": 0
+      }
+    },
+    "时间安排": {
+      "strategy": "固定结构，可跨页"
+    },
+    "签字审核区": {
+      "strategy": "固定在第2页，不扩展"
+    }
+  },
+  "page_layout_strategy": {
+    "page1": [
+      "基本信息",
+      "设计目标",
+      "设计任务",
+      "时间安排前段"
+    ],
+    "page2": [
+      "时间安排后段",
+      "预期成果",
+      "签字审核区"
+    ]
+  },
+  "risk_control": [
+    "生成前按容量预算分配内容",
+    "空段落按 slack 预算使用，避免占用第2页",
+    "按列宽估算换行，控制设计任务文本长度",
+    "预期成果与签字区标记为页面保护区域"
+  ],
+  "predicted_outcome": {
+    "pages": 2,
+    "design_goal": {
+      "chars": 238,
+      "non_empty_paragraphs": 6,
+      "blank_paragraph_slack": 1
+    },
+    "design_task": {
+      "chars": 197,
+      "non_empty_paragraphs": 7,
+      "blank_paragraph_slack": 0
+    },
+    "expected_result": {
+      "chars": 224,
+      "non_empty_paragraphs": 11
+    },
+    "risk": "low"
+  }
+}

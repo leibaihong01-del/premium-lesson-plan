@@ -1,0 +1,430 @@
+{
+  "count": 6,
+  "items": [
+    {
+      "paragraph": 110,
+      "text": "GB50157-2013,地铁设计规范[S].北京:中国计划出版社,2013.",
+      "style": "参考文献",
+      "left_indent": null,
+      "first_line_indent": null,
+      "runs": [
+        {
+          "text": "GB50157-2013,",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "地铁设计规范",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "[S].",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "北京",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ":",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "中国计划出版社",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ",2013.",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ]
+    },
+    {
+      "paragraph": 111,
+      "text": "李明.基于事故的地铁电梯预防性维护和故障检修[J].科技资讯,2023(10):45-47.",
+      "style": "参考文献",
+      "left_indent": null,
+      "first_line_indent": null,
+      "runs": [
+        {
+          "text": "李明",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ".",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "基于事故的地铁电梯预防性维护和故障检修",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "[J].",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "科技资讯",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ",2023(10):45-47.",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ]
+    },
+    {
+      "paragraph": 112,
+      "text": "张伟.浅谈城市地铁电梯和自动扶梯系统的选型与维护[J].中国高新技术企业,2018(12):71-73.",
+      "style": "参考文献",
+      "left_indent": null,
+      "first_line_indent": null,
+      "runs": [
+        {
+          "text": "张伟",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ".",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "浅谈城市地铁电梯和自动扶梯系统的选型与维护",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "[J].",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "中国高新技术企业",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ",2018(12):71-73.",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ]
+    },
+    {
+      "paragraph": 113,
+      "text": "王建国.浅析地铁电梯设备故障排除与维修[J].科技资讯,2020(33):54-56.",
+      "style": "参考文献",
+      "left_indent": null,
+      "first_line_indent": null,
+      "runs": [
+        {
+          "text": "王建国",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ".",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "浅析地铁电梯设备故障排除与维修",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "[J].",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "科技资讯",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ",2020(33):54-56.",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ]
+    },
+    {
+      "paragraph": 114,
+      "text": "刘洋.地铁站内电梯设备的机械故障维护措施[J].中国设备工程,2020(16):24-26.",
+      "style": "参考文献",
+      "left_indent": null,
+      "first_line_indent": null,
+      "runs": [
+        {
+          "text": "刘洋",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ".",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "地铁站内电梯设备的机械故障维护措施",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "[J].",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "中国设备工程",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ",2020(16):24-26.",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ]
+    },
+    {
+      "paragraph": 115,
+      "text": "赵伟.加强地铁电梯维护保养与管理预防电梯安全事故[J].城镇建设与规划,2023(7):112-114.",
+      "style": "参考文献",
+      "left_indent": null,
+      "first_line_indent": null,
+      "runs": [
+        {
+          "text": "赵伟",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ".",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "加强地铁电梯维护保养与管理预防电梯安全事故",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "[J].",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": "城镇建设与规划",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        },
+        {
+          "text": ",2023(7):112-114.",
+          "font": null,
+          "east_asia": null,
+          "size_pt": null,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "color": null
+        }
+      ]
+    }
+  ],
+  "rule": "编号[1]开始连续；多行参考文献应保持悬挂缩进"
+}

@@ -1,0 +1,96 @@
+{
+  "dna_version": "v0.2",
+  "template": "defense_record",
+  "sources": [
+    "杨振海优秀版",
+    "王欢人工校正版"
+  ],
+  "table": {
+    "row_height": 12547,
+    "row_height_rule": "atLeast",
+    "column_width_dxa": 9071,
+    "cell_alignment": "top",
+    "cell_margins": null
+  },
+  "paragraphs": {
+    "count": 27,
+    "line_spacing_header": 440,
+    "line_spacing_content": 360,
+    "line_spacing_conclusion": 440,
+    "spacing_before": 0,
+    "spacing_after": 0
+  },
+  "characters": {
+    "student_name": {
+      "font": "宋体",
+      "latin_font": "Times New Roman",
+      "size_half_pt": 24,
+      "bold": false,
+      "italic": false
+    },
+    "student_id": {
+      "font": "宋体",
+      "latin_font": "Times New Roman",
+      "size_half_pt": 24,
+      "bold": false,
+      "italic": false
+    },
+    "class_name": {
+      "font": "宋体",
+      "latin_font": "Times New Roman",
+      "size_half_pt": 24,
+      "bold": false,
+      "italic": false
+    },
+    "topic": {
+      "font": "宋体",
+      "latin_font": "Times New Roman",
+      "size_half_pt": 24,
+      "bold": false,
+      "italic": false
+    },
+    "question": {
+      "font": "宋体",
+      "latin_font": "Times New Roman",
+      "size_half_pt": 24,
+      "bold": false,
+      "italic": false
+    },
+    "answer": {
+      "font": "宋体",
+      "latin_font": "Times New Roman",
+      "size_half_pt": 24,
+      "bold": false,
+      "italic": false
+    },
+    "conclusion": {
+      "font": "宋体",
+      "latin_font": "Times New Roman",
+      "size_half_pt": 24,
+      "label_bold": true,
+      "value_bold": false,
+      "italic": false
+    }
+  },
+  "label_rule": {
+    "rule": "仅标签加粗，值不加粗",
+    "labels": [
+      "学生姓名",
+      "答辩结论"
+    ]
+  },
+  "manual_corrections": [
+    {
+      "item": "table_bottom_height",
+      "before": 12382,
+      "after": 12547,
+      "source": "王欢人工校正版"
+    },
+    {
+      "item": "student_info_bold",
+      "before": "整行加粗",
+      "after": "仅标签加粗，姓名/学号/班级不加粗",
+      "source": "王欢人工校正版"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": "0.7-rqs",
+  "phenomenon": "参考文献存在网页残留与样式覆盖",
+  "direct_cause": "段落级缩进覆盖模板样式，异常字符未清理",
+  "root_cause": "成果生成阶段缺少参考文献区域质量约束",
+  "evidence": {
+    "before_pollution": 10,
+    "paragraph_indent": 6,
+    "style36_incomplete": true
+  }
+}

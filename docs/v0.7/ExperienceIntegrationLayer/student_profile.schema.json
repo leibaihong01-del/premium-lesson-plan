@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "StudentProfile",
+  "type": "object",
+  "required": ["student_name", "student_id", "major", "class", "advisor", "topic"],
+  "properties": {
+    "student_name": { "type": "string" },
+    "student_id": { "type": "string" },
+    "major": { "type": "string" },
+    "class": { "type": "string" },
+    "advisor": { "type": "string" },
+    "topic": { "type": "string" },
+    "direction": { "type": "string" }
+  }
+}

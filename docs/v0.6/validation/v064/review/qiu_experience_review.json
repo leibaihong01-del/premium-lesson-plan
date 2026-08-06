@@ -1,0 +1,73 @@
+{
+  "schema_version": "0.6.5",
+  "review_id": "review_qiu_zhihao_sample_001",
+  "case_id": "qiu_zhihao_problem",
+  "review_status": "candidate",
+  "case_info": {
+    "document_type": "task_book",
+    "template_type": "task_book_golden_v1",
+    "source": "V0.6.4自动闭环评测",
+    "task_features": {
+      "major": "电梯系统",
+      "topic": "太平街口站电梯常见故障分析与检修方案设计",
+      "topic_chars": 20
+    }
+  },
+  "problem": {
+    "original": {
+      "pages": 3
+    },
+    "target": {
+      "pages": 2
+    },
+    "problem_layer": "template_space_constraint"
+  },
+  "root_cause_analysis": {
+    "phenomenon": "总页数溢出，实际3页/模板2页",
+    "direct_cause": "内容高度超过区域容量",
+    "root_cause": "生成阶段未控制内容密度和空段预算",
+    "evidence": [
+      "render_check.pdf",
+      "problem_snapshot_input.pdf",
+      "revised_v2.pdf"
+    ]
+  },
+  "solution_analysis": {
+    "strategy": "按空段预算收敛并复核换行估算",
+    "rationale": "空段占用固定页容量，局部调整即可恢复2页",
+    "generality": "适用于固定页模板空间约束问题，需多案例验证"
+  },
+  "result_validation": {
+    "before_pages": 3,
+    "after_pages": 2,
+    "rounds": 1,
+    "template_ok": true,
+    "protected_regions_ok": true
+  },
+  "candidate_experience": {
+    "name": "固定页模板生成前空段预算控制",
+    "applicable_scope": [
+      "task_book",
+      "fixed_page_word_template"
+    ],
+    "problem_pattern": "总页数溢出",
+    "root_cause_pattern": "生成阶段未控制内容密度和空段预算",
+    "solution": "按空段预算收敛并复核换行估算",
+    "validation_cases": [
+      "邱志豪任务书"
+    ],
+    "status": "candidate"
+  },
+  "review_items": {
+    "problem_authentic": "通过",
+    "root_cause_accurate": "通过",
+    "strategy_general": "通过（需多案例验证）",
+    "result_reproducible": "通过",
+    "recommend_freeze": "建议（需独立验证）"
+  },
+  "boundary": {
+    "no_tqm_change": true,
+    "no_stable_rule": true,
+    "no_long_term_knowledge": true
+  }
+}

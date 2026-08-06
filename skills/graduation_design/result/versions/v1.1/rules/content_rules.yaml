@@ -1,0 +1,18 @@
+# 内容规则（通用）
+rules:
+  - id: CONTENT-001
+    rule: 禁用科研式表达（本文/本研究/研究对象等）
+    source: 王欢/汪子涵
+    validation: 已验证
+  - id: CONTENT-002
+    rule: 虚拟车站不得绑定真实城市/线路/运营网络
+    source: 王欢/汪子涵
+    validation: 已验证
+  - id: CONTENT-003
+    rule: 专业表达按方向加载词库，核心术语支持同义词
+    source: 汪子涵
+    validation: 已验证（候选升级）
+  - id: CONTENT-004
+    rule: 课题与任务书一致、结构覆盖、逻辑闭环
+    source: 王欢/汪子涵
+    validation: 已验证

@@ -1,0 +1,40 @@
+{
+  "schema_version": "0.7-output-naming-v1",
+  "sense_name": "Output Naming Sense",
+  "scope": "所有毕业设计材料",
+  "checks": [
+    {
+      "id": "file_name_format",
+      "name": "文件名规范",
+      "rule": "编号 + 空格 + 学生姓名 + 空格 + 文档名称 + 空格 + 毕业设计题目"
+    },
+    {
+      "id": "student_name_consistency",
+      "name": "学生姓名一致性",
+      "rule": "文件名与 StudentProjectRegistry 学生姓名一致"
+    },
+    {
+      "id": "topic_consistency",
+      "name": "毕业设计题目一致性",
+      "rule": "文件名与 StudentProjectRegistry 课题一致"
+    },
+    {
+      "id": "document_code",
+      "name": "编号正确性",
+      "rule": "编号代表文档类型，禁止随机编号"
+    },
+    {
+      "id": "directory_structure",
+      "name": "目录结构",
+      "rule": "06_输出成果/专业方向/学生姓名_毕业设计材料/"
+    },
+    {
+      "id": "student_isolation",
+      "name": "学生隔离",
+      "rule": "不同学生文件不得混放"
+    }
+  ],
+  "output": "output_validation_report.json",
+  "status": ["pass", "fail", "unknown"],
+  "principle": "文件输出必须经过内容生成、质量检查、命名检查、目录整理、最终交付"
+}

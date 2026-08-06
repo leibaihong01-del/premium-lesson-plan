@@ -1,0 +1,51 @@
+{
+  "schema_version": "0.7-gov",
+  "governance_record": {
+    "experience_id": "",
+    "source_candidate_id": "",
+    "evidence_verification": {
+      "source_file_exists": null,
+      "source_version": null,
+      "source_verified": false,
+      "parse_reliable": false,
+      "evidence_files": []
+    },
+    "generalization_check": {
+      "case_count": 0,
+      "single_case": false,
+      "multi_case": false,
+      "transferable": false,
+      "scope": []
+    },
+    "conflict_detection": {
+      "conflicts": [],
+      "conflict_type": "new_vs_old | same_domain | none"
+    },
+    "lifecycle": {
+      "status": "candidate | evidence_checked | validated_experience | stable_knowledge | invalid | deprecated",
+      "transitions": []
+    },
+    "audit": {
+      "checked_at": "",
+      "checked_by": "ExperienceGovernanceAgent",
+      "human_approved": false
+    }
+  },
+  "rules": {
+    "invalid_if": [
+      "source_verified=false",
+      "parse_reliable=false",
+      "conflict_unresolved"
+    ],
+    "validated_if": [
+      "evidence_checked",
+      "multi_case",
+      "human_approved"
+    ],
+    "stable_if": [
+      "validated_experience",
+      "no_conflict",
+      "long_term_stable"
+    ]
+  }
+}

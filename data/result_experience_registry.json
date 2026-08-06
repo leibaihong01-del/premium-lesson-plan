@@ -1,0 +1,76 @@
+{
+  "registry_version": "0.7-result-registry-v1",
+  "document_type": "result",
+  "note": "成果经验注册表；缺失必须标记 missing，禁止伪加载",
+  "template_source": "02 杨振海 毕业设计成果 黄兴南路站AFC闸机设备检修方案设计.docx",
+  "experiences": [
+    {
+      "experience_id": "result_tkm_001",
+      "name": "Result TKM",
+      "source_files": ["CourseAgent/skills/graduation_design/result/rules/template_schema.json"],
+      "status": "available",
+      "phase": "template_understanding",
+      "impact": "成果模板结构约束"
+    },
+    {
+      "experience_id": "golden_case_wanghuan_001",
+      "name": "Golden Case Experience（王欢成果）",
+      "source_files": ["CourseAgent/skills/graduation_design/result/memory/golden_cases/wanghuan.md"],
+      "status": "available",
+      "phase": "planning",
+      "impact": "成果质量对照"
+    },
+    {
+      "experience_id": "reference_quality_sense_001",
+      "name": "Reference Quality Sense",
+      "source_files": [
+        "CourseAgent/skills/graduation_design/result/memory/reference_quality_experience.json",
+        "CourseAgent/docs/v0.7/ReferenceQualitySense/reference_quality_sense_schema.json"
+      ],
+      "status": "available",
+      "phase": "quality",
+      "impact": "参考文献视觉一致性检查"
+    },
+    {
+      "experience_id": "document_quality_sense_schema_001",
+      "name": "Document Quality Sense",
+      "source_files": ["CourseAgent/docs/v0.6/DocumentQualitySense/quality_sense_schema.json"],
+      "status": "available",
+      "phase": "quality",
+      "impact": "页面语义/空间/阅读逻辑检查"
+    },
+    {
+      "experience_id": "result_rules_set_001",
+      "name": "成果规则集（排版/目录/表格/内容/学院）",
+      "source_files": [
+        "CourseAgent/skills/graduation_design/result/rules/typography.yaml",
+        "CourseAgent/skills/graduation_design/result/rules/toc_rules.yaml",
+        "CourseAgent/skills/graduation_design/result/rules/table_rules.yaml",
+        "CourseAgent/skills/graduation_design/result/rules/content_rules.yaml",
+        "CourseAgent/skills/graduation_design/result/rules/college_rules.yaml",
+        "CourseAgent/skills/graduation_design/result/rules/audit_rules.json"
+      ],
+      "status": "available",
+      "phase": "planning",
+      "impact": "成果格式/目录/表格/内容/学院约束"
+    },
+    {
+      "experience_id": "result_quality_memory_001",
+      "name": "Result Quality Memory",
+      "source_files": [],
+      "status": "missing",
+      "phase": "planning",
+      "missing_note": "result_quality_memory.json 尚未创建",
+      "impact": "成果章节规划与质量约束"
+    },
+    {
+      "experience_id": "academic_requirement_001",
+      "name": "Academic Requirement Knowledge Model",
+      "source_files": [],
+      "status": "missing",
+      "phase": "validation",
+      "missing_note": "ARKM 尚未创建",
+      "impact": "学院要求符合性检查"
+    }
+  ]
+}

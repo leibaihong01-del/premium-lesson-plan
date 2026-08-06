@@ -1,0 +1,82 @@
+{
+  "audit_version": "0.7-audit-v1",
+  "knowledge_isolated": true,
+  "entry_point": {
+    "actual": ["V0.3 v03模块", "V0.7临时验证脚本"],
+    "declared_skill": ["graduation_design.result", "EvaluationFormGenerationSkill", "DefenseRecordGenerationSkill"],
+    "v04": false,
+    "v06_enabled": false,
+    "v07_skill_executable": false
+  },
+  "missing_integrations": [
+    {
+      "id": "M001",
+      "capability": "Result Template Knowledge Model",
+      "artifact": "result/rules/template_schema.json",
+      "status": "已固化未调用",
+      "current_use": "无代码加载",
+      "integration_target": "ResultGenerationSkill runner 的 Template Understanding 节点"
+    },
+    {
+      "id": "M002",
+      "capability": "Result Quality Memory",
+      "artifact": "未发现独立 result_quality_memory.json；规则散落在 result/rules",
+      "status": "未固化完整，未调用",
+      "current_use": "无",
+      "integration_target": "建立 result_quality_memory.json 并注入 Generation Planning / Quality Sense"
+    },
+    {
+      "id": "M003",
+      "capability": "Document Quality Sense",
+      "artifact": "docs/v0.6/DocumentQualitySense/quality_sense_schema.json",
+      "status": "已设计未实现执行器",
+      "current_use": "完整包使用自写基础检查",
+      "integration_target": "实现 DocumentQualitySense executor 并接入 Final Validation"
+    },
+    {
+      "id": "M004",
+      "capability": "Reference Quality Sense",
+      "artifact": "docs/v0.7/ReferenceQualitySense；result/memory/reference_quality_experience.json",
+      "status": "已固化未调用",
+      "current_use": "无",
+      "integration_target": "实现 ReferenceQualitySense executor 并接入成果生成后检查"
+    },
+    {
+      "id": "M005",
+      "capability": "Golden Case Experience",
+      "artifact": "result/memory/golden_cases/wanghuan.md",
+      "status": "已固化未调用",
+      "current_use": "无",
+      "integration_target": "经验加载层读取并转换为可比较的质量特征"
+    },
+    {
+      "id": "M006",
+      "capability": "任务书页面语义布局经验",
+      "artifact": "00_系统配置/模块/v06（enabled=false）+ 经验固化报告",
+      "status": "已固化未启用",
+      "current_use": "完整包未调用 v06 规划/诊断链",
+      "integration_target": "TaskBookSkill runner 加载 Page Semantic Layout Invariant"
+    },
+    {
+      "id": "M007",
+      "capability": "Evaluation Form Skill",
+      "artifact": "skills/graduation_design/evaluation_form",
+      "status": "仅文档骨架",
+      "current_use": "临时脚本硬编码规则",
+      "integration_target": "封装可执行 fill/check 入口并加载 TKM + Quality Memory"
+    },
+    {
+      "id": "M008",
+      "capability": "Defense Record Skill",
+      "artifact": "skills/graduation_design/defense_record",
+      "status": "仅文档骨架",
+      "current_use": "临时脚本硬编码规则",
+      "integration_target": "封装可执行 fill/check 入口并加载 TKM + Quality Memory"
+    }
+  ],
+  "declared_vs_actual": {
+    "experience_used_record.json": "声明使用 Result Quality Memory 等",
+    "actual_loading": "生成脚本未以编程方式加载经验文件",
+    "conclusion": "报告记录不等于链路调用"
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "registry_version": "0.7-registry-v1",
+  "base": "课程材料优化项目根目录",
+  "note": "只登记真实存在的经验文件；缺失项标记 missing，禁止伪调用",
+  "experiences": [
+    {
+      "experience_id": "task_book_tkm_001",
+      "name": "任务书模板知识模型",
+      "document_types": [
+        "task_book"
+      ],
+      "source_files": [
+        "毕业设计智能制作工作区/00_系统配置/模块/v06/data/template_knowledge_model_taskbook.json"
+      ],
+      "status": "validated_experience",
+      "phase": "template_understanding",
+      "judgment": "按模板结构、页面容量、表格约束理解任务书",
+      "strategy": "生成前加载TKM作为结构约束",
+      "applicable_scope": [
+        "毕业设计任务书"
+      ],
+      "impact": "任务书结构与页面规划约束"
+    },
+    {
+      "experience_id": "task_book_quality_memory_001",
+      "name": "任务书质量记忆",
+      "document_types": [
+        "task_book"
+      ],
+      "source_files": [
+        "毕业设计智能制作工作区/00_系统配置/模块/v06/data/quality_memory_taskbook.json"
+      ],
+      "status": "validated_experience",
+      "phase": "planning",
+      "judgment": "依据黄金案例特征判断页面语义与内容密度",
+      "strategy": "规划生成时参考黄金特征",
+      "applicable_scope": [
+        "毕业设计任务书"
+      ],
+      "impact": "内容密度与页面语义规划"
+    },
+    {
+      "experience_id": "page_semantic_layout_001",
+      "name": "页面语义布局经验",
+      "document_types": [
+        "task_book"
+      ],
+      "source_files": [
+        "CourseAgent/docs/v0.6/validation/v064/quality_optimization/page_layout_quality_experience_validated.json"
+      ],
+      "status": "validated_experience",
+      "phase": "quality",
+      "judgment": "设计目标与设计任务同页，预期成果与设计进程、签字区域同页",
+      "strategy": "生成后校验页面语义不变量",
+      "applicable_scope": [
+        "毕业设计任务书"
+      ],
+      "impact": "页面语义完整性检查"
+    },
+    {
+      "experience_id": "document_quality_sense_schema_001",
+      "name": "Document Quality Sense Schema",
+      "document_types": [
+        "task_book",
+        "result",
+        "evaluation_form",
+        "defense_record"
+      ],
+      "source_files": [
+        "CourseAgent/docs/v0.6/DocumentQualitySense/quality_sense_schema.json"
+      ],
+      "status": "design_schema",
+      "phase": "quality",
+      "judgment": "基于结构化数据执行质量判断",
+      "strategy": "按Schema执行单文件质量感知",
+      "applicable_scope": [
+        "全部毕业设计文档"
+      ],
+      "impact": "单文件质量检查"
+    },
+    {
+      "experience_id": "result_tkm_001",
+      "name": "成果模板知识模型",
+      "document_types": [
+        "result"
+      ],
+      "source_files": [
+        "CourseAgent/skills/graduation_design/result/rules/template_schema.json"
+      ],
+      "status": "validated_experience",
+      "phase": "template_understanding",
+      "judgment": "成果为内容驱动型文档，需按学校模板结构理解",
+      "strategy": "生成前加载成果模板Schema",
+      "applicable_scope": [
+        "毕业设计成果"
+      ],
+      "impact": "成果模板符合性约束"
+    },
+    {
+      "experience_id": "result_quality_memory_001",
+      "name": "成果质量记忆",
+      "document_types": [
+        "result"
+      ],
+      "source_files": [],
+      "status": "missing",
+      "phase": "planning",
+      "judgment": "待从成果规则与黄金案例提炼",
+      "strategy": "P2建立result_quality_memory.json后加载",
+      "applicable_scope": [
+        "毕业设计成果"
+      ],
+      "impact": "成果章节规划与质量约束",
+      "missing_note": "result_quality_memory.json 尚未创建"
+    },
+    {
+      "experience_id": "reference_quality_sense_001",
+      "name": "Reference Quality Sense",
+      "document_types": [
+        "result"
+      ],
+      "source_files": [
+        "CourseAgent/skills/graduation_design/result/memory/reference_quality_experience.json",
+        "CourseAgent/docs/v0.7/ReferenceQualitySense/reference_quality_sense_schema.json"
+      ],
+      "status": "long_term_knowledge",
+      "phase": "quality",
+      "judgment": "多行参考文献首行与续行未形成统一视觉层级",
+      "strategy": "依据模板样式调整悬挂缩进",
+      "applicable_scope": [
+        "毕业设计成果",
+        "参考文献区域"
+      ],
+      "impact": "参考文献视觉一致性检查"
+    },
+    {
+      "experience_id": "golden_case_wanghuan_001",
+      "name": "黄金案例经验（王欢成果）",
+      "document_types": [
+        "result"
+      ],
+      "source_files": [
+        "CourseAgent/skills/graduation_design/result/memory/golden_cases/wanghuan.md"
+      ],
+      "status": "validated_experience",
+      "phase": "planning",
+      "judgment": "黄金案例沉淀可迁移质量规律",
+      "strategy": "作为成果质量参考与回归基准",
+      "applicable_scope": [
+        "毕业设计成果"
+      ],
+      "impact": "成果质量对照"
+    },
+    {
+      "experience_id": "evaluation_form_tkm_001",
+      "name": "成绩评定表模板知识模型",
+      "document_types": [
+        "evaluation_form"
+      ],
+      "source_files": [
+        "CourseAgent/docs/v0.7/EvaluationForm/evaluation_form_template_knowledge_model.json"
+      ],
+      "status": "validated_experience",
+      "phase": "template_understanding",
+      "judgment": "16x13主表、签字区域、成绩汇总完整",
+      "strategy": "模板填充前加载TKM",
+      "applicable_scope": [
+        "毕业设计成绩评定表"
+      ],
+      "impact": "表格结构与区域保护"
+    },
+    {
+      "experience_id": "evaluation_form_quality_memory_001",
+      "name": "成绩评定表质量记忆",
+      "document_types": [
+        "evaluation_form"
+      ],
+      "source_files": [
+        "CourseAgent/docs/v0.7/EvaluationForm/evaluation_form_quality_memory.json"
+      ],
+      "status": "quality_memory",
+      "phase": "planning",
+      "judgment": "16x13结构保持、签字区域不可移动、字符样式继承",
+      "strategy": "填充时应用质量约束",
+      "applicable_scope": [
+        "毕业设计成绩评定表"
+      ],
+      "impact": "表结构与样式继承检查"
+    },
+    {
+      "experience_id": "defense_record_tkm_001",
+      "name": "答辩记录表模板知识模型",
+      "document_types": [
+        "defense_record"
+      ],
+      "source_files": [
+        "CourseAgent/docs/v0.7/EvaluationForm/defense_record_template_knowledge_model.json"
+      ],
+      "status": "validated_experience",
+      "phase": "template_understanding",
+      "judgment": "单表结构、提问回答区域、答辩结论、记录人保留",
+      "strategy": "模板填充前加载TKM",
+      "applicable_scope": [
+        "毕业设计答辩记录表"
+      ],
+      "impact": "区域完整性与单表结构"
+    },
+    {
+      "experience_id": "defense_record_quality_memory_001",
+      "name": "答辩记录表质量记忆",
+      "document_types": [
+        "defense_record"
+      ],
+      "source_files": [
+        "CourseAgent/docs/v0.7/EvaluationForm/defense_record_quality_memory.json"
+      ],
+      "status": "quality_memory",
+      "phase": "planning",
+      "judgment": "单表结构保持、结论与记录区域保护、字符样式继承",
+      "strategy": "填充时应用质量约束",
+      "applicable_scope": [
+        "毕业设计答辩记录表"
+      ],
+      "impact": "区域完整性与样式继承检查"
+    },
+    {
+      "experience_id": "output_naming_sense_001",
+      "name": "Output Naming Sense",
+      "document_types": [
+        "task_book",
+        "result",
+        "evaluation_form",
+        "defense_record"
+      ],
+      "source_files": [
+        "CourseAgent/skills/document_management/output_naming_sense_schema.json"
+      ],
+      "status": "rule",
+      "phase": "validation",
+      "judgment": "文件名、编号、目录、学生隔离符合规范",
+      "strategy": "生成后执行命名检查",
+      "applicable_scope": [
+        "全部毕业设计文档"
+      ],
+      "impact": "交付命名与目录规范"
+    },
+    {
+      "experience_id": "academic_requirement_001",
+      "name": "Academic Requirement Knowledge Model",
+      "document_types": [
+        "result"
+      ],
+      "source_files": [],
+      "status": "missing",
+      "phase": "validation",
+      "judgment": "待从学院文件与评分标准提炼",
+      "strategy": "P6建立ARKM后加载",
+      "applicable_scope": [
+        "毕业设计成果"
+      ],
+      "impact": "学院要求符合性检查",
+      "missing_note": "ARKM 尚未创建"
+    },
+    {
+      "experience_id": "document_dna_parser",
+      "name": "Document DNA 解析能力",
+      "document_types": [
+        "result",
+        "task_book",
+        "evaluation_form",
+        "defense_record"
+      ],
+      "source_files": [
+        "CourseAgent\\docs\\v0.7\\DocumentDNA\\Document_Structure.json",
+        "CourseAgent\\docs\\v0.7\\DocumentDNA\\Style_DNA.json",
+        "CourseAgent\\docs\\v0.7\\DocumentDNA\\Character_Rule.json",
+        "CourseAgent\\docs\\v0.7\\DocumentDNA\\Table_DNA.json",
+        "CourseAgent\\docs\\v0.7\\DocumentDNA\\Reference_Rule.json",
+        "CourseAgent\\docs\\v0.7\\DocumentDNA\\TOC_Rule.json",
+        "CourseAgent\\docs\\v0.7\\DocumentDNA\\Visual_Baseline.json"
+      ],
+      "status": "candidate",
+      "active_in_production": false,
+      "phase": "understanding",
+      "judgment": "优秀成果对象级解析生成生成/检测/视觉基准",
+      "strategy": "加载Document DNA作为生成约束与质量基准",
+      "applicable_scope": [
+        "毕业设计成果",
+        "毕业设计任务书",
+        "成绩评定表",
+        "答辩记录表",
+        "教案",
+        "课程标准"
+      ],
+      "impact": "结构/样式/表格/参考文献/视觉一致性",
+      "missing_note": "candidate，待多案例验证"
+    }
+  ]
+}

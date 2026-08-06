@@ -1,0 +1,165 @@
+﻿{
+  "golden": {
+    "label": "GOLDEN",
+    "sections": [
+      {
+        "section": 1,
+        "titlePg": false,
+        "evenAndOddHeaders": false,
+        "headerReferences": [],
+        "footerReferences": [],
+        "pgSz": [
+          "11906",
+          "16838"
+        ],
+        "pgMar": [
+          "1984",
+          "1417",
+          "1417",
+          "1417"
+        ],
+        "pgNumType": null,
+        "breakType": null
+      },
+      {
+        "section": 2,
+        "titlePg": false,
+        "evenAndOddHeaders": false,
+        "headerReferences": [],
+        "footerReferences": [],
+        "pgSz": [
+          "11906",
+          "16838"
+        ],
+        "pgMar": [
+          "1417",
+          "1417",
+          "1417",
+          "1417"
+        ],
+        "pgNumType": null,
+        "breakType": null
+      },
+      {
+        "section": 3,
+        "titlePg": false,
+        "evenAndOddHeaders": false,
+        "headerReferences": [],
+        "footerReferences": [],
+        "pgSz": [
+          "11906",
+          "16838"
+        ],
+        "pgMar": [
+          "1417",
+          "1134",
+          "1134",
+          "1417"
+        ],
+        "pgNumType": "w:fmt=\"decimal\"",
+        "breakType": null
+      },
+      {
+        "section": 4,
+        "titlePg": false,
+        "evenAndOddHeaders": false,
+        "headerReferences": [],
+        "footerReferences": [],
+        "pgSz": [
+          "11906",
+          "16838"
+        ],
+        "pgMar": [
+          "1417",
+          "1417",
+          "1417",
+          "1417"
+        ],
+        "pgNumType": "w:fmt=\"decimal\" w:start=\"1\"",
+        "breakType": null
+      }
+    ],
+    "footers_page": {
+      "word/footer1.xml": 0,
+      "word/footer2.xml": 1,
+      "word/footer3.xml": 0,
+      "word/footer4.xml": 0,
+      "word/footer5.xml": 2
+    },
+    "sections_count": 4,
+    "page_fields_total": 19,
+    "settings_updateFields": false
+  },
+  "v1.4": {
+    "label": "V1.4",
+    "sections": [
+      {
+        "section": 1,
+        "titlePg": false,
+        "evenAndOddHeaders": false,
+        "headerReferences": [],
+        "footerReferences": [],
+        "pgSz": [
+          "11906",
+          "16838"
+        ],
+        "pgMar": [
+          "1984",
+          "1417",
+          "1417",
+          "1417"
+        ],
+        "pgNumType": null,
+        "breakType": null
+      },
+      {
+        "section": 2,
+        "titlePg": false,
+        "evenAndOddHeaders": false,
+        "headerReferences": [],
+        "footerReferences": [],
+        "pgSz": [
+          "11906",
+          "16838"
+        ],
+        "pgMar": [
+          "1417",
+          "1417",
+          "1417",
+          "1417"
+        ],
+        "pgNumType": null,
+        "breakType": null
+      },
+      {
+        "section": 3,
+        "titlePg": false,
+        "evenAndOddHeaders": false,
+        "headerReferences": [],
+        "footerReferences": [],
+        "pgSz": [
+          "11906",
+          "16838"
+        ],
+        "pgMar": [
+          "1417",
+          "1417",
+          "1417",
+          "1417"
+        ],
+        "pgNumType": "w:fmt=\"decimal\" w:start=\"1\"",
+        "breakType": null
+      }
+    ],
+    "footers_page": {
+      "word/footer2.xml": 1,
+      "word/footer1.xml": 1,
+      "word/footer5.xml": 2,
+      "word/footer4.xml": 0,
+      "word/footer3.xml": 0
+    },
+    "sections_count": 3,
+    "page_fields_total": 4,
+    "settings_updateFields": true
+  }
+}

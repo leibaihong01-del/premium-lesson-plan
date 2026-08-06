@@ -1,0 +1,14 @@
+﻿{
+  "freeze_name": "Result_TemplateInstanceBuilder_Baseline_v0.2",
+  "type": "TemplateInstanceBuilder Validation Baseline",
+  "purpose": "验证黄金模板实例化能力",
+  "not": "最终成果生产版本",
+  "assets": [
+    "王欢_毕业设计成果_模板迁移验证版.docx",
+    "王欢_毕业设计成果_模板迁移验证版.pdf",
+    "result_template_migration_validation_report.md",
+    "result_pipeline_split_note.md"
+  ],
+  "frozen_at": "2026-08-06T02:00:53",
+  "note": "后续开发必须基于本基线，禁止直接修改"
+}

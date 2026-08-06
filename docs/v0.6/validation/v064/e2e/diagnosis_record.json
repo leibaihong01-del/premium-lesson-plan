@@ -1,0 +1,13 @@
+{
+  "schema_version": "0.5.7",
+  "diagnosis_id": "diag_qiu_zhihao_e2e_final",
+  "case_id": "qiu_zhihao_e2e_final",
+  "phenomenon": "无 violation/deviation",
+  "direct_cause": null,
+  "root_cause": null,
+  "problem_layer": null,
+  "evidence_chain": [],
+  "confidence": "high",
+  "adjustment_strategy": "无需调整",
+  "status": "no_action"
+}

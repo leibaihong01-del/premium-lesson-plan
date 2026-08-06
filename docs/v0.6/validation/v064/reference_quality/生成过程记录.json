@@ -1,0 +1,12 @@
+{
+  "steps": [
+    "load_validated_experience",
+    "patch_template",
+    "wrap_clean",
+    "call_writer",
+    "render_pdf",
+    "quality_check"
+  ],
+  "writer": "v04 writer with experience context",
+  "output": "D:\\\\Users\\\\leibaihong\\\\Desktop\\\\课程材料优化\\毕业设计智能制作工作区\\06_输出成果\\V0.6_邱志豪成果经验驱动生成\\邱志豪毕业设计成果_经验驱动生成版.docx"
+}

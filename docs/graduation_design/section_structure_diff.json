@@ -1,0 +1,57 @@
+﻿{
+  "template_section_count": 4,
+  "generated_section_count": 3,
+  "template_sections": [
+    {
+      "prev": "2026年10月",
+      "next": "毕业设计真实性承诺及指导教师声明",
+      "pos": "paragraph",
+      "titlePg": false,
+      "evenAndOddHeaders": false
+    },
+    {
+      "prev": "毕业设计真实性承诺及指导教师声明",
+      "next": "目  录",
+      "pos": "paragraph",
+      "titlePg": false,
+      "evenAndOddHeaders": false
+    },
+    {
+      "prev": "目  录",
+      "next": "1  引  言",
+      "pos": "paragraph",
+      "titlePg": false,
+      "evenAndOddHeaders": false
+    },
+    {
+      "prev": "刘洋.基于状态监测的地铁AFC设备预防性维护策略[J].城市轨道交通技术,2024(2):56-60.",
+      "next": "BODY_END",
+      "pos": "body",
+      "titlePg": false,
+      "evenAndOddHeaders": false
+    }
+  ],
+  "generated_sections": [
+    {
+      "prev": "2026年10月",
+      "next": "毕业设计真实性承诺及指导教师声明",
+      "pos": "paragraph",
+      "titlePg": false,
+      "evenAndOddHeaders": false
+    },
+    {
+      "prev": "毕业设计真实性承诺及指导教师声明",
+      "next": "目  录",
+      "pos": "paragraph",
+      "titlePg": false,
+      "evenAndOddHeaders": false
+    },
+    {
+      "prev": "刘洋.AFC系统PHM技术应用与故障预测分析[J].城市轨道交通技术,2023(4):61-65.",
+      "next": "BODY_END",
+      "pos": "body",
+      "titlePg": false,
+      "evenAndOddHeaders": false
+    }
+  ]
+}

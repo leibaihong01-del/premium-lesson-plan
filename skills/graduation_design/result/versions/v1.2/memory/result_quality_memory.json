@@ -1,0 +1,48 @@
+﻿{
+  "memory_id": "result_quality_memory_v1.2",
+  "version": "1.2",
+  "source": "王欢毕业设计成果生成",
+  "problems": [
+    "模板破坏",
+    "事实风险",
+    "参考文献格式问题"
+  ],
+  "strategies": [
+    {
+      "problem": "模板破坏",
+      "rule": "result_template_dna_rules.md"
+    },
+    {
+      "problem": "事实风险",
+      "rule": "result_fact_rules.md"
+    },
+    {
+      "problem": "参考文献格式",
+      "rule": "result_reference_format_rules.md"
+    },
+    {
+      "problem": "内容质量",
+      "rule": "result_content_quality_rules.md"
+    }
+  ],
+  "format_experience": [
+    "模板实例化优先，禁止重新构造字符",
+    "分节保持，禁止新增",
+    "标题层级继承模板"
+  ],
+  "chapter_experience": [
+    "章节逻辑与模板一致",
+    "目录机制保持"
+  ],
+  "content_expression_experience": [
+    "教学案例表达",
+    "禁止虚构数据",
+    "禁止泛化表达"
+  ],
+  "common_errors": [
+    "封面被学生文件覆盖",
+    "标题层级偏移",
+    "字体被强制覆盖",
+    "参考文献格式不统一"
+  ]
+}

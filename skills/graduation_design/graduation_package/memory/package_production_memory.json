@@ -1,0 +1,18 @@
+{
+  "skill": "graduation_package",
+  "version": "v0.1",
+  "created_at": "2026-08-06",
+  "experiences": [
+    "Result 封面字段替换必须覆盖班级与指导教师，否则保留模板1班",
+    "学生信息以毕业设计名单.xlsx 为唯一权威来源",
+    "TaskBook 超页优先删空行、行高auto，目标稳定2页",
+    "WPS/Word 占用输出文件会导致 WinError 32，生成前关闭预览",
+    "跨文件一致性校验必须包含班级字段"
+  ],
+  "validated_case": {
+    "student": "邱志豪",
+    "class": "24级机电技术2班",
+    "topic": "太平街口站电梯常见故障分析与检修方案设计",
+    "result": "五字段四文件一致，TaskBook 2页，Result质量引擎pass"
+  }
+}

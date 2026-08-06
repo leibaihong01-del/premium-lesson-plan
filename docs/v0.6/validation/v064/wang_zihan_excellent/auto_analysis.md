@@ -1,0 +1,1 @@
+# 自动分析报告：wang_zihan_excellent\n\n- 认知模型：已生成\n- 生成计划：已生成\n- Gap Report：0 violation / 0 deviation\n- 诊断：无 violation/deviation\n- 修正计划：无需修正\n- 最终结果：{'pages': 2, 'gap_count': 0, 'passed': True}

@@ -1,0 +1,14 @@
+schema_version: 0.7-eil-config-v1
+experience_integration_enabled: false
+registry_path: data/experience_registry.json
+trace_output_dir: output/experience_traces
+default_document_types:
+  - task_book
+  - result
+  - evaluation_form
+  - defense_record
+policy:
+  allow_temporary_enable: true
+  disable_restores_old_flow: true
+  experience_trace_required: true
+  generation_trace_required: true

@@ -1,0 +1,37 @@
+{
+  "experience_id": "document_dna_parser",
+  "category": "document_intelligence",
+  "status": "candidate",
+  "active_in_production": false,
+  "problem": "优秀成果只有最终文件，缺少对象级结构与人工验收规律，无法形成生成/检测/视觉比对基准",
+  "solution": "对DOCX进行对象级逆向解析并建立Document DNA，覆盖结构/样式/字符/表格/参考文献/TOC/页面视觉",
+  "applicable_scope": [
+    "毕业设计成果",
+    "毕业设计任务书",
+    "成绩评定表",
+    "答辩记录表",
+    "教案",
+    "课程标准"
+  ],
+  "parser_logic": [
+    "DOCX对象级解析：Section/Paragraph/Run",
+    "Style继承解析：Normal/Heading/正文/参考文献/表注",
+    "Run级字符解析：字体/字号/加粗/标点/隐藏字符",
+    "表格递归解析：Table/Caption/Header/Cell/Paragraph/Run",
+    "表注/表头/表格正文分层解析",
+    "参考文献识别纠偏：按文本进入引用区，不依赖样式误判",
+    "TOC域检测：instrText TOC字段",
+    "PDF视觉基线：页数/文本区域/表格/图片坐标"
+  ],
+  "validation_method": "与人工验收报告对照；新生成成果回归；字段证据来源可追溯",
+  "source_files": [
+    "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\docs\\v0.7\\DocumentDNA\\Document_Structure.json",
+    "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\docs\\v0.7\\DocumentDNA\\Style_DNA.json",
+    "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\docs\\v0.7\\DocumentDNA\\Character_Rule.json",
+    "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\docs\\v0.7\\DocumentDNA\\Table_DNA.json",
+    "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\docs\\v0.7\\DocumentDNA\\Reference_Rule.json",
+    "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\docs\\v0.7\\DocumentDNA\\TOC_Rule.json",
+    "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\docs\\v0.7\\DocumentDNA\\Visual_Baseline.json"
+  ],
+  "evidence": "邱志豪最终验收版 Document DNA 解析"
+}

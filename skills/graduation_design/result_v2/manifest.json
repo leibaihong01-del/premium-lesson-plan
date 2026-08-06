@@ -1,0 +1,11 @@
+{
+  "skill": "graduation_design.result_v2",
+  "version": "2.0",
+  "status": "formal",
+  "strategy_role": "Result Production Strategy",
+  "runner": "CourseAgent/core/graduation_skill_runners.py::ResultSkillRunner",
+  "generator": "v03/result_reference_builder.py + 封面字段移植 + 字体规范",
+  "experiences": ["Result TKM", "Golden Case Experience", "Reference Quality Sense", "Document Quality Sense"],
+  "quality_pipeline": "CourseAgent/core/result_quality_pipeline.py",
+  "validated_cases": ["汪子涵", "戴吉祥"]
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "0.6.5",
+  "candidate_id": "candidate_reference_layout_integrity_v2_001",
+  "baseline": "杨振海毕业设计成果模板",
+  "evidence_quality": {
+    "source_verified": true,
+    "invalid_previous": "汪子涵分析已标记 invalid_evidence"
+  },
+  "problem": "邱志豪参考文献段落级缩进覆盖模板样式，样式定义依赖继承",
+  "problem_layer": "layout_consistency",
+  "abstract_rule": "毕业设计成果参考文献区域应使用模板参考文献样式与自动编号，悬挂缩进、行距、字体由样式/编号统一控制，避免段落级缩进覆盖",
+  "features": {
+    "golden_indent": "style left=0/hanging=1040/200",
+    "current_indent": "paragraph left=480/hanging=480",
+    "golden_spacing": "style line=440 exact",
+    "current_spacing": "inherited Normal",
+    "alignment_pdf": {
+      "first_x0": 70.8,
+      "continuation_offset": 24
+    }
+  },
+  "classification": {
+    "violation": 0,
+    "deviation": [
+      "paragraph_indent_override",
+      "style_rpr_inherited"
+    ]
+  },
+  "validation_plan": {
+    "case": "邱志豪成果",
+    "acceptance": [
+      "段落级缩进移除",
+      "样式定义完整",
+      "PDF对齐不变"
+    ]
+  },
+  "status": "candidate",
+  "no_freeze": true
+}

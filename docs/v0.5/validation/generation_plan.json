@@ -1,0 +1,47 @@
+{
+  "plan_id": "plan_qzh_taskbook_v1",
+  "case": "邱志豪",
+  "template_id": "task_book_golden_v1",
+  "content_allocation": {
+    "设计目标": {
+      "recommended_chars": "100-245",
+      "recommended_non_empty_paragraphs": "<=6",
+      "allow_expand": false
+    },
+    "设计任务": {
+      "recommended_chars": "150-199",
+      "recommended_non_empty_paragraphs": "<=7",
+      "allow_expand": false
+    },
+    "预期成果": {
+      "fixed_chars": 224,
+      "fixed_non_empty_paragraphs": 11
+    },
+    "时间安排": {
+      "fixed": true
+    }
+  },
+  "page_plan": {
+    "page1": [
+      "基本信息",
+      "设计目标",
+      "设计任务",
+      "时间安排(前半)"
+    ],
+    "page2": [
+      "时间安排(后半)",
+      "预期成果",
+      "签字审核区"
+    ]
+  },
+  "risk_prediction": {
+    "page_overflow_risk": "high",
+    "risk_reason": [
+      "邱志豪课题名20字，超过黄金模板课题名18字，设计目标/设计任务文本宽度可能增加换行",
+      "设计任务实际字数接近容量上限（200/199），且固定页不可扩展",
+      "设计目标/设计任务尾部空段落会挤占第2页预期成果与签字区空间",
+      "预期成果11个非空段落为固定内容，无缩减余量"
+    ]
+  },
+  "recommended_strategy": "plan_then_generate"
+}

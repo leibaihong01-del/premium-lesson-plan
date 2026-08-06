@@ -1,0 +1,32 @@
+{
+  "schema_version": "0.6.5",
+  "candidate_id": "candidate_reference_layout_integrity_001",
+  "source_case": "汪子涵人工优化 vs 邱志豪当前",
+  "problem": "参考文献编号方式与行距与黄金案例不一致",
+  "problem_layer": "layout_consistency",
+  "root_cause": "生成链路未约束参考文献编号方式与行距风格",
+  "abstract_rule": "毕业设计成果参考文献区域应保持统一悬挂缩进与编号层级，保证阅读连续性；编号方式、行距与垂直节奏应与模板/黄金风格统一",
+  "features": {
+    "hanging_indent": 480,
+    "first_line_indent": 0,
+    "continuation_offset": 24,
+    "golden_numbering": "manual_text",
+    "current_numbering": "word_auto",
+    "golden_line_spacing": "atLeast300",
+    "current_line_spacing": "exact440"
+  },
+  "validation_plan": {
+    "case": "邱志豪成果",
+    "acceptance": [
+      "编号方式与黄金一致",
+      "行距与黄金一致",
+      "续行对齐24pt"
+    ]
+  },
+  "status": "candidate",
+  "no_freeze": true,
+  "evidence_quality": {
+    "source_verified": false,
+    "status": "invalid_evidence"
+  }
+}

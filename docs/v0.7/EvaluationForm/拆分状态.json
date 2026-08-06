@@ -1,0 +1,25 @@
+{
+  "template_eval": {
+    "file": "D:/Users/leibaihong/Desktop/课程材料优化\\毕业设计智能制作工作区/02_模板文件/拆分独立模板/杨振海_成绩评定表模板_独立版.docx",
+    "pages": 2,
+    "tables": 1
+  },
+  "template_defense": {
+    "file": "D:/Users/leibaihong/Desktop/课程材料优化\\毕业设计智能制作工作区/02_模板文件/拆分独立模板/杨振海_答辩记录表模板_独立版.docx",
+    "pages": 2,
+    "tables": 1
+  },
+  "case_eval": {
+    "file": "D:/Users/leibaihong/Desktop/课程材料优化\\毕业设计智能制作工作区/06_输出成果/V0.6_王欢成绩评定答辩独立版/王欢_成绩评定表.docx",
+    "pages": 2,
+    "tables": 1,
+    "golden": false
+  },
+  "case_defense": {
+    "file": "D:/Users/leibaihong/Desktop/课程材料优化\\毕业设计智能制作工作区/06_输出成果/V0.6_王欢成绩评定答辩独立版/王欢_答辩记录表.docx",
+    "pages": 1,
+    "tables": 1,
+    "golden": false
+  },
+  "status": "candidate"
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "0.7-arkm-v1",
+  "model_name": "Academic Requirement Knowledge Model",
+  "sources": [
+    "学院毕业设计文件",
+    "学校规范",
+    "评分标准"
+  ],
+  "categories": {
+    "content": {
+      "required_items": ["摘要", "关键词", "目录", "正文", "结论", "参考文献"],
+      "check_type": "presence"
+    },
+    "structure": {
+      "required_sections": [],
+      "check_type": "section_order"
+    },
+    "format": {
+      "font": "string",
+      "page_count_range": {},
+      "check_type": "format"
+    },
+    "quality": {
+      "reference_standard": "优秀成果标准",
+      "check_type": "quality"
+    }
+  },
+  "rules": [
+    {
+      "id": "ARKM-R-001",
+      "category": "content",
+      "requirement": "包含摘要、关键词、目录、正文、结论、参考文献",
+      "source": "学院毕业设计文件",
+      "severity": "required"
+    }
+  ],
+  "compliance_output": "academic_requirement_report.json"
+}

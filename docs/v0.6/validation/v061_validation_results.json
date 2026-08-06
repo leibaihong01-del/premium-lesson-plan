@@ -1,0 +1,29 @@
+[
+  {
+    "case_id": "wang_huan_taskbook",
+    "name": "王欢",
+    "topic_chars": 19,
+    "risk": "low",
+    "golden_reference": "wang_huan_taskbook",
+    "cognitive_model": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\docs\\v0.6\\validation\\wang_huan_taskbook_cognitive_model.json",
+    "generation_plan": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\docs\\v0.6\\validation\\wang_huan_taskbook_generation_plan.json"
+  },
+  {
+    "case_id": "wang_zihan_taskbook",
+    "name": "汪子涵",
+    "topic_chars": 17,
+    "risk": "low",
+    "golden_reference": "wang_huan_taskbook",
+    "cognitive_model": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\docs\\v0.6\\validation\\wang_zihan_taskbook_cognitive_model.json",
+    "generation_plan": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\docs\\v0.6\\validation\\wang_zihan_taskbook_generation_plan.json"
+  },
+  {
+    "case_id": "qiu_zhihao_taskbook",
+    "name": "邱志豪",
+    "topic_chars": 20,
+    "risk": "high",
+    "golden_reference": "wang_huan_taskbook",
+    "cognitive_model": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\docs\\v0.6\\validation\\qiu_zhihao_taskbook_cognitive_model.json",
+    "generation_plan": "D:\\Users\\leibaihong\\Desktop\\课程材料优化\\CourseAgent\\docs\\v0.6\\validation\\qiu_zhihao_taskbook_generation_plan.json"
+  }
+]

@@ -82,5 +82,13 @@
       "format": []
     },
     "loops": null
+  },
+  {
+    "time": "2026-08-02 15:57:04",
+    "file": "城市轨道交通概论第2课",
+    "score": 100.0,
+    "final": "PASS",
+    "issues": {},
+    "loops": 0
   }
 ]

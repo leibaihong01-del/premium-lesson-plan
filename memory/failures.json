@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "time": "2026-08-02 15:42:34",
+    "file": "城市轨道交通概论第2课",
+    "score": 20.8,
+    "final": "REPAIR_REQUIRED",
+    "issues": {
+      "template": [
+        "rows_cols_match_template",
+        "grid",
+        "merges"
+      ],
+      "content": [
+        "90min",
+        "R10_48",
+        "process",
+        "after"
+      ],
+      "teaching": [
+        "思政",
+        "随堂/实操",
+        "分层/实训任务",
+        "岗位情境"
+      ],
+      "format": [
+        "red",
+        "blue",
+        "purple",
+        "title"
+      ]
+    },
+    "loops": 4
+  }
+]

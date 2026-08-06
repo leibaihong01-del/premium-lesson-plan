@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "StudentProjectRegistry",
+  "type": "object",
+  "required": ["registry_version", "major", "directions"],
+  "properties": {
+    "registry_version": {
+      "type": "string"
+    },
+    "major": {
+      "type": "string",
+      "description": "专业名称，例如 城市轨道交通机电技术"
+    },
+    "directions": {
+      "type": "array",
+      "description": "专业方向，不写死数量，可扩展",
+      "items": {
+        "type": "object",
+        "required": ["direction_name", "classes"],
+        "properties": {
+          "direction_name": {
+            "type": "string"
+          },
+          "classes": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["class_name", "students"],
+              "properties": {
+                "class_name": {
+                  "type": "string"
+                },
+                "students": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "required": ["student_name", "student_no", "topic"],
+                    "properties": {
+                      "student_name": {
+                        "type": "string"
+                      },
+                      "student_no": {
+                        "type": "string"
+                      },
+                      "topic": {
+                        "type": "string"
+                      },
+                      "materials": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "required": ["code", "document_type"],
+                          "properties": {
+                            "code": {
+                              "type": "string",
+                              "enum": ["01", "02", "03", "04", "05", "06", "07"]
+                            },
+                            "document_type": {
+                              "type": "string"
+                            },
+                            "filename": {
+                              "type": "string"
+                            },
+                            "status": {
+                              "type": "string",
+                              "enum": ["planned", "generated", "validated", "delivered"]
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

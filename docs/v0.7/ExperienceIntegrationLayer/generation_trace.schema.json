@@ -1,0 +1,28 @@
+{
+  "schema_version": "0.7-generation-trace-v1",
+  "document_type": "string",
+  "skill": "string",
+  "template_source": "string",
+  "experience_loaded": [
+    {
+      "experience_id": "string",
+      "source_file": "string",
+      "phase": "string"
+    }
+  ],
+  "quality_checks": [
+    {
+      "sense": "string",
+      "status": "pass | fail | degraded | unknown",
+      "evidence": {}
+    }
+  ],
+  "revision_actions": [
+    {
+      "action": "string",
+      "reason": "string",
+      "impact": "string"
+    }
+  ],
+  "final_validation": "string"
+}

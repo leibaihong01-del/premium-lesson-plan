@@ -1,0 +1,41 @@
+{
+  "source": "wang_huan_taskbook",
+  "page_layout_invariant": [
+    {
+      "page": 1,
+      "sections": [
+        "设计目标",
+        "设计任务"
+      ],
+      "relation": "same_page"
+    },
+    {
+      "page": 2,
+      "sections": [
+        "设计进程",
+        "预期成果",
+        "签字审核区"
+      ],
+      "relation": "same_page"
+    }
+  ],
+  "no_split_regions": [
+    "设计进程"
+  ],
+  "reading_order": [
+    "基本信息",
+    "设计目标",
+    "设计任务",
+    "设计进程",
+    "预期成果",
+    "签字审核区"
+  ],
+  "visual_balance": {
+    "page1_chars": 571,
+    "page2_chars": 541,
+    "content_area_ratio": [
+      0.64,
+      0.64
+    ]
+  }
+}

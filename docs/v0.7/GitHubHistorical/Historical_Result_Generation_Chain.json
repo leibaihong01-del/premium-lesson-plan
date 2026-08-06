@@ -1,0 +1,20 @@
+{
+  "schema": "0.7-gh-historical-chain-v1",
+  "skill_version": "v1.0-result-baseline",
+  "commit": [
+    "ed58bee",
+    "e30468f"
+  ],
+  "prompt_version": "prompts/manifest.yaml + prompts/translator/system.md（tag v1.0-result-baseline）",
+  "template_version": "02 杨振海 毕业设计成果 黄兴南路站AFC闸机设备检修方案设计.docx",
+  "experience_sources": [
+    "skills/graduation_design/result/memory/golden_cases/wanghuan.md",
+    "skills/graduation_design/result/experience/candidates"
+  ],
+  "generation_entry": "result_reference_builder（模板保真重构）",
+  "quality_gates": [
+    "result/SKILL.md",
+    "quality_rule.yaml",
+    "audit_rules.json"
+  ]
+}

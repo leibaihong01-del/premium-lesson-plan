@@ -1,14 +1,44 @@
 [
-  {
-    "id": "lessons_learned-1",
-    "time": "2026-08-01 03:27:29",
-    "skill": "竞赛Skill",
-    "res": {
-      "passed": false,
-      "score": 83.3,
-      "issues": [
-        "教学结构要素不完整"
-      ]
+    {
+        "id":  "lessons_learned-1",
+        "time":  "2026-08-01 03:27:29",
+        "skill":  "竞赛Skill",
+        "res":  {
+                    "passed":  false,
+                    "score":  83.3,
+                    "issues":  [
+                                   "教学结构要素不完整"
+                               ]
+                }
+    },
+    {
+        "lesson":  "模板结构硬编码（39x6）会导致跨模板 IndexError；检测器改为按模板行列动态适配",
+        "time":  "2026-08-02 15:59:08",
+        "source":  "第2课重新生成"
+    },
+    {
+        "lesson":  "profile auto 缺陷会导致 KeyError；修复为按路由计算档位自适应，节省算力",
+        "time":  "2026-08-02 15:59:08",
+        "source":  "token优化"
+    },
+    {
+        "lesson":  "MiMo 视觉接口为 OpenAI Compatible /chat/completions，返回 Markdown 包裹 JSON，需提取解析",
+        "time":  "2026-08-02 15:59:08",
+        "source":  "MiMo接入"
+    },
+    {
+        "lesson":  "JSON 统一 UTF-8 无 BOM，加载层 utf-8-sig，避免 json.load 失败",
+        "time":  "2026-08-02 15:59:08",
+        "source":  "编码治理"
+    },
+    {
+        "lesson":  "review_cache 命中可把文档评审降为 0.48s 零检测，是最大成本优化点",
+        "time":  "2026-08-02 15:59:08",
+        "source":  "性能测试"
+    },
+    {
+        "lesson":  "每次任务结束必须总结经验、清理无用文件、优化 token，形成进化闭环",
+        "time":  "2026-08-02 15:59:08",
+        "source":  "自主进化"
     }
-  }
 ]

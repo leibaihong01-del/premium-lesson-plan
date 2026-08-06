@@ -1,0 +1,112 @@
+{
+  "template_id": "task_book_golden_v1",
+  "template_type": "task_book",
+  "source": "毕业设计智能制作工作区/02_模板文件/01 杨振海 毕业设计任务书 黄兴南路站AFC闸机设备检修方案设计.docx",
+  "page_constraint": 2,
+  "structure": {
+    "table": {
+      "rows": 18,
+      "cols": 14
+    },
+    "regions": [
+      {
+        "name": "基本信息",
+        "row_range": [
+          0,
+          3
+        ],
+        "fixed": true,
+        "semantic_role": "identity_region"
+      },
+      {
+        "name": "设计目标",
+        "row_index": 4,
+        "fixed": false,
+        "semantic_role": "goal_statement"
+      },
+      {
+        "name": "设计任务",
+        "row_index": 5,
+        "fixed": false,
+        "semantic_role": "task_decomposition"
+      },
+      {
+        "name": "时间安排",
+        "row_range": [
+          6,
+          12
+        ],
+        "fixed": true,
+        "semantic_role": "timeline_section"
+      },
+      {
+        "name": "预期成果",
+        "row_index": 13,
+        "fixed": false,
+        "semantic_role": "output_requirement"
+      },
+      {
+        "name": "签字审核区",
+        "row_range": [
+          14,
+          17
+        ],
+        "fixed": true,
+        "semantic_role": "approval_region"
+      }
+    ]
+  },
+  "space": {
+    "regions": [
+      {
+        "name": "设计目标",
+        "page_expected": 1,
+        "row_height_twips": 3670,
+        "height_rule": "atLeast",
+        "max_chars": 245,
+        "max_non_empty_paragraphs": 6,
+        "blank_paragraph_slack": 3,
+        "allow_expand": false
+      },
+      {
+        "name": "设计任务",
+        "page_expected": 1,
+        "row_height_twips": 5102,
+        "height_rule": "atLeast",
+        "max_chars": 199,
+        "max_non_empty_paragraphs": 7,
+        "blank_paragraph_slack": 3,
+        "allow_expand": false
+      },
+      {
+        "name": "预期成果",
+        "page_expected": 2,
+        "row_height_twips": 795,
+        "height_rule": "atLeast",
+        "max_chars": 224,
+        "max_non_empty_paragraphs": 11,
+        "blank_paragraph_slack": 0,
+        "allow_expand": false
+      }
+    ]
+  },
+  "semantic_roles": {
+    "identity_region": "学生/学院/课题/指导教师信息",
+    "goal_statement": "设计目标表述",
+    "task_decomposition": "设计任务分解",
+    "timeline_section": "固定进度安排",
+    "output_requirement": "成果要求与形式",
+    "approval_region": "签字与审核意见",
+    "field": [
+      "TOC",
+      "PAGE"
+    ]
+  },
+  "invariants": [
+    "总页数=2页",
+    "时间安排结构不可破坏",
+    "表格18行x14列不可变化",
+    "签字审核区固定",
+    "设计目标/设计任务/预期成果必须在各自页容量内"
+  ]
+}

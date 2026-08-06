@@ -1,0 +1,215 @@
+{
+  "rule": "表注位于表格正上方，与表格同页；表注格式 表X.X + 两空格",
+  "captions": [
+    {
+      "table": 0,
+      "caption": null,
+      "caption_paragraph": null
+    },
+    {
+      "table": 1,
+      "caption": null,
+      "caption_paragraph": null
+    },
+    {
+      "table": 2,
+      "caption": "表2-1 电梯系统组成表",
+      "caption_paragraph": {
+        "index": -1,
+        "style": "表注",
+        "text": "表2-1 电梯系统组成表",
+        "chars": 12,
+        "alignment": null,
+        "line_spacing": null,
+        "space_before": 76200,
+        "space_after": 76200,
+        "left_indent": null,
+        "first_line_indent": null,
+        "page_break_before": false,
+        "keep_with_next": false,
+        "runs": [
+          {
+            "text": "表",
+            "font": null,
+            "east_asia": null,
+            "size_pt": null,
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "color": null
+          },
+          {
+            "text": "2-1 ",
+            "font": null,
+            "east_asia": null,
+            "size_pt": null,
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "color": null
+          },
+          {
+            "text": "电梯系统组成表",
+            "font": null,
+            "east_asia": null,
+            "size_pt": null,
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "color": null
+          }
+        ]
+      }
+    },
+    {
+      "table": 3,
+      "caption": "表3-1 电梯常见故障及原因分析表",
+      "caption_paragraph": {
+        "index": -1,
+        "style": "表注",
+        "text": "表3-1 电梯常见故障及原因分析表",
+        "chars": 17,
+        "alignment": null,
+        "line_spacing": null,
+        "space_before": 76200,
+        "space_after": 76200,
+        "left_indent": null,
+        "first_line_indent": null,
+        "page_break_before": false,
+        "keep_with_next": false,
+        "runs": [
+          {
+            "text": "表",
+            "font": null,
+            "east_asia": null,
+            "size_pt": null,
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "color": null
+          },
+          {
+            "text": "3-1 ",
+            "font": null,
+            "east_asia": null,
+            "size_pt": null,
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "color": null
+          },
+          {
+            "text": "电梯常见故障及原因分析表",
+            "font": null,
+            "east_asia": null,
+            "size_pt": null,
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "color": null
+          }
+        ]
+      }
+    },
+    {
+      "table": 4,
+      "caption": "表4-1 电梯检修周期表",
+      "caption_paragraph": {
+        "index": -1,
+        "style": "表注",
+        "text": "表4-1 电梯检修周期表",
+        "chars": 12,
+        "alignment": null,
+        "line_spacing": null,
+        "space_before": 76200,
+        "space_after": 76200,
+        "left_indent": null,
+        "first_line_indent": null,
+        "page_break_before": false,
+        "keep_with_next": false,
+        "runs": [
+          {
+            "text": "表",
+            "font": null,
+            "east_asia": null,
+            "size_pt": null,
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "color": null
+          },
+          {
+            "text": "4-1 ",
+            "font": null,
+            "east_asia": null,
+            "size_pt": null,
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "color": null
+          },
+          {
+            "text": "电梯检修周期表",
+            "font": null,
+            "east_asia": null,
+            "size_pt": null,
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "color": null
+          }
+        ]
+      }
+    },
+    {
+      "table": 5,
+      "caption": "表4-2 电梯日常检查表",
+      "caption_paragraph": {
+        "index": -1,
+        "style": "表注",
+        "text": "表4-2 电梯日常检查表",
+        "chars": 12,
+        "alignment": null,
+        "line_spacing": null,
+        "space_before": 76200,
+        "space_after": 76200,
+        "left_indent": null,
+        "first_line_indent": null,
+        "page_break_before": false,
+        "keep_with_next": false,
+        "runs": [
+          {
+            "text": "表",
+            "font": null,
+            "east_asia": null,
+            "size_pt": null,
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "color": null
+          },
+          {
+            "text": "4-2 ",
+            "font": null,
+            "east_asia": null,
+            "size_pt": null,
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "color": null
+          },
+          {
+            "text": "电梯日常检查表",
+            "font": null,
+            "east_asia": null,
+            "size_pt": null,
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "color": null
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+﻿{
+  "version": "v0.9-candidate-production",
+  "status": "Candidate Production",
+  "defense_checklist": {
+    "template_skeleton": true,
+    "layout_dna": true,
+    "single_page": true,
+    "font_rules": true,
+    "content_optimization": true,
+    "content_compression": true,
+    "docx_pdf_delivery": true
+  },
+  "assets": [
+    {
+      "key": "template_skeleton",
+      "file": "defense_template_skeleton.json"
+    },
+    {
+      "key": "template_dna",
+      "file": "defense_template_dna_v0.2.json"
+    },
+    {
+      "key": "content_optimization_rules",
+      "file": "wanghuan_answer_optimization_v0.1.md"
+    },
+    {
+      "key": "compression_rules",
+      "file": "answer_compression_report.md"
+    },
+    {
+      "key": "regression_report_skeleton",
+      "file": "defense_template_normalizer_report.md"
+    },
+    {
+      "key": "regression_report_dna",
+      "file": "defense_dna_upgrade_report.md"
+    }
+  ],
+  "frozen_at": "2026-08-05T21:35:21",
+  "note": "已冻结基线，后续优化不影响本版"
+}

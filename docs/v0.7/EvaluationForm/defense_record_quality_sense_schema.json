@@ -1,0 +1,39 @@
+{
+  "document_type": "defense_record",
+  "senses": [
+    {
+      "name": "Table Structure Sense",
+      "checks": [
+        "tables",
+        "rows",
+        "cols",
+        "merged"
+      ]
+    },
+    {
+      "name": "Region Integrity Sense",
+      "checks": [
+        "defense_info",
+        "qa",
+        "conclusion",
+        "record"
+      ]
+    },
+    {
+      "name": "Character Style Sense",
+      "checks": [
+        "font",
+        "size",
+        "bold",
+        "italic",
+        "style_inheritance"
+      ]
+    },
+    {
+      "name": "Template Consistency Sense",
+      "checks": [
+        "template_diff"
+      ]
+    }
+  ]
+}

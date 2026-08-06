@@ -1,0 +1,9 @@
+{
+  "experience_id": "validated_reference_format_001",
+  "loaded_before_generation": true,
+  "constraints_applied": [
+    "patched_template_style",
+    "wrapped_clean_for_pollution"
+  ],
+  "post_fix_applied": false
+}

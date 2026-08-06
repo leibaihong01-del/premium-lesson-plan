@@ -1,0 +1,18 @@
+{
+  "profile": "reference_numbering_profile",
+  "version": "1.0",
+  "hanging_indent": "0.74cm",
+  "text_position": "0.74cm",
+  "number_format": "[%1]",
+  "font": "Times New Roman",
+  "cjk_font": "宋体",
+  "size": "小四",
+  "size_half_pt": 24,
+  "generation": {
+    "numbering.xml": "保留模板自动编号体系",
+    "numId": 1,
+    "lvlText": "[%1]",
+    "ind_left": 420,
+    "ind_hanging": 420
+  }
+}

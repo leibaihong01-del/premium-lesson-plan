@@ -1,0 +1,20 @@
+rules:
+  - 保持单表结构
+  - 提问回答区域完整
+  - 答辩结论区域保护
+  - 记录人/日期区域保护
+  - 字符样式继承模板
+  - 不合并成绩评定表
+
+defense_differentiation:
+  status: active
+  version: v0.10
+  profiles:
+    - professional_profile
+    - direction_profile
+    - student_project_profile
+  similarity:
+    - first_sentence_dup
+    - high_frequency_pattern
+    - keyword_overlap
+  safety: no_fabrication_only_reorder_existing_materials

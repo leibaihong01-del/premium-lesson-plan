@@ -1,0 +1,15 @@
+﻿{
+  "checkpoint_id": "CP-2026-08-06-004",
+  "phase": "Result缺陷分析与规则补充",
+  "status": "candidate",
+  "created_at": "2026-08-06",
+  "rules": [
+    "内容迁移边界",
+    "Heading 检查粒度",
+    "DocumentFinalizer",
+    "参考文献检查",
+    "三项DNA 回归"
+  ],
+  "analysis": "docs/graduation_design/result_skill_defect_analysis.md",
+  "preserve": "不覆盖上一稳定版本"
+}

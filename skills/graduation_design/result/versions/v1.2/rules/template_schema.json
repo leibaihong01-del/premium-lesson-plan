@@ -1,0 +1,87 @@
+{
+  "template": "毕业设计成果模板.docx",
+  "pages": 18,
+  "sections": 4,
+  "tables": 6,
+  "fixed_pages": [
+    "封面",
+    "真实性承诺及指导教师声明",
+    "目录",
+    "摘要"
+  ],
+  "heading_rules": {
+    "level1": {
+      "shape": "N",
+      "example": "1 引言",
+      "style": "Heading 1",
+      "font_pt": 16
+    },
+    "level2": {
+      "shape": "N.N",
+      "example": "1.1 设计背景",
+      "style": "Heading 2",
+      "font_pt": 15
+    },
+    "item": {
+      "shape": "（CN）",
+      "example": "（一）主控单元",
+      "style": "正文内容",
+      "font_pt": 12,
+      "bold": true
+    },
+    "reference": {
+      "style": "参考文献",
+      "font_pt": 12
+    }
+  },
+  "body": {
+    "font_pt": 12.0,
+    "east_asia": "宋体",
+    "ascii": "Times New Roman"
+  },
+  "title": {
+    "font_pt": 16.0,
+    "bold": true,
+    "align": "center",
+    "east_asia": "黑体"
+  },
+  "schema_level": "structure",
+  "structure": [
+    {
+      "section": "封面",
+      "type": "fixed"
+    },
+    {
+      "section": "真实性承诺及指导教师声明",
+      "type": "fixed"
+    },
+    {
+      "section": "目录",
+      "type": "auto_generate"
+    },
+    {
+      "section": "摘要",
+      "type": "dynamic"
+    },
+    {
+      "section": "正文",
+      "type": "dynamic",
+      "rules": {
+        "title_level": true,
+        "paragraph_style": true
+      }
+    },
+    {
+      "section": "总结",
+      "type": "dynamic"
+    },
+    {
+      "section": "参考文献",
+      "type": "special"
+    },
+    {
+      "section": "附录",
+      "type": "optional"
+    }
+  ]
+}

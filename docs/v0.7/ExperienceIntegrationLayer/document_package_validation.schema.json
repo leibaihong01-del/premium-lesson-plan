@@ -1,0 +1,31 @@
+{
+  "schema_version": "0.7-package-validation-v1",
+  "student_profile": {
+    "student_name": "string",
+    "student_id": "string",
+    "topic": "string"
+  },
+  "documents": [
+    {
+      "code": "01",
+      "document_type": "毕业设计任务书",
+      "filename": "string",
+      "exists": true,
+      "naming_ok": true,
+      "identity_ok": true,
+      "topic_ok": true,
+      "template_ok": true,
+      "pdf_ok": true
+    }
+  ],
+  "consistency": {
+    "name_consistent": true,
+    "student_id_consistent": true,
+    "major_consistent": true,
+    "class_consistent": true,
+    "advisor_consistent": true,
+    "topic_consistent": true
+  },
+  "package_status": "pass | fail",
+  "issues": ["string"]
+}

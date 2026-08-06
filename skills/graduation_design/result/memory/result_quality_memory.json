@@ -1,0 +1,113 @@
+{
+    "memory_id":  "result_quality_memory_v1.2",
+    "version":  "1.2",
+    "source":  "王欢毕业设计成果生成",
+    "problems":  [
+                     "模板破坏",
+                     "事实风险",
+                     "参考文献格式问题"
+                 ],
+    "strategies":  [
+                       {
+                           "problem":  "模板破坏",
+                           "rule":  "result_template_dna_rules.md"
+                       },
+                       {
+                           "problem":  "事实风险",
+                           "rule":  "result_fact_rules.md"
+                       },
+                       {
+                           "problem":  "参考文献格式",
+                           "rule":  "result_reference_format_rules.md"
+                       },
+                       {
+                           "problem":  "内容质量",
+                           "rule":  "result_content_quality_rules.md"
+                       }
+                   ],
+    "format_experience":  [
+                              "模板实例化优先，禁止重新构造字符",
+                              "分节保持，禁止新增",
+                              "标题层级继承模板"
+                          ],
+    "chapter_experience":  [
+                               "章节逻辑与模板一致",
+                               "目录机制保持"
+                           ],
+    "content_expression_experience":  [
+                                          "教学案例表达",
+                                          "禁止虚构数据",
+                                          "禁止泛化表达",
+                                          "专科毕业设计禁止学术表达：本文、本研究、本课题、本论文、实验结果表明、研究对象、笔者、该研究、课题研究",
+                                          "正文标点全角化，参考文献保持半角",
+                                          "中文引号必须宋体渲染：中文Run的ascii/hAnsi/eastAsia均设宋体并加hint=eastAsia",
+                                          "标题纯样式继承，避免目录更新被直接字体污染"
+                                      ],
+    "common_errors":  [
+                          "封面被学生文件覆盖",
+                          "标题层级偏移",
+                          "字体被强制覆盖",
+                          "参考文献格式不统一"
+                      ],
+    "production_mode":  {
+                            "status":  "frozen_v1.5",
+                            "flow":  [
+                                         "StudentProfile",
+                                         "DocumentPackage",
+                                         "TemplateInstanceBuilder",
+                                         "ContentAdapter",
+                                         "Visual Baseline"
+                                     ],
+                            "style_priority":  "黄金模板样式 \u003e Result规则 \u003e 来源内容格式",
+                            "acceptance":  [
+                                               "Structural Compliance",
+                                               "Visual Compliance"
+                                           ],
+                            "baseline":  "Result_TemplateInstanceBuilder_Baseline_v0.2 (A)",
+                            "unique_output":  "result_production_strategy_v1.5.md（唯一）"
+                        },
+    "production_path":  {
+                            "unique_path":  "result_v1.4_pipeline.py（v1.5 规则）",
+                            "validated_by":  [
+                                                 "?? v0.2",
+                                                 "??? ????"
+                                             ],
+                            "rule":  "毕业设计成果模板迁移必须基于黄金模板实例化，禁止重新构造模板或复制来源格式",
+                            "subject_consistency":  "虚构站点禁止出现真实城市地铁网络/线路名，正文改写为某轨道交通线路/某地铁某线路，封面校名保留"
+                        },
+    "defect_rules_v1.3preparation":  [
+                                         "内容迁移只迁移内容",
+                                         "标题编号由模板提供",
+                                         "目录最终化（DocumentFinalizer）",
+                                         "回归以三项DNA为准，页数仅记录",
+                                         "生成后回溯比较v0.2",
+                                         "版本追踪与生产闭环"
+                                     ],
+    "unique_result_strategy_v1.3":  {
+                                        "status":  "confirmed",
+                                        "strategy":  "result_production_strategy_v1.3.md",
+                                        "flow":  [
+                                                     "TemplateInstanceBuilder",
+                                                     "ContentAdapter",
+                                                     "DocumentFinalizer",
+                                                     "RegressionValidator",
+                                                     "Output",
+                                                     "Memory"
+                                                 ],
+                                        "visual_dna":  [
+                                                           "标题双空格",
+                                                           "表格继承模板",
+                                                           "参考文献自动编号+悬挂420",
+                                                           "目录最终化"
+                                                       ]
+                                    },
+    "v1.5_rules":  [
+                       "封面等模板固定区域禁止被正文格式规则覆盖（封面标题保持模板字号）",
+                       "两字一级标题两字中间空两格（如：引  言、总  结）",
+                       "正文表格使用模板 Normal Table(18)、宽4998pct，单元格用表格内容(33)、宋体/TNR五号、水平垂直居中",
+                       "表注编号格式为表X.Y，样式表注，宋体/TNR五号，keepNext",
+                       "正文与内容表格清洗真实线路名：长沙地铁/长沙轨道交通→某轨道交通线路",
+                       "中文标点（引号/逗号/括号等）Run需ascii=宋体+hint=eastAsia，PDF实测字体确认",
+                       "质量引擎run_fonts允许宋体/微软雅黑，禁止把宋体Run误判为非法字体"
+                   ]
+}
